@@ -32,7 +32,7 @@ _For information on applying for this rank, visit [this page](https://github.com
 Developers do exactly what it says, develop for the server. They are in charge of making needed modifications to plugins and services. Developers are also given access as collaborators on the
 GitHub organization page, allowing them to edit projects.
 <br>
-There are only four developer admins, and one lead developer.
+There are only four Developer Admins, and one Lead Developer.
 <br>
 _Admins for this rank are hand-picked._
 
@@ -40,7 +40,7 @@ _Admins for this rank are hand-picked._
 Executives are in charge of all other admin ranks, except for the owner. They have the ability to suspend disobedient or rogue administrators, and even ban them if required. They are also
 in charge of marketing the server to players when the owners are unable to.
 <br>
-There are only four executive admins.
+There are only four Executive Admins.
 <br>
 _Admins for this rank are hand-picked._
 
@@ -48,6 +48,5 @@ _Admins for this rank are hand-picked._
 The owners are in charge of the whole server. They can make decisions like adding and removing plugins, adding and removing non-applicable ranks, and even redesigning the whole server if
 wanted. The Server Owner is the highest level of administrator in the rank system.
 <br>
-There are only two owners.
+There is only one owner.
 <br>
-_This rank cannot be applied for or hand-picked._
