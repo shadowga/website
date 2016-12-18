@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Server guidelines
-permalink: /docs/servrules/
+permalink: /docs/basics/servrules/
 ---
 Our server attempts to have the feeling of freedom and equality for all players. To keep that freedom, we must create rules that set the guidelines for right and wrong on our server.
 
