@@ -25,13 +25,13 @@ a {
   transition: border-color 0.2s, color 0.2s;
 }
 a:hover {
-  border-color: #E7672E;
-  color: #E7672E;
+  border-color: #c0392b;
+  color: #c0392b;
 }
 
 h2 {
   font-size: 36px;
-  color: #E7672E;
+  color: #c0392b;
   font-weight: normal;
 }
 
@@ -52,7 +52,7 @@ h2 {
 
 .Header {
   overflow: hidden;
-  border-top: 6px solid #E7742E;
+  border-top: 6px solid #c0392b;
   padding: 30px 0;
 }
 .Header-brand {
@@ -77,7 +77,7 @@ h2 {
   display: inline-block;
 }
 .Header-nav a.active {
-  color: #E7742E;
+  color: #c0392b;
 }
 
 @include respond-to(handhelds) {
