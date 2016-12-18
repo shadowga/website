@@ -5,15 +5,12 @@ permalink: /docs/
 ---
 Shadow.GA is a modern creative server for Minecraft. We give all players every command they need to powerfully build and enjoy our server without meeting any requirements.
 
-Flarum is developed openly on [GitHub](https://github.com/flarum/flarum).
+## Features
+We aim to provide the best expirence for every player on our server. This means adding useful features and big changes depending on what they want in a server. Several extensions are installed, from essential commands like WorldEdit to customisation interfaces.
 
-## Goals
+- **Fast and simple.** Players can come on the server and build whenever they want. We have no time restrictions and there is no application required to become a part the community and start contributing.
 
-Flarum is the combined successor of [esoTalk](http://esotalk.org) and [FluxBB](http://fluxbb.org). It aims to be:
-
-- **Fast and simple.** No clutter, no bloat, no complex dependencies. Flarum is built with PHP so it's quick and easy to deploy. The interface is powered by Mithril, a performant JavaScript framework with a tiny footprint.
-
-- **Beautiful and responsive.** This is forum software for humans. Flarum is carefully designed to be consistent and intuitive across platforms, out-of-the-box. It's backed by LESS, so themeing is a cinch.
+- **Do anything you want.** Our server has the least possible amount of rules to give our players a feeling of freedom. There are no restrictions to what you can build, we just ask that your builds mind other people. We respect privacy, so players are allowed to build as close or as far away from the starting point as they want.
 
 - **Powerful and extensible.** Customize, extend, and integrate Flarum to suit your community. Flarum's architecture is amazingly flexible, prioritizing comprehensive APIs and great documentation.
 
