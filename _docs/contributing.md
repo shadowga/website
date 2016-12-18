@@ -1,29 +1,52 @@
 ---
 layout: docs
-title: Contributing
-permalink: /docs/contributing/
+title: Server guidelines
+permalink: /docs/servrules/
 ---
-## Reporting Bugs
+Our server attempts to have the feeling of freedom and equality for all players. To keep that freedom, we must create rules that set the guidelines for right and wrong on our server.
 
-Thank you for helping us test Flarum. We're happy to have you on the team! We need people who can *troubleshoot issues patiently* and *communicate them clearly*. As you probably know, good bug reporting takes some time and effort. If you're fine with that, then let's get started!
+Keep in mind that really obvious rules may not be stated here. Use common sense on the server at all times. You can get in trouble for something that isn't directly stated in a conduct policy.
 
-Found a bug already? Wonderful! We'd love to hear about it &mdash; but first you should check around to make sure you're not wasting your time on a known issue:
+## Bannable offenses
+These offenses can result in a twenty-four-hour ban or greater.
+They may also result in permanent ban if repeated noticeably by the same player.
 
-- Search our [Support forum](http://discuss.flarum.org/t/support) to see if it's already been reported.
-- We could be working on a fix, so search our [issue tracker](https://github.com/flarum/core/issues) too.
+ - Purpously crashing or corrupting any world on the server in any way.
+ - Mass griefing or "unrecoverable actions", mostly occurring in WorldEdit.
+ - Flooding the server with chat messages, accounts, or using DDOS/DOS methods against the server.
+ - Using harmful hack client methods (crash books, forceop signs, etc.) against a player or the server.
+ - Using harmful items (crash potions, crash chests, etc.) against a player or the server.
+ - Posing or attempting to log in as admins or known players.
+ - Using collected or "spambot" accounts (this includes accounts recieved from alt dispensers) to log in.
+ - Bypassing ban with an alternate account, and/or bypassing IP ban with a proxy/VPS.
+ - Referring or linking to malicious, pornographic, or hate content in chat (you can PM someone with their consent).
+ - Committing rogue activity as a higher rank or administrator (this includes abuse, or breaking rules with knowledge).
+ - Threatening real-life harm to yourself or another player (including suicidal threats and suicide notes).
 
-If you've searched *thoroughly* and come up empty-handed, we'll welcome your report. If it's just a simple issue (a misspelled word or graphics glitch, for example) skip to the next paragraph. But if you're seeing errors, or something is clearly broken, we'll need you to gather some information first. Please head over to our [Troubleshooting](http://flarum.org/docs/troubleshooting/) guide and follow the instructions there. Collect as much info as you can!
+## Temporarily bannable offenses
+These offenses can result in a smite, verbal warning, or short-time ban if done lightly (ex. breaking only six
+blocks in someone's build).
+They may also result in a twenty-four-hour ban or greater (ex. griefing someone's build massively on purpose, or WorldEdit grief).
 
-Okay, time to get writing. Head back to the [Support forum](http://discuss.flarum.org/t/support) and start a new discussion. Be sure to give it a title that's clear and concise, and then explain the problem thoroughly. Don't forget to mention:
+ - Griefing, damaging, or building on other's property (regardless if you repaired it or not).
+ - Advertising your server IP or a website in public chat.
+ - Using "trolling" techniques on admins or other players.
+ - Using a nickname that could offend someone else.
+ - Any act towards racism, sexism, and hate crime (offending a lot of people could result in permban).
+ - Falsely reporting other players or attempting to frame a player (including admins).
+ - Comments that are potentially sexist, racist, homophobic, or directed to offend or anger a player known on the server (hatred towards a player or their religion/beliefs counts).
+ - Teleporting to players without permission (admins have the right to teleport without given permission to do their job). This also includes modifying another player's tptoggle.
+ - Announcing the IP (Internet Provider) address of any admin or player in public chat, or in message without the owner of that IP's consent.
+ - Using offensive tags or nicknames designed to anger or offend (a good example would be using "FuckAllAdmins"), or nicking others without their permission.
+ - Tampering with the inventories of other players without their permission, or spamming inventories with items.
+ - Changing the WorldEdit limit without permission from an admin.
+ - Begging for an administrative rank.
 
-- What you were doing when the problem occurred
-- All the information you gathered while troubleshooting
-- Anything you can tell us about your server environment
+## Allowed
+These actions are allowed unless told otherwise by an administrator.
 
-Remember: the goal of a bug report is to make it easy for us to replicate the bug and fix it. You might want to read [this article](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html) for some useful tips on how to write an effective bug report. And please take a moment or two to format your post so it's easy to tell what's what.
-
-Once you've posted your report, we'd ask that you please *follow the discussion* that you created and wait patiently. We may need to ask for further details or clarification; but we've always got plenty to do, and it could be a while before we can give your report the time it deserves.
-
-## Contributing Code
-
-Check out the [Contributing Guide](https://github.com/flarum/flarum/blob/master/CONTRIBUTING.md).
+ - Curse and/or swear, this server is welcome to all ages therefore we do not censor worded profanity.
+ - Build artistic nudity and symbolistic demonstrations of intercourse if it's mentioned as NSFW (not safe for work).
+ - Publicly roleplay on the server (only if you're not spamming).
+ - Using hacked mods and clients that are not harmful to other players or the server.
+ - Using a proxy or VPN to cloak your IP (only if you're not bypassing IP ban).
