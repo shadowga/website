@@ -3,7 +3,7 @@ layout: docs
 title: Introduction
 permalink: /docs/
 ---
-Flarum is free, open-source forum software with a focus on simplicity. You can use Flarum to easily [set up a discussion forum]({{ site.baseurl }}/docs/installation) for your website.
+Shadow.GA is a modern creative server for Minecraft. We give all players every command they need to powerfully build and enjoy our server without meeting any requirements.
 
 Flarum is developed openly on [GitHub](https://github.com/flarum/flarum).
 
