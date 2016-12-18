@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Introduction
-permalink: /docs/
+permalink: /docs/basics
 ---
 Shadow.GA is a modern creative server for Minecraft. We give all players every command they need to powerfully build and enjoy our server without meeting any requirements.
 
