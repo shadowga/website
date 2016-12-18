@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: 1b. Forum guidelines
+title: 1c. Forum guidelines
 permalink: /docs/1/c-forumrules/
 ---
 Our forum attempts to have the feeling of freedom and equality for all members. To keep that freedom, we must create rules that set the guidelines for right and
