@@ -1,10 +1,10 @@
-- title: Preface
+- title: Learning the basics
   docs:
   - 
   - contributing
   - faq
 
-- title: Using Flarum
+- title: Admin information
   docs:
   - installation
   - languages
