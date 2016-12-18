@@ -21,8 +21,6 @@ Telnet Admins are given the same commands as Super Admins, however they can use 
 This is useful for on-the-go devices such as phones, which have apps supporting telnet.
 <br>
 _For information on applying for this rank, visit [this page](https://github.com/ShadowGA/shadowga.github.io/wiki/Applying-for-Telnet-Admin)._
-<br>
-_For information on using Telnet, visit [this page](https://github.com/shadowga/shadowga.github.io/wiki/Using-Telnet)._
 
 ## Senior Admin
 Senior Admins have all the abilities as the above ranks. They are also given extra commands that are blocked to the default admin rank, such as global commands like `/time` and `/weather`.
