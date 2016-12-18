@@ -18,32 +18,3 @@ class: home
     </div>
   </div>
 </header>
-
-  {% include team.html %}
-  
-  {% include actions.html %}
-</div>
-
-<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-<script>
-  $(function() {
-    var $carousel = $('.Carousel');
-    $carousel.wrapInner($('<div class="CarouselGroup"/>'));
-    var $group = $('.CarouselGroup');
-    var $group2 = $group.clone().appendTo($carousel);
-
-    var animate = function() {
-      $group.css({marginLeft: 0}).animate({marginLeft: -$group.width()}, 70000, 'linear').promise().done(function() {
-        animate();
-      });
-    };
-
-    animate();
-
-    if (window.devicePixelRatio > 1) {
-      var $screenshot = $('.Home-screenshot img');
-
-      $screenshot.attr('src', $screenshot.attr('src').replace('.', '_2x.'));
-    }
-  });
-</script>
