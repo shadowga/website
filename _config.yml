@@ -4,7 +4,7 @@ email: shadowarmadyl@outlook.com
 description: "Shadow.GA is a creative Minecraft server where everyone gets operator commands. It's simple, fast, and free."
 baseurl: ""
 url: "https://shadow.ga"
-twitter_username: ShadowGADev
+twitter_username: shadowgadev
 google_analytics_id: UA-44566935-2
 kramdown:
   input: GFM
