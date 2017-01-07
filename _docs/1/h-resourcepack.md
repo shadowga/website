@@ -35,4 +35,4 @@ You have now completed all the steps and your resource pack should be fully work
 ## Help or suggestions
 As we said above, this is an open-source project so the administration team welcomes any suggestions and we will try our best to help if you are expirencing difficulties.
 Make a forum discussion about your suggestion or question and we will assist you as soon as possible.
-Ensure your thread about the resource pack is using the "resource pack" sub-tag.
+Ensure any discussions related to our resource pack is using the "resource pack" sub-tag.
