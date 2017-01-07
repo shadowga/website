@@ -25,7 +25,3 @@ You may now move the folder into your Minecraft installation like any other reso
 When the resource pack is installed, you can activate like all other resource packs in the Minecraft options.
 It may take up to a minute for your game to initialize the textures, and then you should be returned to the options menu.
 You have now completed all the steps and your resource pack should be fully working as you join any server.
-
-## Help or suggestions
-As we said above, this is an open-source project so the administration team welcomes any suggestions and we will try our best to help if you are expirencing difficulties.
-Make a forum discussion about your suggestion or question and we will assist you as soon as possible.
