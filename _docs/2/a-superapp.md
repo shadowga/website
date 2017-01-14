@@ -8,7 +8,7 @@ Super Admin is the basic administrator rank. They are given banning and smiting
 abilities, and full access to grief logging plugins. Super Admins are also allowed
 to use some commands that are blocked to operators, such as `/tpo` and `/say`.
 
-This rank can be applied for by the default rank, however there are requirements that have to be met to obtain Super Admin.
+This rank can be applied for by the default rank; however, there are requirements that have to be met to obtain Super Admin.
 
 ## Requirements
 * You must have been active on the server for over thirty days (unless told otherwise by an Executive or higher).
