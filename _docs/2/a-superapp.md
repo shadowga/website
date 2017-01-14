@@ -4,7 +4,6 @@ title: 1h. Server resource pack
 permalink: /docs/1/h-resourcepack/
 ---
 
-<span class="mega-octicon octicon-git-pull-request"></span>
 Super Admin is the basic administrator rank. They are given banning and smiting
 abilities, and full access to grief logging plugins. Super Admins are also allowed
 to use some commands that are blocked to operators, such as `/tpo` and `/say`.
