@@ -5,7 +5,7 @@ permalink: /docs/2/b-telnetapp/
 ---
 
 Telnet Admins are given the same commands as Super Admins, but they can use features like the telnet server.
-Our telnet server allows admins to administrate, even when they are not on Minecraft.
+Our telnet server allows admins to control the server even when they are not on Minecraft.
 This is useful for on-the-go devices such as phones, which have apps supporting it.
 
 This rank can be applied for by Super Admins, however there are requirements that have to be met to obtain Telnet Admin.
