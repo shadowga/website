@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1h. Server resource pack
-permalink: /docs/1/h-resourcepack/
+title: 2a. Applying for Super Admin
+permalink: /docs/2/a-superapp/
 ---
 
 Super Admin is the basic administrator rank. They are given banning and smiting
