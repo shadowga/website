@@ -12,9 +12,7 @@
 - title: 2. Applying for admin
   docs:
   - 2/a-superapp
-  - languages
-  - troubleshooting
-  - api
+  - 2/b-telnetapp
 
 - title: Building Extensions
   docs:
