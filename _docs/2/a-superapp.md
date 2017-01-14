@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: 2a. Applying for Super Admin
-permalink: /docs/2/a-superapp
+permalink: /docs/2/a-superapp/
 ---
 
 Super Admin is the basic administrator rank. They are given banning and smiting
