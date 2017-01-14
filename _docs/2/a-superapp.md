@@ -20,6 +20,6 @@ This rank can be applied for by the default rank; however, there are requirement
 ## Applying
 Super Admin can be applied for by filling out a short and quick form.
 After that form is completed, your application will be read and reviewed.
-If we approve your application, the forum account you used in the application will be added to admin.
+If we approve your application, the forum account you used in the form will be added to admin.
 <br>
 _To apply for Super Admin, fill out the form [here](https://shadowga.typeform.com/to/Isw5L0)._
