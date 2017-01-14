@@ -16,8 +16,8 @@ This rank can be applied for by Super Admins; however, there are requirements th
 * You must have basic knowledge of Telnet and how it works.
 
 ## Applying
-Telnet Admin can be applied for by filling out a short and quick form, just like Super Admin.
+Telnet Admin can be applied for by filling out a short and quick form.
 After that form is completed, your application will be read and reviewed.
-If we approve your application, the forum account you used in the application will be added to Telnet Admin.
+If we approve your application, the forum account you used in the form will be added to Telnet Admin.
 <br>
 _To apply for Telnet Admin, fill out the form [here](https://shadowga.typeform.com/to/XqQ3gy)._
