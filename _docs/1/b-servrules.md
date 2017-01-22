@@ -29,7 +29,7 @@ blocks in someone's build).
 They may also result in a twenty-four-hour ban or greater (ex. griefing someone's build massively on purpose, or WorldEdit grief).
 
  - Griefing, damaging, or building on other's property (regardless if you repaired it or not).
- - Plagarism of builds and copying player's builds without their consent.
+ - Plagarism of content and copying player's builds without their consent.
  - Advertising your server IP or a website in public chat.
  - Using "trolling" techniques on admins or other players.
  - Using a nickname that could offend someone else.
