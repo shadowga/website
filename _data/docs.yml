@@ -9,18 +9,16 @@
   - 1/g-banappeals
   - 1/h-resourcepack
 
-- title: 2. Applying for admin
+- title: 2. Contributing
   docs:
   - 2/a-superapp
-  - 2/b-telnetapp
 
-- title: Building Extensions
+- title: 3. Applying for admin
   docs:
-  - extend
-  - extend/start
-  - extend/internationalize
+  - 3/a-superapp
+  - 3/b-telnetapp
 
-- title: Translating Flarum
+- title: 4. Admin information
   docs:
   - translate
   - translate/packaging
