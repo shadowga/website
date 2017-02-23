@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1h. Server resource pack
-permalink: /docs/1/h-resourcepack/
+title: 1g. Server resource pack
+permalink: /docs/1/g-resourcepack/
 ---
 
 Our server uses a custom resource pack that gives builders the ability to add more detail in their creations.
