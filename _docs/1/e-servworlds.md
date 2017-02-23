@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1f. Server worlds
-permalink: /docs/1/f-servworlds/
+title: 1e. Server worlds
+permalink: /docs/1/e-servworlds/
 ---
 We have different types of worlds so operators may choose the environment they would like their build in.
 
