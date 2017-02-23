@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1e. Server ranks
-permalink: /docs/1/e-servranks/
+title: 1d. Server ranks
+permalink: /docs/1/d-servranks/
 ---
 To enforce the server rules, we have set up a small group of server administrators. They are given administrative tools, such as banning and grief logging, to keep the
 server from going out of control. The default rank can apply for these ranks once they meet the requirements.
