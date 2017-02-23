@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1g. Appealing a ban
-permalink: /docs/1/g-banappeals/
+title: 1f. Appealing a ban
+permalink: /docs/1/f-banappeals/
 ---
 You can appeal a ban if at least one of the following are true:
 
