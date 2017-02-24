@@ -14,6 +14,7 @@ This rank can be applied for by the default rank; however, there are requirement
 * You must have been active on the server for over thirty days (unless told otherwise by an Executive or higher).
 * You must know the conduct policy and documentation.
 * You must have not been banned (accidental bans don't count) for at least twenty days.
+* You must have a Discord account connected to the chat server.
 * You must have basic knowledge of the English language and grammar.
 * You must be willing to devote time to the server.
 
