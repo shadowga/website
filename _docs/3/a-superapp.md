@@ -15,7 +15,7 @@ This rank can be applied for by the default rank; however, there are requirement
 * You must know the conduct policy and documentation.
 * You must have not been banned (accidental bans don't count) for at least twenty days.
 * You must have a Discord account connected to the chat server.
-* You must have basic knowledge of the English language and grammar.
+* You must have an adequate understanding of the English language (use proper spelling and grammar).
 * You must be willing to devote time to the server.
 
 ## Applying
