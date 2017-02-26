@@ -23,4 +23,4 @@ Super Admin can be applied for by filling out a short and quick form.
 After that form is completed, your application will be read and reviewed.
 If we approve your application, the forum account you used in the form will be added to admin.
 <br>
-_To apply for Super Admin, fill out the form [here](https://shadowga.typeform.com/to/Isw5L0)._
+_To apply for Super Admin, fill out the form [here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=FWM82LFV53MKE&lc=US&item_name=Shadow%2eGA&item_number=shadowga%2ddonate%2d1&currency_code=USD&bn=PP%2dDonationsBF%3adonate%2epng%3aNonHosted)._
