@@ -20,11 +20,11 @@ Usually people suggest big changes like introducing a new feature, but people ca
 Suggestions may or may not be accepted depending on how much of a change they would make and how you could implement it.
 
 ## Requirements
- - You must have a forum account.
- - You must make sure that nobody has made a discussion about your same topic.
- - A clear description of the problem or what you want to suggest.
- - If this is an issue, please ensure that the problem is reproducible.
- - If this is a suggestion, please describe how your proposal would benefit us.
+* You must have a forum account.
+* You must make sure that nobody has made a discussion about your same topic.
+* A clear description of the problem or what you want to suggest.
+* If this is an issue, please ensure that the problem is reproducible.
+* If this is a suggestion, please describe how your proposal would benefit us.
 
 ## How to do it
 To reveal an issue, you may start a discussion with the 'development' topic on our forum.
