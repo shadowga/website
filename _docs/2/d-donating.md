@@ -22,8 +22,6 @@ Receiving donations helps soften the difficulty of paying a large sum every mont
 Donating for the server is easy.
 We use the PayPal donation method so members from all around the world can feel free to contribute.
 Members can donate any amount they want (no matter how small) and pay using a PayPal account or with a credit card.
-<br>
-_To make a donation, visit [this page](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=FWM82LFV53MKE&lc=US&item_name=Shadow%2eGA&item_number=shadowga%2ddonate%2d1&currency_code=USD&bn=PP%2dDonationsBF%3adonate%2epng%3aNonHosted)._
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations">
@@ -35,6 +33,7 @@ _To make a donation, visit [this page](https://www.paypal.com/cgi-bin/webscr?cmd
 <input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHosted">
 <table>
 <tr><td><input type="hidden" name="on0" value="What is your forum tag?">What is your forum tag? (example: @username)</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+<br>
 <tr><td><input type="hidden" name="on1" value="What is your Discord tag?">What is your Discord tag? This is case sensitive. (example: @username#1234)</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
 </table>
 <br>
