@@ -4,16 +4,12 @@ title: 3a. Applying for Super Admin
 permalink: /docs/3/a-superapp/
 ---
 
-Super Admin is the basic administrator rank. They are given banning and smiting
-abilities, and full access to grief logging plugins. Super Admins are also allowed
-to use some commands that are blocked to operators, such as `/tpo` and `/say`.
-
-This rank can be applied for by the default rank; however, there are requirements that have to be met to obtain Super Admin.
+Super Admin can be applied for by the default rank but there are requirements that have to be met to obtain Super Admin.
 
 ## Requirements
-* You must have been active on the server for over thirty days (unless told otherwise by an Executive or higher).
+* You must have had a forum account for thirty days (unless told otherwise by an Executive or higher).
 * You must know the conduct policy and documentation.
-* You must have not been banned (accidental bans don't count) for at least twenty days.
+* You must have not been banned (accidental bans don't count) on the server or forum for at least twenty days.
 * You must have a Discord account connected to the chat server.
 * You must have an adequate understanding of the English language (use proper spelling and grammar).
 * You must be willing to devote time to the server.
