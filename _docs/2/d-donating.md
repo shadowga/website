@@ -24,3 +24,19 @@ We use the PayPal donation method so members from all around the world can feel 
 Members can donate any amount they want (no matter how small) and pay using a PayPal account or with a credit card.
 <br>
 _To make a donation, visit [this page](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=FWM82LFV53MKE&lc=US&item_name=Shadow%2eGA&item_number=shadowga%2ddonate%2d1&currency_code=USD&bn=PP%2dDonationsBF%3adonate%2epng%3aNonHosted)._
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="FWM82LFV53MKE">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="Shadow.GA">
+<input type="hidden" name="button_subtype" value="services">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHosted">
+<table>
+<tr><td><input type="hidden" name="on0" value="What is your forum tag?">What is your forum tag? (example: @username)</td></tr><tr><td><input type="text" name="os0" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on1" value="What is your Discord tag?">What is your Discord tag? This is case sensitive. (example: @username#1234)</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+</table>
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
