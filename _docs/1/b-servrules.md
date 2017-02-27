@@ -11,13 +11,13 @@ Keep in mind that really obvious rules may not be stated here. Use common sense 
 These offenses can result in a twenty-four-hour ban or greater.
 They may also result in permanent ban if repeated noticeably by the same player.
 
- - Purpously crashing or corrupting any world on the server in any way.
+ - Purposely crashing or corrupting any world on the server in any way.
  - Mass griefing or "unrecoverable actions", mostly occurring in WorldEdit.
  - Flooding the server with chat messages, accounts, or using DDOS/DOS methods against the server.
  - Using harmful hack client methods (crash books, forceop signs, etc.) against a player or the server.
  - Using harmful items (crash potions, crash chests, etc.) against a player or the server.
  - Posing or attempting to log in as admins or known players.
- - Using collected or "spambot" accounts (this includes accounts recieved from alt dispensers) to log in.
+ - Using collected or "spambot" accounts (this includes accounts received from alt dispensers) to log in.
  - Bypassing ban with an alternate account, and/or bypassing IP ban with a proxy/VPS.
  - Referring or linking to malicious, pornographic, or hate content in chat (you can PM someone with their consent).
  - Committing rogue activity as a higher rank or administrator (this includes abuse, or breaking rules with knowledge).
@@ -29,7 +29,7 @@ blocks in someone's build).
 They may also result in a twenty-four-hour ban or greater (ex. griefing someone's build massively on purpose, or WorldEdit grief).
 
  - Griefing, damaging, or building on other's property (regardless if you repaired it or not).
- - Plagarism of content and copying player's builds without their consent.
+ - Plagiarism of content and copying player's builds without their consent.
  - Advertising your server IP or a website in public chat.
  - Using "trolling" techniques on admins or other players.
  - Using a nickname that could offend someone else.
@@ -47,7 +47,7 @@ They may also result in a twenty-four-hour ban or greater (ex. griefing someone'
 These actions are allowed unless told otherwise by an administrator.
 
  - Curse and/or swear, this server is welcome to all ages therefore we do not censor worded profanity.
- - Build artistic nudity and symbolistic demonstrations of intercourse if it's mentioned as NSFW (not safe for work).
- - Publicly roleplay on the server (only if you're not spamming).
+ - Build artistic nudity and demonstrations of intercourse if it's mentioned as NSFW (not safe for work).
+ - Publicly role-playing on the server (only if you're not spamming).
  - Using hacked mods and clients that are not harmful to other players or the server.
  - Using a proxy or VPN to cloak your IP (only if you're not bypassing IP ban).
