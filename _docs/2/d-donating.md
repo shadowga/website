@@ -39,3 +39,8 @@ Members can donate any amount they want (no matter how small) and pay using a Pa
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+## After donating
+It may take up to twenty-four hours for contibutions to be acknowledged.
+Donations are processed manually and it usually takes a few hours for us to check them.
+If nothing has come of your donation for more than a day, contact us.
