@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 2b. Issues and suggestions
-permalink: /docs/2/b-suggestions/
+title: 3b. Issues and suggestions
+permalink: /docs/3/b-suggestions/
 ---
 
 As an open-source server with operations public to everyone, we try to make reporting bugs and proposing suggestions fairly easy.
