@@ -16,3 +16,5 @@ Just like on our server, you can directly message someone on Discord if you pref
 Even with the above options, you may have a question that multiple people could answer or maybe you'd like it posted for a longer period of time.
 To get forum support, all you need to do is make sure that you've got a forum account and ask a question on the forum paired with the ‘support’ tag.
 An administrator will make an attempt to assist you as soon as possible.
+
+You can also contact our server owner using the Discord handle `@Shadow#5973` if that floats your boat.
