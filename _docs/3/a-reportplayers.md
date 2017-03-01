@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 2a. Reporting players
-permalink: /docs/2/a-reportplayers/
+title: 3a. Reporting players
+permalink: /docs/3/a-reportplayers/
 ---
 
 If a certain player or a group of people are breaking the rules or bothering you on purpose, you have the right to report them.
