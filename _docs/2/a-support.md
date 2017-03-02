@@ -17,4 +17,6 @@ Even with the above options, you may have a question that multiple people could 
 To get forum support, all you need to do is make sure that you've got a forum account and ask a question on the forum paired with the ‘support’ tag.
 An administrator will make an attempt to assist you as soon as possible.
 
+Remember, before asking a question on the forum it's a good idea to ensure that it wasn't already answered in our documentation. Search the forum to make sure another person hasn't asked the same thing before.
+
 You can also contact our server owner using the Discord handle `@Shadow#5973` if that floats your boat.
