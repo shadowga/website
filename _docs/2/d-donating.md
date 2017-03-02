@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 3d. Donating
-permalink: /docs/3/d-donating/
+title: 2d. Donating
+permalink: /docs/2/d-donating/
 ---
 Although our server is non-profit, donating to the server helps our community thrive and pays the bills.
 We attempt to not force donating on people and nothing on our server requires donating to unlock.
