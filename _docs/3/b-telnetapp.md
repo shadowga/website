@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 4b. Applying for Telnet Admin
-permalink: /docs/4/b-telnetapp/
+title: 3b. Applying for Telnet Admin
+permalink: /docs/3/b-telnetapp/
 ---
 
 Telnet Admins are given the same commands as Super Admins, but they can use features like the telnet server.
