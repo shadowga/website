@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 2a. Support
-permalink: /docs/2/a-support/
+title: 1h. Support
+permalink: /docs/1/h-support/
 ---
 If you're in need of support, we're here for you.
 Support is a big deal to us and we provide several resources for getting help.
