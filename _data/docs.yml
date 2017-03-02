@@ -5,22 +5,21 @@
   - 1/c-forumrules
   - 1/d-servranks
   - 1/e-servworlds
-  - 1/f-resourcepack
+  - 1/f-banappeals
+  - 1/g-resourcepack
+  - 1/h-support
 
-- title: 2. Getting help
+- title: 2. Contributing
   docs:
-  - 2/a-support
-  - 2/b-banappeals
-  - 2/c-faq
+  - 2/a-reportplayers
+  - 2/b-suggestions
+  - 2/c-communities
+  - 2/d-donating
 
-- title: 3. Contributing
+- title: 3. Applying for admin
   docs:
-  - 3/a-reportplayers
-  - 3/b-suggestions
-  - 3/c-communities
-  - 3/d-donating
+  - 3/a-superapp
+  - 3/b-telnetapp
 
 - title: 4. Applying for admin
   docs:
-  - 4/a-superapp
-  - 4/b-telnetapp
