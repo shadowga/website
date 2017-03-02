@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 4a. Applying for Super Admin
-permalink: /docs/4/a-superapp/
+title: 3a. Applying for Super Admin
+permalink: /docs/3/a-superapp/
 ---
 
 Super Admin can be applied for by the default rank but there are requirements that have to be met to obtain Super Admin.
