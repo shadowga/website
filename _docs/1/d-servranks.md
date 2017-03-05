@@ -20,9 +20,9 @@ Super Admins are also allowed to use some commands that are blocked to operators
 _For information on applying for this rank, visit [this page](https://github.com/ShadowGA/shadowga.github.io/wiki/Applying-for-Super-Admin)._
 
 ## Telnet Admin
-Telnet Admins are given the same commands as Super Admins, however they can use Telnet.
-Our Telnet server allows admins to administrate, even when they are not on Minecraft.
-This is useful for on-the-go devices such as phones, which have apps supporting Telnet.
+Telnet Admins are given the same commands as Super Admins, however they can use telnet.
+Our telnet server allows members with the rank to administrate even when they are not on Minecraft.
+This is useful for on-the-go devices such as phones, which have apps supporting telnet.
 <br>
 _For information on applying for this rank, visit [this page](https://github.com/ShadowGA/shadowga.github.io/wiki/Applying-for-Telnet-Admin)._
 
