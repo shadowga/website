@@ -19,7 +19,7 @@ Receiving donations helps soften the difficulty of paying a large sum every mont
 * An attractive Title of Donator for your account on the forum and our Discord server.
 
 ## How to donate
-Donating for the server is easy.
+Donating to the server is easy.
 We use the PayPal donation method so members from all around the world can feel free to contribute.
 Members can donate any amount they want (no matter how small) and pay using a PayPal account or with a credit card.
 <br>
