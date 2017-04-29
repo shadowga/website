@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1d. Server ranks
-permalink: /docs/1/d-servranks/
+title: 1d. Ranks and titles
+permalink: /docs/1/d-ranksandtitles/
 ---
 ## Administrator ranks
 To enforce the server rules, we have set up a small group of server administrators.
