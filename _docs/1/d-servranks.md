@@ -3,6 +3,7 @@ layout: docs
 title: 1d. Server ranks
 permalink: /docs/1/d-servranks/
 ---
+## Administrator ranks
 To enforce the server rules, we have set up a small group of server administrators.
 They are given administrative tools, such as banning and grief logging, to keep the server from going out of control.
 The default rank can apply for these ranks once they meet the requirements.
@@ -12,37 +13,28 @@ Operator is the default rank.
 Every player obtains this rank automatically upon login.
 They are given commands similar to an operator on a vanilla Minecraft server, such as free gamemode and building tools like WorldEdit.
 
-## Super Admin
+### Super Admin
 Super Admins are the basic administrators.
 They are given banning and smiting abilities, and full access to grief logging plugins.
 Super Admins are also allowed to use some commands that are blocked to operators, such as `/tpo` and `/say`.
 <br>
 _For information on applying for this rank, visit [this page](https://github.com/ShadowGA/shadowga.github.io/wiki/Applying-for-Super-Admin)._
 
-## Telnet Admin
+### Telnet Admin
 Telnet Admins are given the same commands as Super Admins, however they can use telnet.
 Our telnet server allows members with the rank to administrate even when they are not on Minecraft.
 This is useful for on-the-go devices such as phones, which have apps supporting telnet.
 <br>
 _For information on applying for this rank, visit [this page](https://github.com/ShadowGA/shadowga.github.io/wiki/Applying-for-Telnet-Admin)._
 
-## Senior Admin
+### Senior Admin
 Senior Admins have all the abilities as the above ranks.
 They are also given extra commands that are blocked to the default admin rank, such as global commands like `/time` and `/weather`.
 The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
 <br>
 _For information on applying for this rank, visit [this page](https://github.com/ShadowGA/shadowga.github.io/wiki/Applying-for-Senior-Admin)._
 
-## Developer Admin
-Developers do exactly what it says, develop for the server.
-They are in charge of making needed modifications to plugins and services.
-Developers are also given access as collaborators on the GitHub organization page, allowing them to edit projects.
-<br>
-There are only four Developer Admins, and one Lead Developer.
-<br>
-_Admins for this rank are hand-picked._
-
-## Executive Admin
+### Executive Admin
 Executives are in charge of all other admin ranks, except for the owner.
 They have the ability to suspend disobedient or rogue administrators, and even ban them if required.
 They are also in charge of marketing the server to players when the owners are unable to.
@@ -51,10 +43,47 @@ There are only four Executive Admins.
 <br>
 _Admins for this rank are hand-picked._
 
-## Server Owner
+### Server Owner
 The owners are in charge of the whole server.
 They can make decisions like adding and removing plugins, adding and removing non-applicable ranks, and even redesigning the whole server if wanted.
 The Server Owner is the highest level of administrator in the rank system.
 <br>
 There is only one owner.
 <br>
+
+## Member titles
+Titles, unlike ranks, do not carry any extra permissions on the server or forum but can be used to indicate the status of a person.
+They do not exist on the server but are given to members through the forum and our Discord server.
+Member titles may also be given out as awards to players who make certain achievements.
+
+### Title of Developer
+Anyone who develops for our community is given this title.
+Members who are given this honour are hand-selected by the Server Owner.
+Members who obtain this title can be revoked of it if they are replaced or suspended as an admin.
+
+### Title of Emeritus
+The status of Emeritus is given to former administrators who have willfully retired.
+To show their efforts toward our community, they are given this honour.
+Members who obtain this title cannot be revoked of it.
+
+### Title of Veteran
+The status of being a veteran is given to administrators who have held their rank before 2016.
+To show their long-lasting loyalty toward our community, they are given this honour.
+Members who obtain this title cannot be revoked of it.
+
+### Title of Donor
+The status of being a donor is given to any member who makes a donation to our server.
+To show their support toward our community, they are given this honour.
+Members who obtain this title cannot be revoked of it.
+
+### Suspended
+Suspended members are given to any member that breaks the rules to a point where banning them is ineffective.
+Members can be suspended by Executives or the Server Owner if they are petitioned to do so by another administrator.
+Members who obtain suspension can be revoked of it under unusual circumstances.
+
+#### Penalties of suspension
+* You are permanently banned from the server, meaning you can never join again. If you bypass this, you will remain under suspension.
+* Your forum account is indefinitely disabled, stripping you of all of your forum permissions.
+* Depending on how severe the crime is, you may be banned from visiting the website.
+* You may keep your Discord membership as a form of emergency contact under some situations.
+* If the crime is unlawful, such as threatening harm to yourself or others, your location and known alias will be forwarded to local authorities.
