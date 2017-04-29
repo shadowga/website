@@ -44,8 +44,8 @@ There are only four Executive Admins.
 _Admins for this rank are hand-picked._
 
 ### Server Owner
-The owners are in charge of the whole server.
-They can make decisions like adding and removing plugins, adding and removing non-applicable ranks, and even redesigning the whole server if wanted.
+The owner is in charge of the whole server.
+This rank can make decisions like adding and removing plugins, adding and removing non-applicable ranks, and even redesigning the whole server if needed.
 The Server Owner is the highest level of administrator in the rank system.
 <br>
 There is only one owner.
