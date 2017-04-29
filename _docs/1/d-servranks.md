@@ -77,7 +77,7 @@ To show their support toward our community, they are given this honour.
 Members who obtain this title cannot be revoked of it.
 
 ### Suspended
-Suspended members are given to any member that breaks the rules to a point where banning them is ineffective.
+The status of being suspended can be given to any member that breaks the rules to a point where banning them is ineffective.
 Members can be suspended by Executives or the Server Owner if they are petitioned to do so by another administrator.
 Members who obtain suspension can be revoked of it under unusual circumstances.
 
