@@ -62,7 +62,7 @@ Members who are given this honour are hand-selected by the Server Owner.
 Members who obtain this title can be revoked of it if they are replaced or suspended as an admin.
 
 ### Title of Emeritus
-The status of Emeritus is given to former administrators who have willfully retired.
+The status of Emeritus is given to former administrators who have wilfully retired.
 To show their efforts toward our community, they are given this honour.
 Members who obtain this title cannot be revoked of it.
 
