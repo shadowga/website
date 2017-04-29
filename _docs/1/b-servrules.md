@@ -9,7 +9,7 @@ Keep in mind that really obvious rules may not be stated here. Use common sense 
 
 ## Bannable offenses
 These offenses can result in a twenty-four-hour ban or greater.
-They may also result in permanent ban if repeated noticeably by the same player.
+They may also result in a suspension if repeated noticeably by the same player.
 
  - Purposely crashing or corrupting any world on the server in any way.
  - Mass griefing or "unrecoverable actions", mostly occurring in WorldEdit.
