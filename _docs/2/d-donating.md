@@ -16,7 +16,7 @@ Receiving donations helps soften the difficulty of paying a large sum every mont
 * The warm and beneficial feeling of making a contribution to our server.
 * Being labelled as a hero by our community.
 * Receiving a sincere 'thank you' note from our staff.
-* An attractive Title of Donator for your account on the forum and our Discord server.
+* An attractive Title of Donor for your account on the forum and our Discord server.
 
 ## How to donate
 Donating to the server is easy.
