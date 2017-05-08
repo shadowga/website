@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /story
 ---
 <header class="Hero">
   <div class="container container-narrow" style="text-align: left">
