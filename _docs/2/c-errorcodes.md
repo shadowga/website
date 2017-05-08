@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 2d. Error codes
-permalink: /docs/2/d-errorcodes/
+title: 2c. Error codes
+permalink: /docs/2/c-errorcodes/
 ---
 
 If you navigate this website enough, you may make a typographical error and accidentally encounter an error page.
