@@ -13,8 +13,9 @@
   docs:
   - 2/a-reportplayers
   - 2/b-suggestions
-  - 2/c-communities
-  - 2/d-donating
+  - 2/c-errorcodes
+  - 2/d-communities
+  - 2/e-donating
 
 - title: 3. Applying for admin
   docs:
