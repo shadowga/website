@@ -8,7 +8,7 @@ Shadow.GA is a modern creative server for Minecraft. We give all players every c
 ## Features
 We aim to provide the best experience for every player on our server. This means adding useful features and big changes depending on what they want in a server. Several extensions are installed, from essential commands like WorldEdit to customisation interfaces.
 
-- **Fast and simple.** Players can come onto the server and build whenever they want. We have no time restrictions and there is no application required to start helping our community.
+- **Fast and simple.** Players can come onto the server and build whenever they want. We don't have any time restrictions and there is no application required to start helping our community.
 
 - **Do anything you want.** Our server has the least possible amount of rules to give our players a feeling of freedom. There are no restrictions to what you can build, we just ask that your builds mind other people. We respect privacy, so players are allowed to build as close or as far away from the starting point as they want.
 
