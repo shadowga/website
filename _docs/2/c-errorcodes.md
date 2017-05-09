@@ -27,7 +27,7 @@ If the link previously contained content, it has likely either been deleted or m
 * Ensure that your link contains a proper extension at the end if needed.
 
 ### html-se-500
-This error signifies that there was an internal server error.
+This error signifies that there's an internal server error.
 An internal error could've been the result of server downtime or a file misplacement.
 #### Recommended solutions
 * Wait for a few minutes and reload the page to see if the error was repaired.
