@@ -18,7 +18,7 @@ They may also result in a suspension if repeated noticeably by the same player.
  - Using harmful items (crash potions, crash chests, etc.) against a player or the server.
  - Posing or attempting to log in as admins or known players.
  - Using collected or "spambot" accounts (this includes accounts received from alt dispensers) to log in.
- - Bypassing ban with an alternate account, and/or bypassing IP ban with a proxy/VPS.
+ - Bypassing a ban with an alternate account, and/or bypassing an IP ban with a proxy/VPS.
  - Referring or linking to malicious, pornographic, or hate content in chat (you can PM someone with their consent).
  - Committing rogue activity as a higher rank or administrator (this includes abuse, or breaking rules with knowledge).
  - Threatening real-life harm to yourself or another player (including suicidal threats and suicide notes).
