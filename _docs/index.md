@@ -14,7 +14,7 @@ We aim to provide the best experience for every player on our server. This means
 
 - **Efficient administration.** Rule breakers can be easily tracked thanks to our administration team, which is given powerful tools that allow it to enforce rules on our server. Any grief caused by players can be easily fixed, we have a reliable logging system. Administrators can even control the server when they aren't playing the game with panels like telnet.
 
-- **Free and open.** You don't need building expertise or any skills to join. Our server is public to all and so is our online community, the Shadow.GA forum. We even allow you to chat with other server members on to go with our Discord server.
+- **Free and open.** You don't need building expertise or any skills to join. Our server is public to all and so is our online community, the Shadow.GA forum. We even allow you to chat with other server members on the go with our Discord server.
 
 ## How to join
 Joining the server is easy. You can connect to our server by typing or pasting the domain "shadow.ga" into your direct connect box. You may also add the server to your multiplayer list. No port is required to connect, but if you need one you can use `25599`.
