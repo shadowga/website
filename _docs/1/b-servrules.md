@@ -36,7 +36,7 @@ They may also result in a twenty-four-hour ban or greater (ex. griefing someone'
  - Any act of racism, sexism, or hate crimes (offending a lot of people could result in suspension).
  - Falsely reporting other players or attempting to frame a player (including admins).
  - Comments that are potentially sexist, racist, homophobic, or directed to offend or anger a player known on the server (hatred towards a player or their religion/beliefs counts).
- - Violating the privacy of others by teleporting to them or their builds.
+ - Violating the privacy of others by teleporting to them or their builds (unless you have their permission).
  - Teleporting players without their permission. This also includes modifying another player's tptoggle.
  - Announcing the IP (Internet Provider) address of any admin or player in public chat, or in message without the owner of that IP's consent.
  - Using offensive tags or nicknames designed to anger or offend (a good example would be using "FuckAllAdmins"), or nicking others without their permission.
