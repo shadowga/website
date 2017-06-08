@@ -5,7 +5,7 @@ permalink: /docs/1/g-resourcepack/
 ---
 
 Our server uses a custom resource pack that gives builders the ability to add more detail in their creations.
-We recommend that all players have it installed.
+We recommend that all members have it installed.
 
 ## Obtaining the resource pack
 If the server does not notify you to install the resource pack automatically, you can download and apply it manually.
