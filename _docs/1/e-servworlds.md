@@ -6,9 +6,9 @@ permalink: /docs/1/e-servworlds/
 We have different types of worlds so operators may choose the environment they would like their build in.
 
 ## Switching worlds
-Worlds can be switched by any player.
+Worlds can be switched by any member.
 To do this, we have the command `/world`, which allows you to specify different types of worlds to visit.
-Most worlds have a custom alias command that teleports you there. Different types of worlds can be accessed by different types of players.
+Most worlds have a custom alias command that teleports you there. Different types of worlds can be accessed by different types of members.
 
 ### The Flatlands
 The flatlands is the default world you spawn in.
