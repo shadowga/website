@@ -37,7 +37,7 @@ They may also result in a twenty-four-hour ban or greater (ex. griefing someone'
  - Falsely reporting other members or attempting to frame a member (including admins).
  - Comments that are potentially sexist, racist, homophobic, or directed to offend a known member on the server (denouncing someone's religious views also counts).
  - Violating the privacy of others by teleporting to them or their builds (unless you have their permission).
- - Teleporting members without their permission. This also includes modifying another member's tptoggle.
+ - Teleporting members without their permission. This also includes modifying another member's `tptoggle`.
  - Announcing the IP (Internet Provider) address of any admin or member in public chat, or in message without the owner of that IP's consent.
  - Using offensive tags or nicknames designed to anger or offend (a good example would be using "FuckAllAdmins"), or nicking others without their permission.
  - Tampering with the inventories of other members without their permission, or spamming inventories with items.
