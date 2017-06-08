@@ -14,27 +14,27 @@ Most worlds have a custom alias command that teleports you there. Different type
 The flatlands is the default world you spawn in.
 You can build anything anywhere in this world, and it wipes every month to prevent lag.
 <br>
-You must access this region with `/flatlands`.
+You can access this region with `/flatlands`.
 
 ### The Roughlands
 The roughlands is very similar to the flatlands except there are rough biomes, such as trees and oceans.
-This world does not often wipe, but it can.
+This world is only wiped along with the netherlands and roughlands.
 <br>
-You must access this region with `/world world`.
+You can access this region with `/roughlands`.
 
 ### The Netherlands
 The netherlands is the nether world for anyone to join in.
 There is lava and a large amount of netherrack, which is not wiped often.
-When this world is wiped, it is wiped along with the roughlands.
+This world is only wiped along with the roughlands and enderlands.
 <br>
-You must access this region with `/nether`.
+You can access this region with `/nether`.
 
 ### The Enderlands
 The enderlands is the opposite of the netherlands.
 It houses end stone and end villages as of the 1.9 update, and is also known as the place where you can slay the ender dragon.
-It is wiped along with the roughlands and netherlands.
+This world is only wiped along with the roughlands and netherlands.
 <br>
-You must access this region with `/ender`.
+You can access this region with `/ender`.
 
 ### The Adminworld
 The adminworld is a private world that only Super Admins and above can go in.
