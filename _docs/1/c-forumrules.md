@@ -19,7 +19,7 @@ Keep in mind that really obvious rules may not be stated here. Use common sense 
 
 - **Don't evade a forum ban.** Making a new account when you have already been banned from the forum is not allowed. We will delete your account anyway.
 
-- **Don't plagiarize.** If you don't already know the definition, plagiarism is copying someone else's work and calling it your own. Posts can be deleted for plagiarism.
+- **Don't plagiarise.** If you don't already know the definition, plagiarism is copying someone else's work and calling it your own. Posts can be deleted for plagiarism.
 
 - **Adhere to copyright.** Don't post anything against copyright law on the forum. We are based in the United States, so we follow U.S. law. Your post will be removed if it violates copyright and (if needed) you will be reported to the proper authorities.
 
