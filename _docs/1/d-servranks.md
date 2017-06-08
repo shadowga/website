@@ -10,7 +10,7 @@ Members that hold this rank can be recommended by our administrator team and ele
 The power of each rank is listed from lowest (top of the page) to most powerful (bottom of the page).
 
 Operator is the default rank.
-Every player obtains this rank automatically upon login.
+Every member obtains this rank automatically upon login.
 They are given commands similar to an operator on a vanilla Minecraft server, such as free gamemode and building tools like WorldEdit.
 
 ### Super Admin
@@ -31,7 +31,7 @@ The Senior Admin rank is also required for non-applicable ranks, such as Executi
 ### Executive Admin
 Executives are in charge of all other admin ranks, except for the owner.
 They have the ability to suspend disobedient or rogue administrators, and even ban them if required.
-They are also in charge of marketing the server to players when the owners are unable to.
+They are also in charge of marketing the server to members when the owners are unable to.
 <br>
 There are only four Executive Admins.
 
@@ -45,7 +45,7 @@ There is only one owner.
 ## Member titles
 Titles, unlike ranks, do not carry any extra permissions on the server or forum but can be used to indicate the status of a person.
 They do not exist on the server but are given to members through the forum and our Discord server.
-Member titles may also be given out as awards to players who make certain achievements.
+Member titles may also be given out as awards to members who make certain achievements.
 
 ### Title of Developer
 Anyone who develops for our community is given this title.
