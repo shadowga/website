@@ -27,4 +27,4 @@ Although there is no documented list of unassociated communites, players are all
 Keep in mind that we do not enforce a relationship with any community that isn't on our associated list.
 
 ## Associate your community
-If you're the owner of a Minecraft or Discord server, a company, or even a product, you can get your community associated with us by contacting the server owner. If we decide to consider your offer, we will look through your service and make a decision from what is seen.
+If you're the owner of a community, you can get it associated with us by contacting the server owner. If we decide to consider your offer, we will look through your service and make a decision from what is seen.
