@@ -16,7 +16,7 @@ A list of associated communities can be viewed on our forum.
 During situations, a specific community may be added or removed.
 We attempt to keep a positive relationship with these communities.
 <br>
-_For a list of associated communities, visit [this page](https://shadow.ga)._
+_For a list of associated communities, visit [this page](https://f.shadow.ga/d/45-list-of-associated-communities-6-2017)._
 
 ## Unofficial communities
 Some places may be popular with our staff or members but are not considered associated for different reasons.
@@ -25,3 +25,6 @@ Unofficial communities are not directly linked to this server, and events that h
 
 Although there is no documented list of unassociated communites, players are allowed to make their own with our forum.
 Keep in mind that we do not enforce a relationship with any community that isn't on our associated list.
+
+## Associate your community
+If you're the owner of a Minecraft or Discord server, a company, or even a product you can get your community associated with us by contacting the server owner. If we decide to consider your offer, we will look through your service and make a decision from what is seen.
