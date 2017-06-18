@@ -54,17 +54,17 @@ Members who obtain this title can be revoked of it if they are replaced or suspe
 
 ### Title of Emeritus
 The status of Emeritus is given to former administrators who have wilfully retired.
-To show their efforts toward our community, they are given this honour.
+To show their long-lasting contributions to our community, they are given this honour.
 Members who obtain this title cannot be revoked of it.
 
-### Title of Veteran
-The status of being a veteran is given to administrators who have held their rank before 2016.
-To show their long-lasting loyalty toward our community, they are given this honour.
+### Title of Architect
+The status of being an architect is given to any member that actively constructs quality architecture on the server.
+Anyone can work toward earning this title by mastering the art of detail and making jaw-dropping structures that others couldn't dream of.
 Members who obtain this title cannot be revoked of it.
 
 ### Title of Donor
 The status of being a donor is given to any member who makes a donation to our server.
-To show their support toward our community, they are given this honour.
+Anyone can earn this title by helping to fund our server, no matter how small of a contribution they make.
 Members who obtain this title cannot be revoked of it.
 
 ### Suspended
