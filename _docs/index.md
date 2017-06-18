@@ -3,12 +3,12 @@ layout: docs
 title: 1a. Introduction
 permalink: /docs/
 ---
-Shadow.GA is a modern creative server for Minecraft. We give members every command they need to powerfully build and enjoy our server without meeting any requirements.
+We're a modern creative server for Minecraft. We give members every command they need to powerfully build and enjoy our server without meeting any requirements.
 
 ## Features
 We aim to provide the best experience for every member on our server. This means adding useful features and big changes depending on what they want in a server. Several extensions are installed, from essential commands like WorldEdit to customisation interfaces.
 
-- **Fast and simple.** Members can come onto the server and build whenever they want. We don't have any time restrictions and there isn't any application required to start helping our community.
+- **Quick and easy.** Members can come onto the server and build whenever they want. We don't have any time restrictions and there isn't any application required to start helping our community.
 
 - **Do anything you want.** Our server has the least possible amount of rules to give our members a feeling of freedom. There are no restrictions to what you can build, we just ask that your builds mind other people. We respect privacy, so members are allowed to build as close or as far away from the starting point as they want.
 
