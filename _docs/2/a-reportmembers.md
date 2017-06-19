@@ -3,7 +3,7 @@ layout: docs
 title: 2a. Reporting members
 permalink: /docs/2/a-reportmembers/
 ---
-Sometimes there aren't any admins online, the issue happens outside of the server, or `/report` just doesn't cut it.
+We have a reporting function on our forum to ensure that reports can be made if there are no administrators online, the issue occurs off of the server, or `/report` just doesn't cut it. 
 
 If a certain member or a group of people are breaking the rules or bothering you on purpose, you have the right to report them.
 We allow anyone to file a member report with a quick and easy form.
