@@ -8,7 +8,7 @@ We attempt to not force donating on people and nothing on our server requires do
 Administrators work voluntarily and no profit is made off of donations.
 
 ## The point of donating
-As you may know, keeping our virtual private servers up cost money and we pay monthly for it.
+As you may know, hosting the server and forum has a price and both costs are paid annually.
 Besides the aid of financial discounts and money-saving procedures, payments have come mostly off of the owner.
 Receiving donations helps soften the difficulty of paying a large sum every month to keep our community operational.
 
