@@ -3,7 +3,7 @@ layout: docs
 title: 2e. Donating
 permalink: /docs/2/e-donating/
 ---
-Although our server is non-profit, donating to the server helps our community thrive and pays the bills.
+Although our server is a non-profit organisation, donating to the server helps our community thrive and pays the bills.
 We attempt to not force donating on people and nothing on our server requires donating to unlock.
 Administrators work voluntarily and no profit is made off of donations.
 
