@@ -24,7 +24,7 @@ The acceptance of a request can depend on multiple factors, but we have guidelin
 
 ### What we look for
 * The service must have some common interest with our server or website; and be helpful to the members of our community.
-* Any well-established audience, base of users, or demographic relevant to our purpose.
+* Any well-established audience, base of users, or target demographic relevant to our purpose.
 * Protection against content that could possibly break our guidelines or cross ethical boundaries of this server.
 * Providing an extension, beneficial third-party service, or tool to our members is encouraged.
 * A similar administrative structure with moderation and a set of rules that point out what is right and wrong.
