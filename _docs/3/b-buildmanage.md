@@ -44,9 +44,20 @@ The first three parameters should be used at all times.
  * `r:<radius>` - Specifies a radius, used to only rollback blocks near your location.
    <br>
    You can specify a number (example, `r:5`), a world (`r:flatlands`), or a global rollback (`r:global`).
+   <br>
    You can even specify a WorldEdit selection (example, `r:#worldedit` or `r:#we`).
 
 If you want, you can use the latter parameters to be more specific.
- * `a:<action>` - Restricts the lookup to a certain action.
+ * `a:<action>` - Restricts the rollback to a certain action.
+   <br>
    For example, if you only want to rollback placements, you can use `a:+block`.
-   Below is a list of all 
+ * `b:<blocks>` - Restricts the rollback to certain block types.
+   <br>
+   For example, if you only want to rollback stone, you can use `b:1`.
+   <br>
+   You can even specify multiple items, such as `b:1,5,7`.
+ * `e:<exclude>` - Excludes certain block types from the rollback.
+   <br>
+   For example, if you don't want any TNT to come back during a rollback, you can use `e:46`.
+   <br>
+   You can specify multiple items just like the above peri
