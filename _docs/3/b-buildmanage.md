@@ -77,7 +77,25 @@ Like a rollback, this command is very powerful so specifying perimeters is impor
  * `/co restore` - Preforms a restore depending on the user and time you specify.
  * `/co rs` - An alias of the previous command and serves the same function.
  
-### Command usage
+#### Command usage
 > Tip: The restore feature has the same options as rollback, so for detailed instructions just refer to the above list of perimeters.
  * `/co restore u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
  * `/co rs u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+
+### Looking up a member
+This command allows you to search through block data using the same perimeters as `/co rollback` and `/co restore`.
+ * `/co lookup` - Preforms an advanced block data lookup depending on the user and time you specify.
+ * `/co l` - An alias of the previous command and serves the same function.
+ 
+#### Command usage
+ * `/co lookup u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+ * `/co l u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+   <br>
+   If multiple pages are returned, use `/co lookup <page>` to switch pages.
+   <br>
+   To change the number of lines displayed on a page, use `/co lookup <page>:<lines>`.
+   <br>
+   For example, `/co l 1:10` will return ten lines of data, starting at the first page.
+   
+Certain commands like `/co purge` have been blocked to prevent mass build deletion.
+Always keep in mind that proper usage of these commands are your responsibility.
