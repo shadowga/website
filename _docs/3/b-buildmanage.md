@@ -79,7 +79,7 @@ Like a rollback, this command is very powerful so specifying perimeters is impor
  
 #### Command usage
 > Tip: The restore feature has the same options as rollback, so for detailed instructions just refer to the above list of perimeters.
-
+<br>
  * `/co restore u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
  * `/co rs u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
 
