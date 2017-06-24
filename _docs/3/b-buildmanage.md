@@ -97,5 +97,5 @@ This command allows you to search through block data using the same perimeters a
    <br>
    For example, `/co l 1:10` will return ten lines of data, starting at the first page.
    
-Certain commands like `/co purge` have been blocked to prevent mass build deletion.
+Certain commands like `/co purge` should never be used and an attempt to do so will result in a suspension.
 Always keep in mind that proper usage of these commands are your responsibility.
