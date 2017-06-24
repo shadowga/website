@@ -9,7 +9,7 @@ Learning to master these tools is important when rolling back grief and restorin
 ## Using CoreProtect
 CoreProtect is a heavy block management tool that provides detailed logs of all blocks placed and removed.
 This plugin allows you to make detailed, specific rollbacks and restorations while managing the integrity of our worlds.
-You can display an in-gamel list of the available commands with three aliases:
+You can display an in-game list of the available commands with three aliases:
  * `/coreprotect help` - The default and longest command, only admins can use it.
  * `/core help` - An alias of the default command, only admins can use it.
  * `/co help` - The shortest alias, only admins can use it.
