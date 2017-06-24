@@ -70,3 +70,14 @@ Here's a list of hashtags you can use.
  * `#count` - Returns the number of rows found in a lookup or query.
  * `#verbose` - Displays additional information during a rollback or restore.
  * `#silent` - Displays minimal information during a rollback or restore.
+
+### Restoring a member
+The restore feature allows an administrator to bring back a member's placed or removed blocks.
+Like a rollback, this command is very powerful so specifying perimeters is important.
+ * `/co restore` - Preforms a restore depending on the user and time you specify.
+ * `/co rs` - An alias of the previous command and serves the same function.
+ 
+### Command usage
+> Tip: The restore feature has the same options as rollback, so for detailed instructions just refer to the above list of perimeters.
+ * `/co restore u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+ * `/co rs u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
