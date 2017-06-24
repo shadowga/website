@@ -18,7 +18,7 @@ We will demonstrate command usage with the alias `/co`, as it is the shortest an
 
 ### Block inspection tool
 The inspection tool is a toggleable feature that allows you to click any block and view all previous changes made to that specific location.
-It will show WorldEdit selections, placements, deletions, and even natrual changes such as water or an explosion.
+It will show WorldEdit selections, placements, deletions, and even natural changes such as water or an explosion.
  * `/co inspect` - Toggles the inspector and can be disabled by typing the command a second time.
  * `/co i` - An alias of the previous command and serves the same function.
 
