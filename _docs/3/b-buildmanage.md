@@ -78,10 +78,9 @@ Like a rollback, this command is very powerful so specifying perimeters is impor
  * `/co rs` - An alias of the previous command and serves the same function.
  
 #### Command usage
-> Tip: The restore feature has the same options as rollback, so for detailed instructions just refer to the above list of perimeters.
-<br>
  * `/co restore u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
  * `/co rs u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+> Tip: The restore feature has the same options as rollback, so for detailed instructions just refer to the above list of perimeters.
 
 ### Looking up a member
 This command allows you to search through block data using the same perimeters as `/co rollback` and `/co restore`.
