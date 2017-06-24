@@ -30,7 +30,7 @@ This command will affect just about anything so specifying perimeters is importa
  * `/co rollback` - Preforms a rollback depending on the user and time you specify.
  * `/co rb` - An alias of the previous command and serves the same function.
 
-#### Command usage
+#### Command usage and perimeters
  * `/co rollback u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
  * `/co rb u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
  
@@ -61,3 +61,12 @@ If you want, you can use the latter perimeters to be more specific.
    For example, if you don't want any TNT to come back during a rollback, you can use `e:46`.
    <br>
    You can specify multiple items just like the above perimeter.
+
+Adding a hashtag to the end of your command allows you to perform additional actions. This feature isn't recommended for normal usage.
+ * `#<hashtag>` - Performs diagnostic or visual actions.
+
+Here's a list of hashtags you can use.
+ * `#preview` - Previews a rollback or restore.
+ * `#count` - Returns the number of rows found in a lookup or query.
+ * `#verbose` - Displays additional information during a rollback or restore.
+ * `#silent` - Displays minimal information during a rollback or restore.
