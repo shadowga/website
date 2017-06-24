@@ -23,3 +23,21 @@ It will show WorldEdit selections, placements, deletions, and even natrual chang
  * `/co i` - An alias of the previous command and serves the same function.
 
 This tool is mostly used to quickly check for damage such as a deleted build and also displays how long ago a change was made.
+
+### Rolling back a member
+Likely the most used tool of this plugin, the rollback feature allows an administrator to roll any member's changes back.
+This command will affect just about anything so specifying parameters is important.
+ * `/co rollback` - Preforms a rollback depending on the user and time you specify.
+ * `/co rb` - An alias of the previous command and serves the same function.
+
+#### Command usage
+ * `/co rollback u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+ * `/co rb u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+ 
+The first three parameters should be used at all times, while the latter (action, blocks, exclude) are optional.
+ * `u:<user>` - Specifies a member by their username to rollback.
+ * `t:<time>` - Specifies the amount of time to roll a person back.
+   You can specify weeks (example, `t:1w`), days (`t:2d`), hours (`t:4h`), minutes (`t:10m`), or seconds (`t:5s`).
+   To be even more specific, you can pick time amounts (example, `t:1d4h`) and use decimals (`t:2.50h`).
+ * `r:<radius>` - Specifies a radius, used to only rollback blocks near your location.
+   You can specify a number (example, `r:5`), a world (`r:flatlands`), or a global rollback (`r:global`).
