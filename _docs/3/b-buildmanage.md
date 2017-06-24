@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1b. Build management
-permalink: /docs/1/b-buildmanage/
+title: 3b. Build management
+permalink: /docs/3/b-buildmanage/
 ---
 As an admin, you are given powerful tools to manage block placements, deletions, and WorldEdit selections.
 Learning to master these tools is important when rolling back grief and restoring other member's builds.
