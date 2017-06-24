@@ -26,7 +26,7 @@ This tool is mostly used to quickly check for damage such as a deleted build and
 
 ### Rolling back a member
 Likely the most used tool of this plugin, the rollback feature allows an administrator to roll any member's changes back.
-This command will affect just about anything so specifying parameters is important.
+This command will affect just about anything so specifying perimeters is important.
  * `/co rollback` - Preforms a rollback depending on the user and time you specify.
  * `/co rb` - An alias of the previous command and serves the same function.
 
@@ -34,7 +34,7 @@ This command will affect just about anything so specifying parameters is importa
  * `/co rollback u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
  * `/co rb u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
  
-The first three parameters should be used at all times.
+The first three perimeters should be used at all times.
  * `u:<user>` - Specifies a member by their username to rollback.
  * `t:<time>` - Specifies the amount of time to roll a person back.
    <br>
@@ -47,7 +47,7 @@ The first three parameters should be used at all times.
    <br>
    You can even specify a WorldEdit selection (example, `r:#worldedit` or `r:#we`).
 
-If you want, you can use the latter parameters to be more specific.
+If you want, you can use the latter perimeters to be more specific.
  * `a:<action>` - Restricts the rollback to a certain action.
    <br>
    For example, if you only want to rollback placements, you can use `a:+block`.
@@ -60,4 +60,4 @@ If you want, you can use the latter parameters to be more specific.
    <br>
    For example, if you don't want any TNT to come back during a rollback, you can use `e:46`.
    <br>
-   You can specify multiple items just like the above peri
+   You can specify multiple items just like the above perimeter.
