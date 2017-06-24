@@ -3,7 +3,7 @@ layout: docs
 title: 1c. Forum guidelines
 permalink: /docs/1/c-forumrules/
 ---
-Our forum attempts to have the feeling of freedom and equality for all members. To keep that freedom, we must create rules that set the guidelines for right and wrong on our server. These same fundamentals apply to our Discord server.
+Our forum attempts to have the feeling of freedom and equality for all members. To keep that freedom, we must create rules that set the guidelines for right and wrong on our website. These same fundamentals apply to our Discord server.
 
 Keep in mind that really obvious rules may not be stated here. Use common sense on the forum at all times. You can get in trouble for something that isn't directly stated in a conduct policy.
 
