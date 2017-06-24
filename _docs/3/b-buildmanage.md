@@ -17,7 +17,7 @@ You can display an in-gamel list of the available commands with three aliases:
 We will demonstrate command usage with the alias `/co`, as it is the shortest and quickest, but all three variants are functional. 
 
 ### Block inspection tool
-The inspection tool is a toggleable feature that allows you to left-click a block and view all previous changes made to that specific location.
+The inspection tool is a toggleable feature that allows you to click any block and view all previous changes made to that specific location.
 It will show WorldEdit selections, placements, deletions, and even natrual changes such as water or an explosion.
  * `/co inspect` - Toggles the inspector and can be disabled by typing the command a second time.
  * `/co i` - An alias of the previous command and serves the same function.
@@ -27,7 +27,7 @@ This tool is mostly used to quickly check for damage such as a deleted build and
 ### Rolling back a member
 Likely the most used tool of this plugin, the rollback feature allows an administrator to roll any member's changes back.
 This command will affect just about anything so specifying perimeters is important.
- * `/co rollback` - Preforms a rollback depending on the user and time you specify.
+ * `/co rollback` - Performs a rollback depending on the user and time you specify.
  * `/co rb` - An alias of the previous command and serves the same function.
 
 #### Command usage and perimeters
@@ -74,7 +74,7 @@ Here's a list of hashtags you can use.
 ### Restoring a member
 The restore feature allows an administrator to bring back a member's placed or removed blocks.
 Like a rollback, this command is very powerful so specifying perimeters is important.
- * `/co restore` - Preforms a restore depending on the user and time you specify.
+ * `/co restore` - Performs a restore depending on the user and time you specify.
  * `/co rs` - An alias of the previous command and serves the same function.
  
 #### Command usage
@@ -85,7 +85,7 @@ Like a rollback, this command is very powerful so specifying perimeters is impor
 
 ### Looking up a member
 This command allows you to search through block data using the same perimeters as `/co rollback` and `/co restore`.
- * `/co lookup` - Preforms an advanced block data lookup depending on the user and time you specify.
+ * `/co lookup` - Performs an advanced block data lookup depending on the user and time you specify.
  * `/co l` - An alias of the previous command and serves the same function.
  
 #### Command usage
@@ -100,3 +100,39 @@ This command allows you to search through block data using the same perimeters a
    
 Certain commands like `/co purge` should never be used and an attempt to do so will result in a suspension.
 Always keep in mind that proper usage of these commands are your responsibility.
+
+## Using the logstick
+When CoreProtect is being flooded or isn't available for whatever reason, administrators have a second way of logging blocks.
+The logstick serves as a crude backup and logs block placements and deletions, but it doesn't log WorldEdit selections.
+
+### Obtaining the logstick
+ * `/logstick` - Places a wooden stick in your inventory.
+
+After obtaining a wooden stick as an administrator, you can click any block and view logs.
+Natural damage such as explosions are not logged and the logs will wipe under a server restart.
+
+### Performing logstick rollbacks
+This command will use the gathered logs to rollback a member's actions by their username.
+Upon a twenty-four hour ban, the banned member will automatically be rolled back.
+> **Note:** This command is depreciated and is only supposed to be used when CoreProtect is unavailable. In some cases this feature will not restore sign data, chest items, or newer blocks.
+
+#### Command usage
+ * `/rollback <user>` - Performs a rollback depending on the user you specify.
+ * `/rb <user>` - An alias of the previous command and serves the same function.
+ 
+### Reverting logstick rollbacks
+This command will undo a recently performed rollback depending on the member's username.
+Like the previous command, this function may be incapable of restorting some blocks, items, or data.
+
+#### Command usage
+ * `/rollback undo <user>` - Reverts a rollback depending on the user you specify.
+ * `/rb undo <user>` - An alias of the previous command and serves the same function.
+
+## Wiping the flatlands
+While the flatlands are usually wiped on a monthly basis, Telnet Administrators and above are given the ability to wipe the main world in case of corruption or heavy lag.
+This command is only intended for emergency situations where the issue cannot be detected or the server is becoming unresponsive.
+
+#### Command usage
+ * `/wipeflatlands` - Wipes the flatlands while restarting the server.
+
+This command can only be used through Telnet or another console.
