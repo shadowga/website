@@ -4,7 +4,7 @@ title: 3a. Becoming an admin
 permalink: /docs/3/a-becomingadmin/
 ---
 
-We're always keeping an eye out for potential administrators as the server grows.
+We always keep an eye out for potential administrators as the server grows.
 While there are different ranks of admin, they all have one thing in common and that is to be reliable and helpful.
 This is why candidates for the position are hand-picked based on how they present themselves to everyone.
 
