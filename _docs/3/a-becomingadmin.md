@@ -18,18 +18,18 @@ This is why candidates for the position are hand-picked based on how they presen
 * Good communicators, people who know the English language well and can talk to people clearly.
 
 ## Selecting members
-If you're already an administrator, you can elect a member for the position.
-Elected members are expected to stand out from everyone else and meet all of the above requirements.
-By electing a member, you bring them to an Executive or higher's attention and they will decide if your recommendation seems fit for the job.
+If you're already an administrator, you can select a member for the position.
+Selected members are expected to stand out from everyone else and meet all of the above requirements.
+By selecting a member, you bring them to an Executive or higher's attention and they will decide if your recommendation seems fit for the job.
 
-### Requirements for election
-* An administrator can only elect one member per year.
+### Requirements for selection
+* An administrator can only select one member per year.
 * The member must have all qualities of our selection checklist (shown above).
 * The member must have had a forum account for thirty days (unless told otherwise by an Executive or higher).
 * The member must know the conduct policy and documentation and stay up to date on recent information.
 * The member must have not been banned (accidental bans don't count) on the server or forum for at least twenty days.
 * The member must have a Discord account connected to the chat server.
 
-### How to elect a member
+### How to select a member
 To choose a member, they must agree to become an admin and vow to fulfill all tasks expected of them.
 Once you have chosen someone you want to select, you can directly message an Executive or higher and they will make a decision.
