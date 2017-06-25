@@ -18,9 +18,9 @@ This is why candidates for the position are hand-picked based on how they presen
 * Good communicators, people who know the English language well and can talk to people clearly.
 
 ## Selecting members
-If you're already an administrator, you can select a member for the position.
+If you're already an administrator, you can select a member to the position.
 Selected members are expected to stand out from everyone else and meet all of the above requirements.
-By selecting a member, you bring them to an Executive or higher's attention and they will decide if your recommendation seems fit for the job.
+By select a member, you agree that they represent a model candidate in your eyes and bring a higher-ranked admin's attention to the member.
 
 ### Requirements for selection
 * An administrator can only select one member per year.
@@ -32,4 +32,4 @@ By selecting a member, you bring them to an Executive or higher's attention and 
 
 ### How to select a member
 To choose a member, they must agree to become an admin and vow to fulfill all tasks expected of them.
-Once you have chosen someone you want to select, you can directly message an Executive or higher and they will make a decision.
+Once you have chosen someone you want to select, you can directly message an Executive or higher and they will the make decision to appoint them or not.
