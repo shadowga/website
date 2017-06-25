@@ -25,7 +25,7 @@ By select a member, you agree that they represent a model candidate in your eyes
 ### Requirements for selection
 * An administrator can only select one member per year.
 * The member must have all qualities of our selection checklist (shown above).
-* The member must know the conduct policy and documentation and stay up to date on recent information.
+* The member must know the conduct policies, stay up to date on recent information, and read all posted announcements.
 * The member must have not been banned (accidental bans don't count) on the server or forum for at least twenty days or has made a valid appeal for each ban they received.
 * The member must have a Discord account connected to the chat server.
 
