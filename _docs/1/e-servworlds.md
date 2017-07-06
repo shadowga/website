@@ -61,4 +61,4 @@ At the top-center, it will display the Minecraft world-specific time along with 
 Under the filters button, it will show the world coordinates in relation to where your cursor is located.
 The top-right image will display a compass for directional reference.
 <br>
-*To visit the Dynmap service, visit this page.*
+*To use the Dynmap service, visit [this page](http://b.shadow.ga:8123).*
