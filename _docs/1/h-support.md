@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: 1h. Support
+title: 1h. Support and troubleshooting
 permalink: /docs/1/h-support/
 ---
 If you're in need of support, we're here for you.
