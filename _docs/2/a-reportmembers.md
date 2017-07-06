@@ -25,5 +25,5 @@ Keep in mind that falsely reporting an admin is a punishable offense.
 ## Filing a member report
 As mentioned above, you can report members by filling out a form.
 To refrain from communication restraints, we ask that you provide contact information (Discord account preferred).
-<br>
+
 _To file a member report, fill out the form here._
