@@ -3,7 +3,7 @@ layout: docs
 title: 1e. Server worlds
 permalink: /docs/1/e-servworlds/
 ---
-We have different types of worlds so operators may choose the environment they would like to build in.
+We have different types of worlds so operators may choose any environment they like.
 
 ## Switching worlds
 Worlds can be switched by any member.
