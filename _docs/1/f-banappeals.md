@@ -20,5 +20,5 @@ You can appeal a ban if at least one of the following are true:
 ## Filing an appeal
 You may not appeal a temporary ban if you have been banned for the same reason over two times in a row.
 If your ban message does not state that the ban was temporary, you may be suspended. You cannot appeal a suspension.
-<br>
+
 _To appeal a ban, fill out the form [here](https://shadowga.typeform.com/to/fE4jeV)._
