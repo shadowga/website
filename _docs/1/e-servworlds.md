@@ -66,5 +66,5 @@ The `markers` option shows where spawnpoints are located and `players` identifie
 At the top-center, it will display the Minecraft world-specific time along with an animated representation.
 Under the filters button, it will show the world coordinates in relation to where your cursor is located.
 The top-right image will display a compass for directional reference.
-<br>
+
 *To use the Dynmap service, visit [this page](http://b.shadow.ga:8123).*
