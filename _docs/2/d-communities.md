@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: 2d. Communities
+title: 2d. Associated communities
 permalink: /docs/2/d-communities/
 ---
 
