@@ -5,7 +5,7 @@ permalink: /docs/1/h-support/
 ---
 If you're in need of support, we're here for you.
 Support is a big deal to us and we provide several resources for getting help.
-Before considering any of these options we recommend you try to ask an admin in-game first.
+Before considering any of these options we recommend you try to solve the problem yourself first.
 
 ### Before getting help
 * Ensure that you have read our documentation thoroughly and clearly because the issue may have been mentioned already.
