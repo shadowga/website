@@ -55,7 +55,7 @@ Chat messages will be displayed at the bottom-left next to the hyperlink button.
 If the plugin is able to link your in-game address with that of your connection to Dynmap, you can send messages.
 Members on the server will be able to read your chat messages as if you were talking through Minecraft.
 Dynmap-sent messages can be distinguished by the `[WEB]` prefix that precedes anything sent through the interface.
-Messages sent by members in-game can also show in a text bubble relative to their position if the `players` filter is enabled.
+Messages sent by members in-game can also show in a text bubble relative to their position.
 
 ### Map filters
 On the top-left, you can click on a layer button to filter out certain objects.
