@@ -43,7 +43,7 @@ When operators are not invited as guests, it is impossible for them to enter thi
 ## Using Dynmap
 Dynmap, as abbreviated in the name, is a dynamic map generator.
 This plugin can generate a bird's-eye view of any world through your web browser.
-Through the online interface, you can also view statistics and read the in-game chat.
+With the online interface, you can also view statistics and read the in-game chat.
 
 ### Using the interface
 The interface can be opened like any website, although it requires a port.
