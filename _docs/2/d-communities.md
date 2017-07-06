@@ -7,7 +7,7 @@ permalink: /docs/2/d-communities/
 Besides the server, our community mainly uses the forum and Discord server to get server-related information across.
 Other communities help us promote ourselves while exploring the widely different member-bases of various places.
 
-## Associated communities
+## What association is
 Servers, Discord communities, and companies alike that have either reached out to us or have been specially requested as partnered by a server official are referred to as associated.
 Being part of an associated community means the actions you make, whether positive or negative, reflect back to here.
 If you wish to become part of an associated community, you must get to know their rules and respect their differences.
