@@ -48,7 +48,7 @@ With the online interface, you can also view statistics and use the in-game chat
 ### Using the interface
 The interface can be opened like any website, although it requires a port.
 From there, it will take you to the default world (flatlands).
-Clicking on the arrow to your right, you can select different worlds, switch to different render modes, and view a list of online members.
+By clicking on the arrow to your right, you can select different worlds, switch to different render modes, and view a list of online members.
 Chat messages will be displayed at the bottom-left next to the hyperlink button.
 
 ### Online chat
