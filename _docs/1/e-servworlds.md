@@ -43,13 +43,18 @@ When operators are not invited as guests, it is impossible for them to enter thi
 ## Using Dynmap
 Dynmap, as abbreviated in the name, is a dynamic map generator.
 This plugin can generate a bird's-eye view of any world through your web browser.
-With the online interface, you can also view statistics and read the in-game chat.
+With the online interface, you can also view statistics and use the in-game chat.
 
 ### Using the interface
 The interface can be opened like any website, although it requires a port.
 From there, it will take you to the default world (flatlands).
 Clicking on the arrow to your right, you can select different worlds and view a member list.
 Chat messages will be displayed at the bottom-left next to the hyperlink button.
+
+### Online chat
+If the plugin is able to link your in-game address with that of your connection to Dynmap, you can send messages.
+Members on the server will be able to read your chat messages as if you were talking through Minecraft.
+Dynmap-sent messages can be distinguished by the `[WEB]` prefix that precedes anything sent through the interface.
 
 ### Map filters
 On the top-left, you can click on a layer button to filter out certain objects.
