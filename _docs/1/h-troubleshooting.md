@@ -1,17 +1,17 @@
 ---
 layout: docs
-title: 1h. Support and troubleshooting
-permalink: /docs/1/h-support/
+title: 1h. Troubleshooting
+permalink: /docs/1/h-troubleshooting/
 ---
 If you're in need of support, we're here for you.
 Support is a big deal to us and we provide several resources for getting help.
 Before considering any of these options we recommend you try to solve the problem yourself first.
 
 ### Before getting help
-* Ensure that you have read our documentation thoroughly and clearly because the issue may have been mentioned already.
-* If the above does not work, try searching the forum to make sure that nobody has already brought up your issue.
-* For development-related issues, make them a suggestion on the forum instead of asking an administrator.
-* For non-related errors (such as Minecraft crashes or Internet connection problems), seek help from an external source.
+* Ensure that you have read our documentation thoroughly, we could've already mentioned it.
+* If the above does not work, try searching the forum for pre-existing discussions.
+* For development-related issues, make a suggestion on the forum instead.
+* For client-side errors (such as Minecraft crashes or Internet connection problems), seek help from an external source.
 
 ### Get help on Discord
 Sometimes an admin may busy or not on the server.
