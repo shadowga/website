@@ -11,8 +11,7 @@ Administrators work voluntarily and no profit is made off of donations.
 As you may know, hosting the server and forum has a price and both costs are paid annually.
 Besides the aid of financial discounts and money-saving procedures, payments have come mostly off of the owner.
 Receiving donations helps soften the difficulty of paying a large sum every month to keep our community operational.
-
-### The benefits of donating
+Here are a few benefits of making a donation:
 * The warm and beneficial feeling of making a contribution to our server.
 * Being labelled as a hero by our community.
 * Receiving a sincere 'thank you' note from our staff.
