@@ -18,6 +18,5 @@ The red flame shouldn't be warped, disfigured, or recoloured when used in associ
 
 <img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg"> <img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg"> <img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg">
 
-| [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
+| [![logo](https://shadow.ga/img/presskit/logo-small.svg)]  | [![logo](https://shadow.ga/img/presskit/logo-small.svg)] | [![logo](https://shadow.ga/img/presskit/logo-small.svg)] |
 |:---:|:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | http://graphicstock.com |
