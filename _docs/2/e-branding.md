@@ -12,21 +12,4 @@ The red flame shouldn't be warped, disfigured, or recoloured when used in associ
 
 ---
 
-<img align="left" src="https://shadow.ga/img/presskit/logo-small.svg"> <img align="center" src="https://shadow.ga/img/presskit/logo-small.svg"> <img align="right" src="https://shadow.ga/img/presskit/logo-small.svg">
-
-<div style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg" /></div>
-
-<img align="center" src="https://shadow.ga/img/presskit/logo-small.svg" alt="...">
-
-<p align="center">
-  <img src="https://shadow.ga/img/presskit/logo-small.svg">
-</p>
-
-<center>
-
-| ![logo](https://shadow.ga/img/presskit/logo-small.svg)  | ![logo](https://shadow.ga/img/presskit/logo-small.svg)  | ![logo](https://shadow.ga/img/presskit/logo-small.svg)  |
-|:-:|:-:|:-:|
-
-</center>
-
-| .svg | http://audioblocks.com | http://graphicstock.com |
+<div style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg" /></div> <div style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg" /></div> <div style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg" /></div>
