@@ -25,3 +25,6 @@ We have a specific palette of colours to use on our website and forum.
 Keeping track of our theme helps to keep everything clean around here.
 For highlights, we will use the same type of red but dark blues use `#3c5675` (hsl: `212,32,34` and rgb: `60,86,117`) while light blues use `#88a6c5` (hsl: `210,34,65` and rgb: `136,166,197`) instead.
 Black text isn't entirely black either, it's actually `#444444` (hsl: `0,0,26` and rgb: `68,68,68`).
+
+### Press kit
+We have a press kit you can download for a sample of our logos, fonts, and colours.
