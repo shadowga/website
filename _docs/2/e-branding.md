@@ -11,7 +11,9 @@ Our vector logo is brought to you by the folks who made GitHub Octicons, a free 
 The red flame shouldn't be warped, disfigured, or recoloured when used in association with our server and forum.
 
 ---
-<img style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg"></div>
+
+<img style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg">
+
 <img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg">
 
 <img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg"> <img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg"> <img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg">
