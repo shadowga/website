@@ -19,3 +19,7 @@ The red flame shouldn't be warped, disfigured, or recoloured when used in associ
 Usually, we use the red flame to represent both our name and brand.
 The flame is almost always used in our specific red, `#c0392b` (hsl: `5,63,46` and rgb `192,57,43`).
 You can use black, grey, or white if the logo can't be displayed in red.
+
+### Website colours
+We have a specific palette of colours to use on our website and forum.
+Keeping track of our theme helps to keep everything clean around here.
