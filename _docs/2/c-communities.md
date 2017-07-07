@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 2d. Associated communities
-permalink: /docs/2/d-communities/
+title: 2c. Associated communities
+permalink: /docs/2/c-communities/
 ---
 
 Besides the server, our community mainly uses the forum and Discord server to get server-related information across.
