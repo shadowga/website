@@ -14,9 +14,8 @@ The red flame shouldn't be warped, disfigured, or recoloured when used in associ
 
 <div style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg"></div>
 
-<img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg">
+---
 
-<img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg"> <img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg"> <img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg">
-
-| [![logo](https://shadow.ga/img/presskit/logo-small.svg)]  | [![logo](https://shadow.ga/img/presskit/logo-small.svg)] | [![logo](https://shadow.ga/img/presskit/logo-small.svg)] |
-|:---:|:---:|:---:|
+Usually, we use the red flame to represent both our name and brand.
+The flame is almost always used in our specific red, `#c0392b` (hsl: `5,63,46` and rgb `192,57,43`).
+You can use black, grey, or white if the logo can't be displayed in red.
