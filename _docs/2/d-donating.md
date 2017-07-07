@@ -7,18 +7,18 @@ Although our server is a non-profit organisation, donating to the server helps o
 We attempt to not force donating on people and nothing on our server requires donating to unlock.
 Administrators work voluntarily and no profit is made off of donations.
 
-## The point of donating
+### The point of donating
 As you may know, hosting the server and forum has a price and both costs are paid annually.
 Besides the aid of financial discounts and money-saving procedures, payments have come mostly off of the owner.
 Receiving donations helps soften the difficulty of paying a large sum every month to keep our community operational.
 
-## The benefits of donating
+### The benefits of donating
 * The warm and beneficial feeling of making a contribution to our server.
 * Being labelled as a hero by our community.
 * Receiving a sincere 'thank you' note from our staff.
 * An attractive Title of Donor for your account on the forum and our Discord server.
 
-## How to donate
+### How to donate
 Donating to the server is easy.
 We use the PayPal donation method so members from all around the world can feel free to contribute.
 Members can donate any amount they want (no matter how small) and pay using a PayPal account or with a credit card.
@@ -40,7 +40,7 @@ Members can donate any amount they want (no matter how small) and pay using a Pa
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-## After donating
+### After donating
 It may take up to twenty-four hours for contibutions to be acknowledged.
 Donations are processed manually and it usually takes a few hours for us to check them.
 If nothing has come of your donation for more than a day, contact us.
