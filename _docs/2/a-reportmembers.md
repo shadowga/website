@@ -14,7 +14,7 @@ We also manage our admin team, so if an administrator has been abusing or has do
 Your admin-related report will be taken into the hands of our executive administrators to assess the issue at hand.
 Keep in mind that falsely reporting an admin is a punishable offense.
 
-## What's needed for a report
+### What's needed for a report
 * The member or admin must be clearly violating our forum or server conduct policy.
 * Any offense the member made must be worthy of a report (remember, an administrator has to read it and deal with it themselves).
 * Reasoning behind the member's actions if possible and how it affects you.
@@ -22,7 +22,7 @@ Keep in mind that falsely reporting an admin is a punishable offense.
 * Willingness to speak with an administrator to further explain yourself if needed.
 * Assurance that (in your mind) you think your report is accurate.
 
-## Filing a member report
+### Filing a member report
 As mentioned above, you can report members by filling out a form.
 To refrain from communication restraints, we ask that you provide contact information (Discord account preferred).
 
