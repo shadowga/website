@@ -11,7 +11,7 @@ We recommend that all members have it installed.
 If the server does not notify you to install the resource pack automatically, you can download and apply it manually.
 The resource pack is an open-source project and we use GitHub for easy editing and the ability to quickly male changes.
 This means that you can obtain the newest version from your browser using the below link.
-<br>
+
 _To download the resource pack, click [this link](https://github.com/shadowga/resourcepack/archive/master.zip)._
 
 ### Installing the resource pack
