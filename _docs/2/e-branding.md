@@ -12,4 +12,8 @@ The red flame shouldn't be warped, disfigured, or recoloured when used in associ
 
 ---
 
-<div style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg"></div><div style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg"></div><div style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg"></div>
+<div style="text-align:center"><img src="https://shadow.ga/img/presskit/logo-small.svg"></div>
+
+<img src="image1.png" width="425"/> <img src="image2.png" width="425"/> 
+
+<img style="text-align:center" src="https://shadow.ga/img/presskit/logo-small.svg"></div>
