@@ -7,8 +7,8 @@ permalink: /docs/3/a-becomingadmin/
 We always keep an eye out for potential administrators as the server grows.
 While there are different ranks of admin, they all have one thing in common and that is to be reliable and helpful.
 This is why candidates for the position are hand-picked based on how they present themselves to everyone.
+Here's what we look for:
 
-## What we look for
 * The ability to act mature and professional in difficult situations.
 * Maintained control over problems when put under heavy stress by other members.
 * Knowledge of our rules and helpfulness to inexperienced newcomers.
@@ -17,12 +17,12 @@ This is why candidates for the position are hand-picked based on how they presen
 * Members who go out of their way to improve other people's experiences.
 * Good communicators, people who know the English language well and can talk to people clearly.
 
-## Selecting members
+### Selecting members
 If you're already an administrator, you can select a member to the position.
 Selected members are expected to stand out from everyone else and meet all of the above requirements.
 By select a member, you agree that they represent a model candidate in your eyes and bring a higher-ranked admin's attention to the member.
+We have a few requirements for selection:
 
-### Requirements for selection
 * An administrator can only select one member per year.
 * The member must have all qualities of our selection checklist (shown above).
 * The member must know the conduct policies, stay up to date on recent information, and read all posted announcements.
