@@ -7,7 +7,7 @@ Our server attempts to have the feeling of freedom and equality for all members.
 
 Keep in mind that really obvious rules may not be stated here. Use common sense on the server at all times. You can get in trouble for something that isn't directly stated in a conduct policy.
 
-## Bannable offenses
+### Bannable offenses
 These offenses can result in a twenty-four-hour ban or greater.
 They may also result in a suspension if repeated noticeably by the same member.
 
@@ -23,7 +23,7 @@ They may also result in a suspension if repeated noticeably by the same member.
  - Committing rogue activity as a higher rank or administrator (this includes abuse, or breaking rules with knowledge).
  - Threatening real-life harm to yourself or another member (including suicidal threats and suicide notes).
 
-## Temporarily bannable offenses
+### Temporarily bannable offenses
 These offenses can result in a smite, verbal warning, or short-time ban if done lightly (ex. breaking only six
 blocks in someone's build).
 They may also result in a twenty-four-hour ban or greater (ex. griefing someone's build massively on purpose, or WorldEdit grief).
@@ -44,7 +44,7 @@ They may also result in a twenty-four-hour ban or greater (ex. griefing someone'
  - Changing the WorldEdit limit without permission from an admin.
  - Begging for an administrative rank.
 
-## Allowed
+### Allowed
 These actions are allowed unless told otherwise by an administrator.
 
  - Curse and/or swear, this server is welcome to all ages therefore we do not censor worded profanity.
