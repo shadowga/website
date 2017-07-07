@@ -29,5 +29,6 @@ Black text isn't entirely black either, it's actually `#444444` (hsl: `0,0,26` a
 ### Press kit
 We have a press kit you can download for a sample of our logos, fonts, and colours.
 If you're looking for something that isn't included in the press kit, you can send us a message and we'll do our best to get it for you.
+Any art using the brand can be sent to us for approval.
 
 *To download the press kit, visit this page.*
