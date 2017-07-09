@@ -18,9 +18,9 @@ Here's what we look for:
 * Good communicators, people who know the English language well and can talk to people clearly.
 
 ### Selecting members
-If you're already an administrator, you can select a member to the position.
+If you're already an administrator; you can select a member for the position.
 Selected members are expected to stand out from everyone else and meet all of the above requirements.
-By select a member, you agree that they represent a model candidate in your eyes and bring a higher-ranked admin's attention to the member.
+By selecting a member, you agree that they represent a model candidate in your eyes and bring a higher-ranked admin's attention to the member.
 We have a few requirements for selection:
 
 * An administrator can only select one member per year.
