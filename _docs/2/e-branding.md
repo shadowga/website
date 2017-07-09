@@ -31,4 +31,4 @@ We have a press kit you can download for a sample of our logos, fonts, and colou
 If you're looking for something that isn't included in the press kit, you can send us a message and we'll do our best to get it for you.
 Any art using the brand can be sent to us for approval.
 
-*To download the press kit, click [this link](https://github.com/shadowga/website/raw/master/presskit.zip).*
+*To download the press kit, click [this link](https://shadow.ga/img/presskit.zip).*
