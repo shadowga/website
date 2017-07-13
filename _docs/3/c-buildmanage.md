@@ -9,7 +9,7 @@ Learning to master these tools is important when rolling back grief and restorin
 ## Using CoreProtect
 CoreProtect is a heavy block management tool that provides detailed logs of all blocks placed and removed.
 This plugin allows you to make detailed, specific rollbacks and restorations while managing the integrity of our worlds.
-You can display an in-game list of the available commands with three aliases:
+You can display an in-game list of the available options with three main commands:
  * `/coreprotect help` - The default and longest command, only admins can use it.
  * `/core help` - An alias of the default command, only admins can use it.
  * `/co help` - The shortest alias, only admins can use it.
@@ -136,3 +136,10 @@ This command is only intended for emergency situations where the issue cannot be
  * `/wipeflatlands` - Wipes the flatlands while restarting the server.
 
 This command can only be used through Telnet or another console.
+
+## Managing Async
+AsyncWorldEdit (AWE) is an addition to WorldEdit that allows for larger edits without lagging the server.
+Seniors and higher are capable of viewing, purging, and cancelling member's edits in the queue.
+You can display an in-game list of the available options with the following main command:
+ * `/awe help` - The default command, only Senior Admins and higher can use it.
+
