@@ -178,7 +178,7 @@ Admins should only use this command in emergencies as it can cause a major chang
 ### Toggling Async
 Async (AWE) is enabled by default but this command can disable or re-enable the feature.
 With Async disabled, edits will be performed without lag prevention.
-> **Note:** This command is not recommended unless given permission by an Executive or higher. It can potentially result in selections (in progress) becoming unresponsive or abnormally slow. In some cases, edits in progress may stop working entirely.
+> **Note:** This command is not recommended without given permission by an Executive or higher. It can potentially result in selections (in progress) becoming unresponsive or abnormally slow. In some cases, edits in progress may stop working entirely.
 
  * `/awe toggle` - Disables or enables the AsyncWorldEdit service.
  
