@@ -143,3 +143,45 @@ Seniors and higher are capable of viewing, purging, and cancelling member's edit
 You can display an in-game list of the available options with the following main command:
  * `/awe help` - The default command, only Senior Admins and higher can use it.
 
+### Viewing edit jobs
+This command allows you to view a personal or global updated list of the queued block operations.
+ * `/awe jobs` - Displays queued block operations.
+ 
+#### Command usage
+ * `/awe jobs [page]` - Displays a list of your queued block operations.
+ * `/awe jobs u:<user> [page]` - Displays a list of another member's block operations.
+ * `/awe jobs all [page]` - Displays a global list of the server's queued block operations.
+ 
+The `[page]` option can be used to specify different pages in numbers, such as `2` for the second page or `10` for the tenth.
+
+### Cancelling edit jobs
+This command allows you to cancel specific edits.
+ * `/awe cancel` - Cancels queued block operations.
+ 
+#### Command usage
+ * `/awe cancel <#id>` - Cancels one of your queued edits depending on the operation ID.
+ * `/awe cancel u:<user> <#id>` - Cancels one of another member's queued edits depending on the operation ID.
+ 
+The `<#id>` option (operation ID) is required as it specifies which edit should be canceled.
+You can find a specific ID by viewing jobs for yourself, another member, or the server.
+ 
+### Purging edit jobs
+This command is similar to the above one except it will cancel every edit in a player's queue or globally.
+Admins should only use this command in emergencies as it can cause a major change.
+ * `/awe purge` - Purges all queued block operations.
+
+#### Command usage
+ * `/awe purge` - Without any other arguments, purges all of your queued operations.
+ * `/awe purge u:<user>` - Purges all of a specific member's queued operations.
+ * `/awe purge all` - Purges all queued operations on the server.
+  
+### Toggling Async
+Async (AWE) is enabled by default but this command can disable or re-enable the feature.
+With Async disabled, edits will be performed without lag prevention.
+> **Note:** This command is not recommended unless given permission by an Executive or higher. It can potentially result in selections (in progress) becoming unresponsive or abnormally slow. In some cases, edits in progress may stop working entirely.
+ * `/awe toggle` - Disables or enables the AsyncWorldEdit service.
+ 
+#### Command usage
+ * `/awe toggle` - Without any other arguments, toggles Async on/off depending on the current state.
+ * `/awe toggle on` - Enables the Async service.
+ * `/awe toggle off` - Disables the Async service.
