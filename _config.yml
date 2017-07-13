@@ -1,8 +1,8 @@
 markdown: kramdown
 title: Shadow.GA
-email: shadowarmadyl@outlook.com
+email: webmaster@mg.shadow.ga
 description: "We are a creative building server."
-baseurl: ""
+baseurl: "https://shadow.ga"
 url: "https://shadow.ga"
 twitter_username:  shadowgadev
 google_analytics_id: UA-44566935-2
