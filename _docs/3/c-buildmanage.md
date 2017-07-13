@@ -4,7 +4,7 @@ title: 3c. Build management
 permalink: /docs/3/c-buildmanage/
 ---
 As an admin, you are given powerful tools to manage block placements, deletions, and WorldEdit selections.
-Learning to master these tools is important when rolling back grief and restoring other member's builds.
+Learning to master these tools is important when rolling back grief and restoring a member's builds.
 
 ## Using CoreProtect
 CoreProtect is a heavy block management tool that provides detailed logs of all blocks placed and removed.
@@ -25,7 +25,7 @@ It will show WorldEdit selections, placements, deletions, and even natural chang
 This tool is mostly used to quickly check for damage such as a deleted build and also displays how long ago a change was made.
 
 ### Rolling back a member
-Likely the most used tool of this plugin, the rollback feature allows an administrator to roll any member's changes back.
+Likely the most used tool of this plugin, the rollback feature allows an administrator to roll a member's changes back.
 This command will affect just about anything so specifying perimeters is important.
  * `/co rollback` - Performs a rollback depending on the user and time you specify.
  * `/co rb` - An alias of the previous command and serves the same function.
@@ -166,7 +166,7 @@ The `<#id>` option (operation ID) is required as it specifies which edit should 
 You can find a specific ID by viewing jobs for yourself, another member, or the server.
  
 ### Purging edit jobs
-This command is similar to the above one except it will cancel every edit in a player's queue or globally.
+This command is similar to the above one except it will cancel every edit in a member's queue or globally.
 Admins should only use this command in emergencies as it can cause a major change.
  * `/awe purge` - Purges all queued block operations.
 
