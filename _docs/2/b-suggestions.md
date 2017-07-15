@@ -16,19 +16,20 @@ This may also be referred to as a bug.
 
 ### What a suggestion is
 A suggestion is something not yet implemented that you would like to see on here.
-Usually people suggest big changes like introducing a new feature, but people can also suggest small changes (even grammatical or cosmetic).
+Usually people suggest big things like introducing a new feature, but people can also suggest small changes (even grammatical or cosmetic).
 Suggestions may or may not be accepted depending on how much of a change they would make and how you could implement it.
 
-### Requirements
+### Taking action
+To reveal an issue or suggestion, you may start a discussion on our forum.
+If your discussion is about an issue, please use the 'development' tag paired with a proper sub-tag (server, forum, or resource pack).
+If it's about a suggestion, use the 'suggestions' tag instead.
+After your post is voted on by our administrator team, it can be accepted or denied by an Executive or above.
+Here's what's required for revealing an issue or suggestion:
 * You must have a forum account.
 * You must make sure that nobody has made a discussion about your same topic.
 * A clear description of the problem or what you want to suggest.
 * If this is an issue, please ensure that the problem is reproducible.
 * If this is a suggestion, please describe how your proposal would benefit us.
 
-### How to do it
-To reveal an issue, you may start a discussion with the 'development' topic on our forum.
-When making an issue discussion, please use sub-topics to make clear what the problem is about.
-To make a suggestion, you may start a discussion with the 'suggestions' topic.
-As mentioned above, please use the correct sub-topic.
-Most importantly, happy contributing and thank you.
+### Implementation
+Most server-related changes are implemented by a developer, but some things may only require an addition or deletion to our library of plugins. Changes to our forum are usually made by modifying our extension list while website changes (still abbreviated under the 'forum' sub-tag) are made through the corresponding GitHub repository.
