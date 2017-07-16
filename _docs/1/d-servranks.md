@@ -45,7 +45,7 @@ There is only one owner.
 ## Member titles
 Titles, unlike ranks, do not carry any extra permissions on the server or forum but can be used to indicate the status of a person.
 They do not exist on the server but are given to members through the forum and our Discord server.
-Member titles may also be given out as awards to members who make certain achievements.
+Both normal members and administrators alike can have titles, and unlike ranks you can have more than one.
 
 ### Title of Developer
 Anyone who develops for our community is given this title.
@@ -67,7 +67,7 @@ The status of being a donor is given to any member who makes a donation to our s
 Anyone can earn this title by helping to fund our server, no matter how small of a contribution they make.
 Members who obtain this title cannot be revoked of it.
 
-### Suspended
+## Suspension
 The status of being suspended can be given to any member that breaks the rules to a point where banning them is ineffective.
 Members can be suspended by Executives or the Server Owner if they are petitioned to do so by another administrator.
 Members who obtain suspension can be revoked of it under unusual circumstances.
