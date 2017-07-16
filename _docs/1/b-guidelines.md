@@ -5,18 +5,13 @@ permalink: /docs/1/b-guidelines/
 ---
 Guidelines give the community a direct and consistent set of rules.
 We have these rules for both our server and forum.
-Keep in mind that obvious laws may not be mentioned here so common sense at all times is vital.
 If you are caught violating the guidelines, an administrator can take the action they deem necessary.
 
-## Server guidelines
+### Server guidelines
 Our server tries to maintain freedom and equality for all members.
 To keep that freedom, we must create rules that seperate right and wrong on our server.
 
-### Bannable offenses
-These offenses can result in a twenty-four-hour ban or greater.
-They may also result in a suspension if repeated noticeably by the same member.
-
-- **Don't harm the server.** - Don't deliberately lag, crash, or corrupt the world in any way. We have plugins to prevent lag, but only perform massive edits with the permission of an administrator. Deliberately lagging, crashing, or corrupting the world in any way is forbidden. Don't attempt to weaken the server's response time with lag machines; and don't corrupt the game by using exploits such as chests and other various blocks. Flooding any chat with messages using plain text, commands, or hacks isn't allowed. The same goes for bot accounts, fake members that join the server to spam or lag us.
+- **Don't harm the server.** - Don't deliberately lag, crash, or corrupt the world in any way. We have plugins to prevent lag, but only perform massive edits with the permission of an administrator. Deliberately lagging, crashing, or corrupting the world in any way is forbidden. Don't attempt to weaken the server's response time with lag machines; and don't corrupt the game by using exploits such as chests and other various blocks. Flooding any chat with messages using plain text, commands, or hacks isn't allowed. The same goes for bot accounts, fake members that join the server to spam or lag us. Advertising isn't allowed in the main chat.
 
 - **Don't harm others.** - Respect the wishes of others by giving them privacy. If you think you're annoying someone, it's best to simply stay away from them so you don't anger them further. Destroying the builds of others, called griefing, isn't allowed. Administrators are capable of rolling back any grief using a block logging tool. Don't 'troll' others or use derogatory remarks; such as comments that are potentially sexist, racist, homophobic, or directed to offend someone. Don't use hacks or exploits that can annoy others, such as potions or mobs.
 
@@ -24,47 +19,9 @@ They may also result in a suspension if repeated noticeably by the same member.
 
 - **Don't plagiarise.** The act of invading other's builds or using someone else's schematics without permission from the original creator is forbidden. Taking credit for the builds of others isn't allowed unless the responsible architect allows you to do so. Although you can download any schematic from the server, respect the wishes of others by not uploading their content to sites.
 
- - Purposely crashing or corrupting any world on the server in any way.
- - Mass griefing or "unrecoverable actions", mostly occurring in WorldEdit.
- - Flooding the server with chat messages 
- - Using harmful hack client methods (crash books, forceop signs, etc.) against a member or the server.
- - Using harmful items (crash potions, crash chests, etc.) against a member or the server.
- - Posing or attempting to log in as admins or known members.
- - Using collected or "spambot" accounts (this includes accounts received from alt dispensers) to log in.
- - Bypassing a ban with an alternate account, and/or bypassing an IP ban with a proxy/VPS.
- - Referring or linking to malicious, pornographic, or hate content in chat (you can PM someone with their consent).
- - Committing rogue activity as a higher rank or administrator (this includes abuse, or breaking rules with knowledge).
- - Threatening real-life harm to yourself or another member (including suicidal threats and suicide notes).
+- **Don't bypass ban.** - You shouldn't try logging in with an alternate account when banned. Evading your ban by using a proxy or virtual private network isn't allowed and can result in a suspension. Don't attempt to undermine administrators by ignoring or blocking them. Don't use other services such as Dynmap to appeal your ban. Instead, you can use the website to file an appeal.
 
-### Temporarily bannable offenses
-These offenses can result in a smite, verbal warning, or short-time ban if done lightly (ex. breaking only six
-blocks in someone's build).
-They may also result in a twenty-four-hour ban or greater (ex. griefing someone's build massively on purpose, or WorldEdit grief).
-
- - Griefing, damaging, or building on other's property (regardless if you repaired it or not).
- - Plagiarism of content and copying member's builds without their consent.
- - Advertising your server IP or a website in public chat.
- - Using "trolling" techniques on admins or other members.
- - Using a nickname that could offend someone else.
- - Any act of racism, sexism, or hate crimes (offending a lot of people could result in suspension).
- - Falsely reporting other members or attempting to frame a member (including admins).
- - Comments that are potentially sexist, racist, homophobic, or directed to offend a known member on the server (denouncing someone's religious views also counts).
- - Violating the privacy of others by teleporting to them or their builds (unless you have their permission).
- - Teleporting members without their permission. This also includes modifying another member's `tptoggle`.
- - Announcing the IP (Internet Provider) address of any admin or member in public chat, or in message without the owner of that IP's consent.
- - Using offensive tags or nicknames designed to anger or offend (a good example would be using "FuckAllAdmins"), or nicking others without their permission.
- - Tampering with the inventories of other members without their permission, or spamming inventories with items.
- - Changing the WorldEdit limit without permission from an admin.
- - Begging for an administrative rank.
-
-### Allowed
-These actions are allowed unless told otherwise by an administrator.
-
- - Curse and/or swear, this server is welcome to all ages therefore we do not censor worded profanity.
- - Build artistic nudity and demonstrations of intercourse if it's mentioned as NSFW (not safe for work).
- - Publicly role-playing on the server (only if you're not spamming).
- - Using hacked mods and clients that aren't harmful to other members or the server.
- - Using a proxy or VPN to cloak your IP (only if you're not bypassing IP ban).
+- **Use common sense.** - Don't use offensive tags or nicknames designed to offend. Threatening harm to yourself or other members, including suicide-related threads, will result in an immediate suspension. If an administrator doesn't like what they see, they're entitled to punish for something that isn't directly mentioned in our guidelines. It's important to use common sense at all times.
  
 ## Forum guidelines
 As with our server, we prefer to maintain freedom of speech on our forum.
@@ -79,9 +36,7 @@ Our forum guidelines also apply to the general website and Discord server.
 
 - **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on.
 
-- **Don't evade server perm-ban.** If you were subject to a server perm-ban then you may not create an account. Remember, anyone (an account or not) can read documentation. Don't make an account just to plead with admins in hope that they'll unban you. That won't happen.
-
-- **Don't evade a forum ban.** Making a new account when you have already been banned from the forum is not allowed. We will delete your account anyway.
+- **Don't evade suspension.** If you're subject to a suspension then you may not create an account. Remember, anyone (an account or not) can read documentation. If you already had an account prior to the suspension, it will be restricted.
 
 - **Don't plagiarise.** If you don't already know the definition, plagiarism is copying someone else's work and calling it your own. Posts can be deleted for plagiarism.
 
