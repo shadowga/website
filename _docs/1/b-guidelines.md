@@ -16,9 +16,16 @@ To keep that freedom, we must create rules that seperate right and wrong on our 
 These offenses can result in a twenty-four-hour ban or greater.
 They may also result in a suspension if repeated noticeably by the same member.
 
+- **Don't cause lag.** - Deliberately lagging, crashing, or corrupting the world in any way is forbidden. Although we have plugins to prevent lag, massive WorldEdits that delay our server's response response time will result in a temporary ban from the server.
+- **Don't crash us.** - This rule has something to do with the previous one as it involves lag. Crashing the server (as in downtime) will result in a twenty-four hour ban. If you crash the server multiple times, it may warrant a suspension. Corrupting the world with crash items, blocks, or commands isn't allowed.
+- **No griefing.** - Destroying the builds of others, called griefing, isn't allowed. Administrators are capable of rolling back any grief using a block logging tool. Mass or repeat griefing can result in a suspension.
+- **No spamming.** - Flooding any chat with messages using plain text, commands, or hacks isn't allowed in any way. The same goes for bot accounts, fake members that join the server to spam or heavily lag the server.
+- **Only some hacks.** - Hacked clients are allowed, but only if they don't harm the server or other players. Using hacks to unfairly fight, compete, or break other rules isn't allowed. This includes using items such as potions and chests that exploit game features.
+- **Don't evade.** - Attempting to evade bans or undermine actions made by an administrator will result in an immediate suspension from the server and forum. Members shouldn't join on other accounts to ask why they were unbanned to begin with. Instead, someone who has been banned can file an appeal.
+- **Don't plagiarise.** The act of invading other's builds or using someone else's schematics without permission from the original creator is forbidden. Taking credit for the builds of others isn't allowed unless the responsible architect allows you to do so.
  - Purposely crashing or corrupting any world on the server in any way.
  - Mass griefing or "unrecoverable actions", mostly occurring in WorldEdit.
- - Flooding the server with chat messages, accounts, or using DDOS/DOS methods against the server.
+ - Flooding the server with chat messages 
  - Using harmful hack client methods (crash books, forceop signs, etc.) against a member or the server.
  - Using harmful items (crash potions, crash chests, etc.) against a member or the server.
  - Posing or attempting to log in as admins or known members.
