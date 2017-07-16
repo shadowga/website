@@ -74,7 +74,7 @@ Members who obtain suspension can be revoked of it under unusual circumstances.
 
 #### Penalties of suspension
 * You are permanently banned from the server, meaning you can never join again. If you bypass this, you will remain under suspension.
-* Your forum account is indefinitely disabled, stripping you of all of your forum permissions.
+* Your forum account is indefinitely disabled, stripping you of all forum permissions.
 * Depending on how severe the crime is, you may be banned from visiting the website.
 * You may keep your Discord membership as a form of emergency contact under some situations.
 * If the crime is unlawful, such as threatening harm to yourself or others, your location and known alias will be forwarded to local authorities.
