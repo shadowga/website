@@ -34,7 +34,6 @@ Below is a list of every code, a quick summary of what they mean, and the steps 
 ### html-cl-403
 This error signifies that you do not have permission to access this page.
 A developer could've modified the access permissions or made the content private.
-
 * Ensure that you're supposed to be authorized in the first place.
 * Make sure that you're logged into your forum account if the page contains a forum subdomain.
 * Check to make sure that you aren't suspended if the page varies by account.
