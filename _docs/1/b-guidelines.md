@@ -23,7 +23,7 @@ To keep that freedom, we must create rules that seperate right and wrong on our 
 
 - **Use common sense.** - Don't use offensive tags or nicknames designed to offend. Threatening harm to yourself or other members, including suicide-related threads, will result in an immediate suspension. If an administrator doesn't like what they see, they're entitled to punish for something that isn't directly mentioned in our guidelines. It's important to use common sense at all times.
  
-## Forum guidelines
+### Forum guidelines
 As with our server, we prefer to maintain freedom of speech on our forum.
 That being said, regulations are necessary to keep discussions in order.
 Our forum guidelines also apply to the general website and Discord server.
