@@ -4,6 +4,8 @@ title: 1e. Server worlds
 permalink: /docs/1/e-servworlds/
 ---
 We have different types of worlds so members may choose any environment they like.
+While every world shares the same set of guidelines, they can help distinguish the atmosphere and design of builds.
+Different worlds are also great for activities such as survival mode melee or architect competitions.
 
 ## Switching worlds
 Worlds can be switched by any member.
