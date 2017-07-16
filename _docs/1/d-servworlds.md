@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: 1e. Server worlds
+title: 1d. Server worlds
 permalink: /docs/1/d-servworlds/
 ---
 We have different types of worlds so members may choose any environment they like.
