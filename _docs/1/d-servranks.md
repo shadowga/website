@@ -83,5 +83,5 @@ Here are the penalties of suspension:
 
 Depending on how severe the reason is, a member can be suspended indefinitely or for a fixed time.
 Indefinite suspensions cannot be appealed, have no end date, and can only be revoked under unusual circumstances.
-Members can't appeal fixed suspensions either, but they have an expiration date.
-In most cases, fixed suspensions won't be for longer than a month unless decided otherwise.
+Members can't appeal fixed suspensions either but they have an expiration date.
+In most cases fixed suspensions won't be for longer than a month unless decided otherwise.
