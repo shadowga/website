@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1f. Appealing a ban
-permalink: /docs/1/f-banappeals/
+title: 1e. Appealing a ban
+permalink: /docs/1/e-banappeals/
 ---
 Most bans are permanent and eventually expire, but members are always given the opportunity to appeal before that time has passed.
 We provide a quick and easy way to file a ban appeal if you ever need to be unbanned in advance.
