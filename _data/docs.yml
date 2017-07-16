@@ -1,13 +1,12 @@
 - title: 1. Learning the basics
   docs:
   - 
-  - 1/b-servrules
-  - 1/c-forumrules
-  - 1/d-ranksandtitles
-  - 1/e-servworlds
-  - 1/f-banappeals
-  - 1/g-resourcepack
-  - 1/h-troubleshooting
+  - 1/b-guidelines
+  - 1/c-ranksandtitles
+  - 1/d-servworlds
+  - 1/e-banappeals
+  - 1/f-resourcepack
+  - 1/g-troubleshooting
 
 - title: 2. Contributing
   docs:
