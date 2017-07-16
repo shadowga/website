@@ -29,12 +29,12 @@ You can also contact our server owner using the Discord handle `@irix#5973` if t
 If you navigate this website enough, you may make a typographical error and accidentally encounter an error page.
 What you see when visiting one of these links describes the problem and gives you an error code.
 These codes can help developers identify the problem and find a way to solve it.
-Below is a list of every code and a quick summary of what they mean.
+Below is a list of every code, a quick summary of what they mean, and the steps we recommend you take to fix the problem.
 
 ### html-cl-403
 This error signifies that you do not have permission to access this page.
 A developer could've modified the access permissions or made the content private.
-#### Recommended solutions
+
 * Ensure that you're supposed to be authorized in the first place.
 * Make sure that you're logged into your forum account if the page contains a forum subdomain.
 * Check to make sure that you aren't suspended if the page varies by account.
@@ -43,7 +43,7 @@ A developer could've modified the access permissions or made the content private
 Also known as a 404 error, this signifies that the page you have attempted to locate couldn't be found.
 A link with this error code could easily have content in the future.
 If the link previously contained content, it has likely either been deleted or moved to another link.
-#### Recommended solutions
+
 * Check for typographical or formatting errors in the link you used.
 * If the link was from a dated bookmark or you were redirected there, the content could've been modified.
 * Ensure that your link contains a proper extension at the end if needed.
@@ -51,7 +51,8 @@ If the link previously contained content, it has likely either been deleted or m
 ### html-se-500
 This error signifies that there's an internal server error.
 An internal error could've been the result of server downtime or a file misplacement.
-#### Recommended solutions
+Here's what you can do:
+
 * Wait for a few minutes and reload the page to see if the error was repaired.
 * Check any official community resources for notes about known errors or planned downtime.
 * If none of the above solve the issue, notify an administrator.
@@ -60,7 +61,7 @@ An internal error could've been the result of server downtime or a file misplace
 Generally a forum error, this signifies that the service in question is down for maintenance.
 Under certain circumstances it can also indicate an overload in traffic.
 Usually these errors are only temporary and are on purpose to save data when content is being developed.
-#### Recommended solutions
+
 * Wait for a few minutes and reload the page to see if the error was repaired.
 * Check any official community resources for notes about planned downtime.
 * Try accessing similar pages under the same subdomain to see if they function.
