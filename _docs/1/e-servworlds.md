@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: 1e. Server worlds
-permalink: /docs/1/e-servworlds/
+permalink: /docs/1/d-servworlds/
 ---
 We have different types of worlds so members may choose any environment they like.
 While every world shares the same set of guidelines, they can help distinguish the atmosphere and design of builds.
