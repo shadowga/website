@@ -73,11 +73,15 @@ Members who obtain this title cannot be revoked of it.
 ## Suspension
 The status of being suspended can be given to any member that breaks the rules to a point where banning them is ineffective.
 Members can be suspended by Executives or the Server Owner if they are petitioned to do so by another administrator.
-Members who obtain suspension can be revoked of it under unusual circumstances.
+Here are the penalties of suspension:
 
-#### Penalties of suspension
-* You are permanently banned from the server, meaning you can never join again. If you bypass this, you will remain under suspension.
-* Your forum account is indefinitely disabled, stripping you of all forum permissions.
+* You are banned from the server, meaning you can never join again. If you bypass this, you will remain under suspension.
+* Your forum account is disabled, stripping you of all forum permissions.
 * Depending on how severe the crime is, you may be banned from visiting the website.
 * You may keep your Discord membership as a form of emergency contact under some situations.
 * If the crime is unlawful, such as threatening harm to yourself or others, your location and known alias will be forwarded to local authorities.
+
+Depending on how severe the reason is, a member can be suspended indefinitely or for a fixed time.
+Indefinite suspensions cannot be appealed, have no end date, and can only be revoked under unusual circumstances.
+Members can't appeal fixed suspensions either, but they have an expiration date.
+In most cases, fixed suspensions won't be for longer than a month unless decided otherwise.
