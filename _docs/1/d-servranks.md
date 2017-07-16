@@ -3,6 +3,9 @@ layout: docs
 title: 1d. Ranks and titles
 permalink: /docs/1/d-ranksandtitles/
 ---
+Having a system of ranks and titles is a great way of organising our community, although the two should not be confused as they carry important differences.
+Knowing our various ranks allows members to identify administrators more easily while our titles are great for both recognition and communication.
+
 ## Administrator ranks
 To enforce the server rules, we have set up a small group of server administrators.
 They are given administrative tools, such as banning and grief logging, to keep the server from going out of control.
@@ -44,7 +47,7 @@ There is only one owner.
 
 ## Member titles
 Titles, unlike ranks, do not carry any extra permissions on the server or forum but can be used to indicate the status of a person.
-They do not exist on the server but are given to members through the forum and our Discord server.
+They do not exist on the server or forum but are given to members through the Discord server.
 Both normal members and administrators alike can have titles, and unlike ranks you can have more than one.
 
 ### Title of Developer
