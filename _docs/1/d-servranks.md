@@ -4,7 +4,7 @@ title: 1d. Ranks and titles
 permalink: /docs/1/d-ranksandtitles/
 ---
 Having a system of ranks and titles is a great way of organising our community, although the two should not be confused as they carry important differences.
-Knowing our various ranks allows members to identify administrators more easily while our titles are great for both recognition and communication.
+Knowing our various ranks allows members to identify administrators more easily while our titles are great for communication.
 
 ## Administrator ranks
 To enforce the server rules, we have set up a small group of server administrators.
