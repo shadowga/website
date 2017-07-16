@@ -22,7 +22,7 @@ They may also result in a suspension if repeated noticeably by the same member.
 
 - **Don't be malicious.** - Hacked clients are allowed, but only if they don't harm the server or other players. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to malicious, pornographic, or hateful content in chat. Committing rogue activity as an administrator (such as abuse or intently violating the guidelines) will result in a suspension. Don't modify the inventory of others or their `tptoggle` without consent from that member. Attempting to frame people with false reports (including administrators) is forbidden and administrator reports should be made through the website.
 
-- **Don't plagiarise.** The act of invading other's builds or using someone else's schematics without permission from the original creator is forbidden. Taking credit for the builds of others isn't allowed unless the responsible architect allows you to do so. Although you can download any schematic from the server, respect the wishes of others by not uploading their content to third-party sites.
+- **Don't plagiarise.** The act of invading other's builds or using someone else's schematics without permission from the original creator is forbidden. Taking credit for the builds of others isn't allowed unless the responsible architect allows you to do so. Although you can download any schematic from the server, respect the wishes of others by not uploading their content to sites.
 
  - Purposely crashing or corrupting any world on the server in any way.
  - Mass griefing or "unrecoverable actions", mostly occurring in WorldEdit.
