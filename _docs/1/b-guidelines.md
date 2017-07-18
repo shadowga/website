@@ -34,7 +34,7 @@ Our forum guidelines also apply to the general website and Discord server.
 
 - **Don't make discussions with the wrong tag.** Flarum uses a tag system so members know which posts are about what. This allows somebody with specific knowledge to answer posts quickly and filter out what they don't want to read. Always make sure the tags you add to your discussion are relevant. Don't add irrelevant tags to attract people's attention or your post may be removed.
 
-- **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on. Don't start spam discussions or posts, content simply made for the sake of spamming, also known as 'shit-posting'. Only create discussions with a unique topic and always make sure somebody hasn't already discussed what you are posting. Posts like these will be removed.
+- **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on. Don't start spam discussions or posts, content simply made for the sake of spamming, also known as 'shit-posting'. Only create discussions with a unique topic and always make sure somebody hasn't already discussed what you are posting. Posts like these will be deleted.
 
 - **Adhere to law.** Don't post anything against copyright law on the forum. We are based in the United States, so we follow U.S. law. Your post will be removed if it violates copyright and (if needed) you will be reported to the proper authorities. Plagiarism isn't tolerated here; don't copy posts or work from somewhere else without the original author's permission.
 
