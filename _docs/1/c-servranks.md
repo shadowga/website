@@ -47,7 +47,7 @@ There is only one owner.
 
 ## Member titles
 Titles, unlike ranks, do not carry any extra permissions on the server or forum but can be used to indicate the status of a person.
-They do not exist on the server or forum but are given to members through the Discord server.
+They do not exist on the server or forum but are given to members through the guild.
 Both normal members and administrators alike can have titles, and unlike ranks you can have more than one.
 
 ### Title of Developer
