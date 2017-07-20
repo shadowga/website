@@ -19,7 +19,7 @@ They are given commands similar to an operator on a vanilla Minecraft server, su
 ### Super Admin
 Super Admins are the basic administrators.
 They are given banning and smiting abilities, and full access to grief logging plugins.
-Super Admins are also allowed to use some commands that are blocked to operators, such as `/tpo` and `/say`.
+Super Admins are also allowed to use some commands that are blocked for operators, such as `/tpo` and `/say`.
 
 ### Telnet Admin
 Telnet Admins are given the same commands as Super Admins, however they can use telnet.
