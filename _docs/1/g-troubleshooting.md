@@ -13,9 +13,9 @@ Before considering any of these options we recommend you try to solve the proble
 * For development-related issues, make a suggestion on the forum instead.
 * For client-side errors (such as Minecraft crashes or Internet connection problems), seek help from an external source.
 
-### Get help on Discord
+### Get help on the guild
 Sometimes an admin may busy or not on the server.
-For problems like this we have a guild and you can request an invite link by clicking the 'chat' button on our navigation bar.
+For problems like this we have a Discord guild and you can request an invite link by clicking the 'chat' button on our navigation bar.
 Just like on our server, you can directly message someone on Discord if you prefer talking privately.
 
 ### Get help on the forum
