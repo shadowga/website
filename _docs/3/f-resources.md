@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1f. Resources
-permalink: /docs/1/f-resources/
+title: 3f. Resources
+permalink: /docs/3/f-resources/
 ---
 Our server has different tools and resources that can be used to make tasks easier.
 If a service hasn't been mentioned anywhere else in the documentation, it's listed here for quick reference.
