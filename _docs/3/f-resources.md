@@ -13,7 +13,7 @@ Accessing our file transfer server requires a specific address and port (`http:/
 ### Navigation
 Navigating through the server is fairly easy as each feature can be located using a trailing slash.
 Here's a list of valid directories:
- - `/schematic/list` - Views a dynamic list of saved WorldEdit schematics.
+ - ```/schematic/list``` - Views a dynamic list of saved WorldEdit schematics.
  - `/schematic/upload` - Loads an interface for uploading schematics.
  - `/permbans` - Views a plain text copy of our `permbans.yml` list. Suspended members are added to this list.
  - `/players` - Views a plain text list of our currently added administrators. Usernames are sorted by their rank.
