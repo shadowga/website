@@ -15,7 +15,7 @@ Before considering any of these options we recommend you try to solve the proble
 
 ### Get help on Discord
 Sometimes an admin may busy or not on the server.
-For problems like this we have a Discord server and you can request an invite link by clicking the 'chat' button on our navigation bar.
+For problems like this we have a guild and you can request an invite link by clicking the 'chat' button on our navigation bar.
 Just like on our server, you can directly message someone on Discord if you prefer talking privately.
 
 ### Get help on the forum
