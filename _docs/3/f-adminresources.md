@@ -52,4 +52,4 @@ With the recommend client mentioned above, this information can be specified in 
 
 Keep in mind that the five-digit port can change over time, so check back with this page if it suddenly stops working.
 The steps described may be similar or different depending on what client you use.
-If you can't get another client to work, use the recommended option or consult your software's developer.
+If you can't get another client to work, consult the software's publisher or developer.
