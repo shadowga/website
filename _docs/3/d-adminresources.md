@@ -4,7 +4,7 @@ title: 3d. Admin resources
 permalink: /docs/3/d-adminresources/
 ---
 Our server has different tools and resources that can be used to make tasks easier.
-If a service hasn't been mentioned anywhere else in the documentation, it's listed here for quick reference.
+If a service hasn't been mentioned anywhere else in the documentation; it's listed here for quick reference.
 
 ## File transfer server
 Our server for file uploads and downloads (HTTPD) can be used for quick access to certain in-game files.
