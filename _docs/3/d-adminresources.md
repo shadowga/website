@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 3f. Admin resources
-permalink: /docs/3/f-adminresources/
+title: 3d. Admin resources
+permalink: /docs/3/d-adminresources/
 ---
 Our server has different tools and resources that can be used to make tasks easier.
 If a service hasn't been mentioned anywhere else in the documentation, it's listed here for quick reference.
