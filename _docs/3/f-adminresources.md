@@ -30,7 +30,7 @@ The interface for uploading can only be used by locations that are added in-game
 When uploading a schematic, the 'choose file' option allows you to pick a file from your computer and upload it to the server.
 Files with a size above sixty-four kilobytes will not upload and inappropriate file names aren't allowed.
 
-### Telnet server
+## Telnet server
 Telnet Admins and higher can use the server's command-line interface for administrating without direct access to the game.
 Upon logging in through the telnet service, admins can send commands and view server statistics through a client.
 This feature is helpful for portable administration, log checking, and monitoring as it's basically a lightweight server control panel.
