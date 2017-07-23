@@ -42,7 +42,7 @@ This auth code is stored on your phone or other mobile device.
 #### Activating two-factor login
 To enable two-factor auth, simply go to your profile's [settings](https://f.shadow.ga/settings).
 From there, you can enter the provided code or barcode into the mobile application of your choice. We recommend [Google Authenticator](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en) for retrieving auth codes.
->> **Note:** If you've linked your forum account to GitHub, you should enable two-factor authentication on there as well. There's a guide on doing that [here](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/).
+> **Note:** If you've linked your forum account to GitHub, you should enable two-factor authentication on there as well. There's a guide on doing that [here](https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/).
 
 Your TOTP application should give you a code that you can enter into the text box, submit, and receive a short list of one-time backup codes.
 Remember to store those backup codes in a safe place, you'll need them if you ever have trouble accessing your account.
