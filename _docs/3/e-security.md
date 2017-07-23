@@ -6,7 +6,7 @@ permalink: /docs/3/e-security/
 As an administrator and member of this server, guarding your information is vital to prevent weak points in our community.
 Because the security of your accounts is your responsibility, we recommend both normal members and admins to take this seriously.
 
-## The server
+## In-game security
 The server only accepts premium users so there's always a chance of administrator accounts being hijacked or stolen.
 There's often leaks in several account databases, so admins should keep an eye out to make sure their information hasn't been compromised.
 Administrators can be removed if they haven't taken the proper action during these situations.
@@ -22,7 +22,7 @@ When it comes to verifying accounts when your password isn't available, Mojang u
 Usually the questions asked are common but personal, such as the name of your pet or first school, and it's important not to forget the answers or you'll be locked out of your own account.
 Refrain from using a short string of numbers (commonly '1234') or one-word terms (as mentioned above, like the name of a city).
 
-## The forum
+## Forum security
 Depending on your authorization level, your forum account may contain access to admin-only information or important settings.
 You don't want other people having access to that, which is why it's even more vital to keep private forum information away from prying eyes.
 If your forum account becomes compromised, you should notify the server owner immediately for deactivation.
