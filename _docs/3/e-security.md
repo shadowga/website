@@ -15,7 +15,7 @@ Administrators can be removed if they haven't taken the proper action during the
 Admins must periodically check their e-mail addresses to make sure they weren't included in any recent leaks.
 There are many tools capable of effectively doing this, but we recommend [this](https://haveibeenpwned.com/) service for quick lookups.
 Passwords should be made as long as possible to prevent a brute-force attack, but it's also important to not use obvious terms (such as your last name, date of birth, or something common like a city name).
-GRC provides [Perfect Passwords](https://www.grc.com/passwords.htm), a free webpage that generates random but safe passwords.
+GRC provides [Perfect Passwords](https://www.grc.com/passwords.htm), a free webpage that generates safe passwords.
 
 ### Security questions
 When it comes to verifying accounts when your password isn't available, Mojang uses a set of three security questions with answers unique to what you've chosen.
@@ -31,7 +31,7 @@ If your forum account becomes compromised, you should notify the server owner im
 Like with the server, keeping your e-mail address and password secure is of great importance.
 You can use the same tools mentioned earlier in this page for forum security when it's needed.
 When selecting a username, don't use your real name or revealing information such as a birth date.
-Because everyone can view your forum handle and username, make it something you'd feel comfortable with everyone knowing.
+Because everyone can view your forum handle and username, make it something you'd feel comfortable with.
 
 ### Two-factor authentication
 The forum has a security feature known as 2FA (or two-factor authentication) that prevents login from only the username and password.
