@@ -48,7 +48,7 @@ This plugin can generate a bird's-eye view of any world through your web browser
 With the online interface, you can also view statistics and use the in-game chat.
 
 ### Using the interface
-The interface can be opened like any website [here](http://b.shadow.ga:8123).
+The map can be opened like any other webpage [here](http://b.shadow.ga:8123).
 From there, it will take you to the default world (flatlands).
 By clicking on the arrow to your right, you can select different worlds, switch to different render modes, and view a list of online members.
 Chat messages will be displayed at the bottom-left next to the hyperlink button.
