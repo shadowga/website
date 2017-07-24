@@ -81,4 +81,4 @@ This means that you can obtain the newest version from your browser from [here](
 ### Installation
 After successfully downloading the resource pack, you can install and activate it normally.
 It may take up to a minute for your game to initialize the textures, and then you should be returned to the options menu.
-You have now completed all the steps and your resource pack should be fully working.
+You have now completed all the steps and your resource pack should be working.
