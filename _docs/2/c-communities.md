@@ -21,9 +21,9 @@ New communities yet discovered by our members can always be added to our list th
 The acceptance of a request can depend on multiple factors, but we have guidelines for associated communities that defines our expectations. Here's what we look for:
 * The service must have some common interest with our server or website; and be helpful to the members of our community.
 * Any well-established audience, base of users, or target demographic relevant to our purpose.
-* Protection against content that could possibly break our guidelines or cross ethical boundaries of this server.
+* Protection against content that could possibly break our guidelines or cross ethical boundaries.
 * Providing an extension, beneficial third-party service, or tool to our members is encouraged.
-* A similar administrative structure with moderation and a set of rules that point out what is right and wrong.
+* A similar administrative structure with moderation and a set of rules.
 
 ### Request association
 To request association, you must have an administrative title or be the leader of the community you want to associate.
