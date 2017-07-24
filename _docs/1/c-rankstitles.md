@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1c. Hierarchy
-permalink: /docs/1/c-hierarchy/
+title: 1c. Ranks and titles
+permalink: /docs/1/c-rankstitles/
 ---
 Having a hierarchy of ranks and titles is a great way of organising our community, although the two should not be confused as they carry important differences.
 Knowing our various ranks allows members to identify administrators more easily while our titles are great for communication.
