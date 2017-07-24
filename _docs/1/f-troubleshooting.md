@@ -44,7 +44,7 @@ A link with this error code could easily have content in the future.
 If the link previously contained content, it has likely either been deleted or moved to another link.
 
 * Check for typographical or formatting errors in the link you used.
-* If the link was from a dated bookmark or you were redirected there, the content could've been modified.
+* If the link was from a bookmark or you were redirected there, the content could've been modified.
 * Ensure that your link contains a proper extension at the end if needed.
 
 ### html-se-500
@@ -53,7 +53,7 @@ An internal error could've been the result of server downtime or a file misplace
 Here's what you can do:
 
 * Wait for a few minutes and reload the page to see if the error was repaired.
-* Check any official community resources for notes about known errors or planned downtime.
+* Check official resources for notes about known errors or planned downtime.
 * If none of the above solve the issue, notify an administrator.
 
 ### html-se-503
