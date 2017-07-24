@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1g. Troubleshooting
-permalink: /docs/1/g-troubleshooting/
+title: 1f. Troubleshooting
+permalink: /docs/1/f-troubleshooting/
 ---
 If you're in need of support, we're here for you.
 Support is a big deal to us and we provide several resources for getting help.
