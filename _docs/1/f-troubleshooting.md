@@ -62,7 +62,7 @@ Under certain circumstances it can also indicate an overload in traffic.
 Usually these errors are only temporary and are on purpose to save data when content is being developed.
 
 * Wait for a few minutes and reload the page to see if the error was repaired.
-* Check any official community resources for notes about planned downtime.
+* Check another resource for notes about known errors or planned downtime.
 * Try accessing similar pages under the same subdomain to see if they function.
 * If none of the above solve the issue, notify an administrator.
 
