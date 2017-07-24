@@ -48,7 +48,7 @@ This plugin can generate a bird's-eye view of any world through your web browser
 With the online interface, you can also view statistics and use the in-game chat.
 
 ### Using the interface
-The interface can be opened like any website, although it requires a port.
+The interface can be opened like any website [here](http://b.shadow.ga:8123).
 From there, it will take you to the default world (flatlands).
 By clicking on the arrow to your right, you can select different worlds, switch to different render modes, and view a list of online members.
 Chat messages will be displayed at the bottom-left next to the hyperlink button.
@@ -69,4 +69,16 @@ At the top-center, it will display the Minecraft world-specific time along with 
 Under the filters button, it will show the world coordinates in relation to where your cursor is located.
 The top-right image will display a compass for directional reference.
 
-*To use the Dynmap service, visit [this page](http://b.shadow.ga:8123).*
+## Resource pack
+Our server uses a custom resource pack that gives builders the ability to add more detail in their creations.
+We recommend that all members have it installed.
+
+### Downloading
+If the server does not notify you to install the resource pack automatically, you can download and apply it manually.
+The resource pack is an open-source project and we use a repository for easy editing and the ability to quickly make changes.
+This means that you can obtain the newest version from your browser from [here](https://github.com/shadowga/resourcepack/archive/master.zip)._
+
+### Installation
+After successfully downloading the resource pack, you can install and activate it normally.
+It may take up to a minute for your game to initialize the textures, and then you should be returned to the options menu.
+You have now completed all the steps and your resource pack should be fully working as you join any server.
