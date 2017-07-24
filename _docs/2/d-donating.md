@@ -42,4 +42,4 @@ Members can donate any amount they want (no matter how small) and pay using a Pa
 ### After donating
 It may take up to twenty-four hours for contibutions to be acknowledged.
 Donations are processed manually and it usually takes a few hours for us to check them.
-If nothing has come of your donation for more than a day, contact us.
+If nothing has come of your donation for more than a day, let us know.
