@@ -12,7 +12,7 @@ Servers, Discord communities, and companies alike that have either reached out t
 Being part of an associated community means the actions you make, whether positive or negative, reflect back to here.
 If you wish to become part of an associated community, you must get to know their rules and respect their differences.
 
-A list of associated communities can be viewed [here](https://f.shadow.ga/d/45-list-of-associated-communities-6-2017).
+A list of associated communities can be found [here](https://f.shadow.ga/d/45-list-of-associated-communities-6-2017).
 During situations, a specific community may be added or removed.
 We attempt to keep a positive relationship with these communities.
 
