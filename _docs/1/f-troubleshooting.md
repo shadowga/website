@@ -23,7 +23,7 @@ Even with the above options, you may have a question that multiple people could 
 To get forum support, all you need to do is make sure that you've got a forum account and ask a question on the forum paired with the ‘support’ tag.
 An administrator will make an attempt to assist you as soon as possible.
 
-You can also contact our server owner using the Discord handle `@irix#5973` if that floats your boat.
+You can also contact our owner using the Discord handle `@irix#5973` if that floats your boat.
 
 ## Error codes
 If you navigate this website enough, you may make a typographical error and accidentally encounter an error page.
