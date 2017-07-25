@@ -2,10 +2,9 @@
   docs:
   - 
   - 1/b-guidelines
-  - 1/c-rankstitles
-  - 1/d-navigation
-  - 1/e-banappeals
-  - 1/f-troubleshooting
+  - 1/c-navigation
+  - 1/d-banappeals
+  - 1/e-troubleshooting
 
 - title: 2. Contributing
   docs:
