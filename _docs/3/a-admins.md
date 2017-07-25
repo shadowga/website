@@ -54,7 +54,7 @@ Once you have chosen someone you want to select, you can directly message an Exe
 ## Management
 As mentioned earlier, we organise our staff so members can go to the right person for help.
 Depending on what someone wants to administrate or how they perform, they can be promoted or demoted.
-Our Executive team helps manage lower-ranked administrators by evaluating their actions both in and out of the game.
+Our Executive team helps manage lower-ranked administrators by evaluating their actions in-game.
 
 ### Promoting admins
 When admins further improve themselves, the owner can issue a promotion to them which will up their rank.
