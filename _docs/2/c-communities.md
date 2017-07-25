@@ -27,4 +27,4 @@ The acceptance of a request can depend on multiple factors, but we have guidelin
 
 ### Request association
 To request association, you must have an administrative title or be the leader of the community you want to associate.
-You can make a request to associate by contacting the server owner and your offer will be considered over time.
+You can make a request to associate by contacting the owner and your offer will be considered over time.
