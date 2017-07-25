@@ -5,7 +5,7 @@ permalink: /docs/1/d-punishment/
 ---
 When members aren't doing the right thing, admins are capable of punishing them.
 Administrators are given commands that can stun or ban people when they break the conduct policy.
-Admins can be more strict depending on the offense's severity.
+You can appeal a ban depending on the offense's severity.
 
 ## Appealing
 Most bans are temporary and eventually expire, but members are always given the opportunity to appeal before that time has passed.
