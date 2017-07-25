@@ -1,9 +1,17 @@
 ---
 layout: docs
-title: 3a. Becoming an admin
-permalink: /docs/3/a-becomingadmin/
+title: 3a. Administrators
+permalink: /docs/3/a-admins/
 ---
+Having an effective and reliable staff team is important to us, and that's why we carefully manage our administrators.
+The admin rank isn't for everyone, but it's possible to become one if you're fit for the task.
+Some admins manage more than others depending on their ability, which is why we have multiple ranks to organise our staff.
 
+## Hierarchy
+Having a hierarchy of ranks is a great way of classifying our community, although the two should not be confused as they carry important differences.
+Knowing our various ranks allows members to identify and communicate with administrators easily.
+
+## Appointment
 We always keep an eye out for potential administrators as the server grows.
 While there are different ranks of admin, they all have one thing in common and that is to be reliable and helpful.
 This is why candidates for the position are hand-picked based on how they present themselves to everyone.
@@ -30,3 +38,18 @@ We have a few requirements for selection:
 ### How to select a member
 To choose a member, they must agree to become an admin and vow to fulfill all tasks expected of them.
 Once you have chosen someone you want to select, you can directly message an Executive or higher and they will the make decision to appoint them or not.
+
+## Management
+As mentioned earlier, we organise our staff so members can go to the right person for help.
+Depending on what someone wants to administrate or how they perform, they can be promoted or demoted.
+Our Executive team helps manage lower-ranked administrators by evaluating their actions both in and out of the game.
+
+### Promoting admins
+When admins further improve themselves, the server owner can issue a promotion to them, which will up their rank.
+Usually, this occurs because a higher-ranking admin resigns or goes inactive, which opens an opportunity for promotion.
+When we need to promote someone, we usually look for three things; experience, helpfulness, and activity.
+
+### Demoting admins
+Promotions can also work the other way around, as admins can be demoted back to a lower rank as a punishment or to better organise the team.
+Executives are capable of demoting or suspending administrators if they've broken the conduct policy, acted improperly, or failed to do their job.
+Demotions can also be a result of inactivity and an admin can have themself demoted on request.
