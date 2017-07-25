@@ -25,7 +25,7 @@ Refrain from using a short string of numbers (commonly '1234') or one-word terms
 ## Forum security
 Depending on your authorization level, your forum account may contain access to admin-only information or important settings.
 You don't want other people having access to that, which is why it's even more vital to keep private forum information away from prying eyes.
-If your forum account becomes compromised, you should notify the server owner immediately for deactivation.
+If your forum account becomes compromised, you should notify the owner immediately for deactivation.
 
 ### Login information
 Like with the server, keeping your e-mail address and password secure is of great importance.
@@ -56,4 +56,4 @@ Keep in mind that we only use the `m.shadow.ga` subdomain for e-mails, so any ot
 Everything said above also applies to the guild and your Discord account.
 They even provide two-factor security of their own, and they have a guide on enabling Discord 2FA [here](https://support.discordapp.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
 Even when using that, you should still have secure login information.
-If your account is compromised on there, notify an Executive or the server owner so we can temporarily remove your admin permissions.
+If your account is compromised on there, notify an Executive or the owner so we can temporarily remove your admin permissions.
