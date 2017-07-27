@@ -42,10 +42,10 @@ Selected members are expected to stand out from everyone else and meet all of th
 By selecting a member, you agree that they represent a model candidate in your eyes and bring a higher-ranked admin's attention to the member.
 We have a few requirements for selection:
 * An administrator can only select one member per year.
-* The member must have all qualities of our selection checklist (shown above).
-* The member must know the conduct policies, stay up to date on recent information, and read all posted announcements.
+* The member must meet all qualities of our selection checklist (shown above).
 * The member must have not been banned (accidental bans don't count) on the server or forum for at least twenty days or has made a valid appeal for each ban they received.
-* The member must have a Discord account connected to the chat server.
+* The member must have a forum account with two-factor auth enabled.
+* The member must have a Discord account connected to the chat server, also with two-factor auth enabled.
 
 ### How to select a member
 To choose a member, they must agree to become an admin and vow to fulfill all tasks expected of them.
