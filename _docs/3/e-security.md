@@ -54,6 +54,6 @@ Keep in mind that we only use the `m.shadow.ga` subdomain for e-mails, so any ot
 
 ## Discord account
 Everything said above also applies to the guild and your Discord account.
-They even provide two-factor security of their own, and they have a guide on enabling Discord 2FA [here](https://support.discordapp.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
+They even provide two-factor security of their own, and there's have a guide on enabling Discord 2FA [here](https://support.discordapp.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
 Like the forum, it's optional for members but all admins should be using the feature.
-If your account is compromised on there, notify an Executive or the owner so we can temporarily remove your admin permissions.
+If your Discord account is compromised, notify an Executive or the owner so we can temporarily remove your admin permissions.
