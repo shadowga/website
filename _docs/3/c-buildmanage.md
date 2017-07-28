@@ -111,23 +111,6 @@ The logstick serves as a crude backup and logs block placements and deletions, b
 After obtaining a wooden stick as an administrator, you can click any block and view logs.
 Natural damage such as explosions are not logged and the logs will wipe under a server restart.
 
-### Performing logstick rollbacks
-This command will use the gathered logs to rollback a member's actions by their username.
-Upon a twenty-four hour ban, the banned member will automatically be rolled back.
-> **Note:** This command is depreciated and is only supposed to be used when CoreProtect is unavailable. In some cases this feature will not restore sign data, chest items, or newer blocks.
-
-#### Command usage
- * `/rollback <user>` - Performs a rollback depending on the user you specify.
- * `/rb <user>` - An alias of the previous command and serves the same function.
- 
-### Reverting logstick rollbacks
-This command will undo a recently performed rollback depending on the member's username.
-Like the previous command, this function may be incapable of restorting some blocks, items, or data.
-
-#### Command usage
- * `/rollback undo <user>` - Reverts a rollback depending on the user you specify.
- * `/rb undo <user>` - An alias of the previous command and serves the same function.
-
 ## Wiping the flatlands
 While the flatlands are usually wiped on a monthly basis, Telnet Administrators and above are given the ability to wipe the main world in case of corruption or heavy lag.
 This command is only intended for emergency situations where the issue cannot be detected or the server is becoming unresponsive.
