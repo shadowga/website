@@ -1,7 +1,7 @@
 markdown: kramdown
-title: Shadow.GA
+title: shadow.ga
 email: webmaster@mg.shadow.ga
-description: "We are a creative building server."
+description: "We're an architecture server where everyone gets operator."
 baseurl: "https://shadow.ga"
 url: "https://shadow.ga"
 twitter_username:  shadowgadev
