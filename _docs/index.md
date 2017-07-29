@@ -20,7 +20,7 @@ We aim to provide the best experience for every member on our server. This means
 Before you join, it's important that you read our documentation.
 The docs allows you to know everything about the service we provide, from guidelines to security tips.
 Reading up is very important, you don't want to get in trouble for something you didn't know about!
-After you've done that, below details how to connect in-game.
+After you've done that, the below info details how to connect in-game.
 
 ### Connection
 It's easy to join the server.
