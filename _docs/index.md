@@ -24,7 +24,7 @@ We provide support for both newer and older clients, from `1.12` all the way bac
 The amount of older client versions may update as the game changes over time.
 
 ### Joining the forum
-Our online community, or forum, can be joined by making a brand new account or signing up through GitHub.
+Our online community (or forum) can be joined by making a brand new account or signing up through GitHub.
 Registration through GitHub doesn't require e-mail verification, but the other method will send a confirmation e-mail to the address you signed up with.
 From there, you can make posts and share ideas with everyone.
 
