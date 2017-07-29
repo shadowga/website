@@ -16,7 +16,7 @@ We aim to provide the best experience for every member on our server. This means
 
 - **Free and open.** You don't need building expertise or any skills to join. Our server is public to all and so is our online community, the Shadow.GA forum. We even allow you to chat with other server members on the go with our Discord server.
 
-### Joining the server
+### Connection
 It's easy to join the server.
 You can connect by typing the domain `shadow.ga` as a server address using the direct connect box or by adding us to your in-game list.
 Using a port isn't required but if you need one there's `25599`.
@@ -26,7 +26,7 @@ The amount of older client versions may update as the game changes over time.
 ### Joining the forum
 Our online community, or forum, can be joined by making a brand new account or signing up through GitHub.
 Registration through GitHub doesn't require e-mail verification, but the other method will send a confirmation e-mail to the address you signed up with.
-From there, you can make posts and share ideas to everyone.
+From there, you can make posts and share ideas with everyone.
 
 ### Joining the guild
 The Discord guild is also easy to join, and it's a great place for live chat and support.
