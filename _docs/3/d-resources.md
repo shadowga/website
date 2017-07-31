@@ -9,7 +9,7 @@ If a service hasn't been mentioned anywhere else in the documentation; it's list
 ## File transfer server
 Our server for file uploads and downloads (HTTPD) can be used for quick access to certain in-game files.
 You can directly access the online file transfer server by manually entering an address and port (`b.shadow.ga:27579`) or by clicking [here](http://b.shadow.ga:27579).
-That link by itself will produce an error because you aren't requesting anything yet.
+That address (without anything else) will produce an error because you aren't requesting anything yet.
 
 ### Navigation
 Navigating through the server is fairly easy as each feature can be located using a trailing slash.
