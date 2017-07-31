@@ -8,11 +8,11 @@ If a service hasn't been mentioned anywhere else in the documentation; it's list
 
 ## File transfer server
 Our server for file uploads and downloads (HTTPD) can be used for quick access to certain in-game files.
-Accessing our file transfer server requires using a specific address and port (`b.shadow.ga:27579`) with any web browser.
+Accessing our online file transfer server requires using a specific address and port (`b.shadow.ga:27579`) through any web browser.
 
 ### Navigation
 Navigating through the server is fairly easy as each feature can be located using a trailing slash.
-Here's a list of valid directories:
+Here's a list of directories you can use:
  - `/schematic/list` - Views a dynamic list of saved WorldEdit schematics.
  - `/schematic/upload` - Loads an interface for uploading schematics.
  - `/permbans` - Views a plain text copy of our `permbans.yml` list. This includes suspended users.
