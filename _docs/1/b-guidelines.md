@@ -26,7 +26,7 @@ To keep that freedom, we must create rules that seperate right and wrong on our 
 ### Forum guidelines
 As with our server, we prefer to maintain freedom of speech on our forum.
 That being said, regulations are necessary to keep discussions in order.
-Our forum guidelines also apply to the guild and other resources.
+These guidelines also apply to the guild and other resources.
 
 - **Be respectful.** If another member seems to be irritated by your actions, leave them alone. Don't post inappropriate or potentially offensive content on the forum. Any discussion made for the purpose of ranting on others will be deleted. Members should only argue or debate in discussions made for that purpose. Like our server guidelines, trolling is frowned upon and shouldn't take place here.
 
