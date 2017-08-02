@@ -29,6 +29,7 @@ If your forum account becomes compromised, you should notify the owner immediate
 
 ### Login information
 Like with the server, keeping your e-mail address and password secure is of great importance.
+We recommend [ProtonMail](https://protonmail.com/) for secure e-mail.
 You can use the same tools mentioned earlier in this page for forum security when it's needed.
 When selecting a username, don't use your real name or revealing information such as a birth date.
 Because everyone can view your forum handle and username, make it something you'd feel comfortable with.
