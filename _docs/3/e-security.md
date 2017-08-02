@@ -28,7 +28,7 @@ You don't want other people having access to that, which is why it's even more v
 If your forum account becomes compromised, you should notify the owner immediately for deactivation.
 
 ### Login information
-Like in-game security, keeping your e-mail address and password secure is of great importance.
+Like in-game security, keeping your e-mail address and password safe is of great importance.
 We recommend [ProtonMail](https://protonmail.com/) for secure e-mail.
 You can use the same tools mentioned earlier in this page for forum security when it's needed.
 When selecting a username, don't use your real name or revealing information such as a birth date.
