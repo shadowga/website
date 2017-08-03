@@ -25,20 +25,35 @@ An administrator will make an attempt to assist you as soon as possible.
 
 You can also contact our owner using the Discord handle `@irix#5973` if that floats your boat.
 
-## Error codes
+## Website and forum
+Issues with the homepage, documentation page, or forum can get complicated.
+It's important to provide as much information as possible when you're reporting something.
+
+### Browser support
+Pages and discussions are loaded on several different platforms so we need to provide support for several browsers.
+We recommend [Chrome](https://www.google.com/chrome/browser) but you can also use Firefox or Opera.
+It's up to you, but keep in mind that we don't provide support for Microsoft Edge or Internet Explorer.
+When it comes to ad-blocking, it's completely optional since we never use advertisements.
+
+### Web encryption
+Security and privacy is very important to us, so web encryption is one of our top priorities.
+Everything through the website (`https://shadow.ga`) and forum (`https://f.shadow.ga`) goes through Cloudflare.
+These two services always use HTTPS (secure HTTP) content with TLS 1.3 through their CDN (content delivery network).
+Resources such as HTTPD don't go through this process because they aren't providing or requesting sensitive information.
+
+### Error codes
 If you navigate this website enough, you may make a typographical error and accidentally encounter an error page.
 What you see when visiting one of these links describes the problem and gives you an error code.
-These codes can help developers identify the problem and find a way to solve it.
 Below is a list of every code, a quick summary of what they mean, and the steps we recommend you take to fix the problem.
 
-### html-cl-403
+#### html-cl-403
 This error signifies that you do not have permission to access this page.
 A developer could've modified the access permissions or made the content private.
 * Ensure that you're supposed to be authorized in the first place.
 * Make sure that you're logged into your forum account if the page contains a forum subdomain.
 * Check to make sure that you aren't suspended if the page varies by account.
 
-### html-cl-404
+#### html-cl-404
 Also known as a 404 error, this signifies that the page you have attempted to locate couldn't be found.
 A link with this error code could easily have content in the future.
 If the link previously contained content, it has likely either been deleted or moved to another link.
@@ -47,7 +62,7 @@ If the link previously contained content, it has likely either been deleted or m
 * If the link was from a bookmark or you were redirected there, the content could've been modified.
 * Ensure that your link contains a proper extension at the end if needed.
 
-### html-se-500
+#### html-se-500
 This error signifies that there's an internal server error.
 An internal error could've been the result of server downtime or a file misplacement.
 Here's what you can do:
@@ -56,7 +71,7 @@ Here's what you can do:
 * Check official resources for notes about known errors or planned downtime.
 * If none of the above solve the issue, notify an administrator.
 
-### html-se-503
+#### html-se-503
 Generally a forum error, this signifies that the service in question is down for maintenance.
 Under certain circumstances it can also indicate an overload in traffic.
 Usually these errors are only temporary and are on purpose to save data when content is being developed.
