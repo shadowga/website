@@ -26,7 +26,7 @@ After you've done that, the below info details how to connect in-game.
 It's easy to join the server.
 You can connect by typing the domain `shadow.ga` as a server address using the direct connect box or by adding us to your in-game list.
 Using a port isn't required but if you need one there's `25599`.
-We provide support for both newer and older clients, from `1.12` all the way back to `1.7.2`.
+We provide support for both newer and older clients, from `1.12.1` all the way back to `1.7.2`.
 The amount of older client versions may update as the game changes over time.
 
 ### Forum and guild
