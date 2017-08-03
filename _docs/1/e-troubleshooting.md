@@ -37,7 +37,7 @@ When it comes to ad-blocking, it's completely optional since we never use advert
 
 ### Web encryption
 Security and privacy is very important to us, so web encryption is one of our top priorities.
-Everything through the website (`https://shadow.ga`) and forum (`https://f.shadow.ga`) goes through Cloudflare.
+Everything from the website (`https://shadow.ga`) and forum (`https://f.shadow.ga`) goes through Cloudflare.
 These two services always use HTTPS (secure HTTP) content with TLS 1.3 through their CDN (content delivery network).
 Resources such as HTTPD don't go through this process because they aren't providing or requesting sensitive information.
 
