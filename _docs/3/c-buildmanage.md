@@ -43,7 +43,7 @@ The first three perimeters should be used at all times.
    To be even more specific, you can pick time amounts (example, `t:1d4h`) and use decimals (`t:2.50h`).
  * `r:<radius>` - Specifies a radius, used to only rollback blocks near your location.
    <br>
-   You can specify a number (example, `r:5`), a world (`r:flatlands`), or a global rollback (`r:global`).
+   You can specify a number (example, `r:5`), a world (`r:#flatlands`), or a global rollback (`r:#global`).
    <br>
    You can even specify a WorldEdit selection (example, `r:#worldedit` or `r:#we`).
 
