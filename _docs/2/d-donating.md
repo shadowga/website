@@ -24,6 +24,6 @@ Members can donate any amount they want (no matter how small) and pay using an a
 You can donate to us through the PayPal service [here](https://paypal.me/shadowga).
 
 ### After donating
-It may take up to twenty-four hours for contibutions to be acknowledged.
-Donations are processed manually and it usually takes a few hours for us to check them.
-If nothing has come of your donation for more than a day, let us know.
+Donations are processed manually and it usually takes us a few hours to check them.
+If you've already made a donation and haven't been rewarded yet, please let us know!
+Just message us with a transaction ID (from your account or confirmation message) and we'll get you fixed up.
