@@ -26,4 +26,4 @@ You can donate to us through the PayPal service [here](https://paypal.me/shadowg
 ### After donating
 Donations are processed manually and it usually takes us a few hours to check them.
 If you've already made a donation and haven't been rewarded yet, please let us know!
-Just message us with a transaction ID (from your account or confirmation message) and we'll get you fixed up.
+Just contact us with your transaction ID (from an account or confirmation message) and we'll get you fixed up.
