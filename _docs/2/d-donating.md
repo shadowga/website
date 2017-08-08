@@ -21,7 +21,7 @@ Here are a few benefits of making a donation:
 Donating to the server is easy.
 We accept multiple currencies, so members from all around the world can contribute.
 Members can donate any amount they want (no matter how small) and pay using an account or with a credit card.
-You can donate mto us through PayPal [here](https://paypal.me/shadowga).
+You can donate to us through the PayPal service [here](https://paypal.me/shadowga).
 
 ### After donating
 It may take up to twenty-four hours for contibutions to be acknowledged.
