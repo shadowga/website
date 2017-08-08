@@ -40,6 +40,7 @@ Members can even download parts of the server if something is lost.
 We periodically archive some contents to a GitHub repository [here](https://git.io/v7PUB).
 From there, anyone can download archives from latest to oldest.
 Right now we only allow public backups of our schematics and in-game worlds.
+If the repository gets too big, older releases may be deleted to free up space.
 
 ### Server backups
 The entire server is often backed up to private storage.
