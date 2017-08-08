@@ -37,9 +37,9 @@ If we lose any data, backups of the server and website are kept through both pub
 Members can even download parts of the server if something is lost.
 
 ### Downloading archives
-We periodically backup some contents to a GitHub repository [here](https://git.io/v7PUB).
+We periodically archive some contents to a GitHub repository [here](https://git.io/v7PUB).
 From there, anyone can download archives from latest to oldest.
-Right now we only provide backups of the in-game schematics and all three worlds.
+Right now we only allow public backups of our schematics and in-game worlds.
 
 ### Server backups
 The entire server is often backed up to private storage.
