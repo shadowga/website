@@ -31,6 +31,26 @@ The interface for uploading can only be used by locations that are added in-game
 When uploading a schematic, the 'choose file' option allows you to pick a file from your computer and upload it to the server.
 Files with a size above sixty-four kilobytes will not upload and inappropriate file names aren't allowed.
 
+## Archives and backups
+Preventing data loss is very important, so we take several measures to prevent that from happening.
+If we lose any data, backups of the server and website are kept through both public and private means.
+Members can even download parts of the server if something is lost.
+
+### Downloading archives
+We periodically backup some contents to a GitHub repository [here](https://git.io/v7PUB).
+From there, anyone can download archives from latest to oldest.
+Right now we only provide backups of the in-game schematics and all three worlds.
+
+### Server backups
+The entire server is often backed up to private storage.
+While we don't allow downloads of our entire server, you can request a specific file from us.
+Private backups are handled by the server owner and requests are fulfilled at their discretion.
+
+### Website backups
+Our homepage and documentation is handled through a public repository.
+Forum backups are handled by DigitalOcean and are kept private.
+If we experience problems with the forum, we can restore to a number of snapshots.
+
 ## Telnet server
 Telnet Admins and higher can use the server's command-line interface for administrating without direct access to the game.
 Upon logging in through the telnet service, admins can send commands and view server statistics through a client.
