@@ -4,8 +4,8 @@ title: 1d. Punishment
 permalink: /docs/1/d-punishment/
 ---
 When members aren't doing the right thing, admins are capable of punishing them.
-Administrators are given commands that can stun or ban people when they break the conduct policy.
 You can appeal a ban depending on the offense's severity.
+If you catch other people doing the wrong thing, you can take action.
 
 ## Appealing
 Most bans are temporary and eventually expire, but members are always given the opportunity to appeal before that time has passed.
@@ -40,3 +40,31 @@ Depending on how severe the reason is, a member can be suspended indefinitely or
 Indefinite suspensions cannot be appealed, have no end date, and can only be revoked under unusual circumstances.
 Members can't appeal fixed suspensions either but they have an expiration date.
 In most cases fixed suspensions won't be for longer than a month unless decided otherwise.
+
+## Reporting
+To call the attention of an administrator, you can use the `/report <player> <reason>` command.
+If there aren't any admins on or the in-game feature just isn't cutting it, you can still help out.
+We provide online reporting for when you need something more powerful.
+
+### Filing a report
+Online reports will ask the name of whoever's in question, what they did, and why you think they did it.
+Reporting helps administrators improve their activity and effectively handle the situation.
+Here's what we need for a good report:
+
+* The member or admin must be clearly violating our forum or server conduct policy.
+* Any offense the member made must be worthy of a report (remember, an administrator has to read it and deal with it themselves).
+* Reasoning behind the member's actions if possible and how it affects you.
+* A clear account of what happened.
+* Willingness to speak with an administrator to further explain yourself if needed.
+* Assurance that (in your mind) you think your report is accurate.
+
+You can file a report with a quick and easy form here.
+It'll be read and we'll assign someone to deal with the problem.
+Responding to these reports may take a while but it's important that the issue is taken care of.
+If you've submitted a report over three days ago and nothing's been done, please let us know.
+
+### Reporting admins
+We also manage our admin team, so if an administrator has been abusing you can report them as well.
+Admin reports can be filed through the same form mentioned above.
+Your admin-related report will be taken into the hands of our Executives to assess the issue at hand.
+Keep in mind that falsely reporting an admin is a punishable offense.
