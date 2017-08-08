@@ -25,22 +25,6 @@ You may not appeal a temporary ban if you have been banned for the same reason o
 If your ban message does not state that the ban was temporary, you may be suspended. You cannot appeal a suspension.
 The actual form is [here](https://shadowga.typeform.com/to/fE4jeV).
 
-## Suspension
-The status of being suspended can be given to any member that breaks the rules to a point where banning them is ineffective.
-Members can be suspended by Executives or the Server Owner if they are petitioned to do so by another administrator.
-Here are the penalties of suspension:
-
-* You are banned from the server, meaning you can never join again. If you bypass this, you will remain under suspension.
-* Your forum account is disabled, stripping you of all forum permissions.
-* Depending on how severe the crime is, you may be banned from visiting the website.
-* You may keep your guild membership as a form of emergency contact under circumstances.
-* If the crime is unlawful, such as threatening harm to yourself or others, your location and known alias will be forwarded to local authorities.
-
-Depending on how severe the reason is, a member can be suspended indefinitely or for a fixed time.
-Indefinite suspensions cannot be appealed, have no end date, and can only be revoked under unusual circumstances.
-Members can't appeal fixed suspensions either but they have an expiration date.
-In most cases fixed suspensions won't be for longer than a month unless decided otherwise.
-
 ## Reporting
 To call the attention of an administrator, you can use the `/report <player> <reason>` command.
 If there aren't any admins on or the in-game feature just isn't cutting it, you can still help out.
@@ -61,10 +45,26 @@ Here's what we need for a good report:
 You can file a report with a quick and easy form here.
 It'll be read and we'll assign someone to deal with the problem.
 Responding to these reports may take a while but it's important that the issue is taken care of.
-If you've submitted a report over three days ago and nothing's been done, please let us know.
+If you've submitted a report over three days ago and nothing's been done, let us know.
 
 ### Reporting admins
 We also manage our admin team, so if an administrator has been abusing you can report them as well.
 Admin reports can be filed through the same form mentioned above.
 Your admin-related report will be taken into the hands of our Executives to assess the issue at hand.
 Keep in mind that falsely reporting an admin is a punishable offense.
+
+## Suspension
+The status of being suspended can be given to any member that breaks the rules to a point where banning them is ineffective.
+Members can be suspended by Executives or the Server Owner if they are petitioned to do so by another administrator.
+Here are the penalties of suspension:
+
+* You are banned from the server, meaning you can never join again. If you bypass this, you will remain under suspension.
+* Your forum account is disabled, stripping you of all forum permissions.
+* Depending on how severe the crime is, you may be banned from visiting the website.
+* You may keep your guild membership as a form of emergency contact under circumstances.
+* If the crime is unlawful, such as threatening harm to yourself or others, your location and known alias will be forwarded to local authorities.
+
+Depending on how severe the reason is, a member can be suspended indefinitely or for a fixed time.
+Indefinite suspensions cannot be appealed, have no end date, and can only be revoked under unusual circumstances.
+Members can't appeal fixed suspensions either but they have an expiration date.
+In most cases fixed suspensions won't be for longer than a month unless decided otherwise.
