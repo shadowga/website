@@ -36,9 +36,9 @@ Here's what we look for:
 * Members who go out of their way to improve other people's experiences.
 * Good communicators, people who know the English language well and can talk to people clearly.
 
-If the above sounds like you, let us know.
+If the above sounds like you, make sure to let us know.
 Maybe you know someone else who fits that description?
-If so, directly message an admin to recommend them.
+If so, you can directly message an admin to recommend them.
 
 ### Selecting members
 If you're already an administrator; you can select a member for the position.
