@@ -37,7 +37,7 @@ Here's what we look for:
 * Good communicators, people who know the English language well and can talk to people clearly.
 
 If the above sounds like you, let us know.
-Maybe you also know someone else who fits that description, and if so, directly message an admin to recommend them.
+Maybe you also know someone else who fits that description; and if so, directly message an admin to recommend them.
 
 ### Selecting members
 If you're already an administrator; you can select a member for the position.
