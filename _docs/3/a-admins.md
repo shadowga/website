@@ -37,7 +37,7 @@ Here's what we look for:
 * Good communicators, people who know the English language well and can talk to people clearly.
 
 If the above sounds like you, make sure to let us know.
-Maybe you know someone else who fits that description?
+Maybe that description reminds you of someone else?
 If so, you can directly message an admin to recommend them.
 
 ### Selecting members
