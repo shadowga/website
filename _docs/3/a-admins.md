@@ -49,7 +49,7 @@ We have a few requirements for selection:
 * The member must meet all qualities of our selection checklist (shown above).
 * The member must have not been banned (accidental bans don't count) on the server or forum for at least twenty days or has made a valid appeal for each ban they received.
 * The member must have a forum account with two-factor auth enabled.
-* The member must have a Discord account connected to the chat server, also with two-factor auth enabled.
+* The member must have a Discord account connected to our guild, also with two-factor auth enabled.
 
 ### How to select a member
 To choose a member, they must agree to become an admin and vow to fulfill all tasks expected of them.
