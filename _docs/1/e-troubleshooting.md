@@ -15,8 +15,8 @@ Before considering any of these options we recommend you try to solve the proble
 
 ### Get help on the guild
 Sometimes an admin may busy or not on the server.
-For problems like this we have a Discord guild and you can request an invite link by clicking the 'chat' button on our navigation bar.
-Just like on our server, you can directly message someone on Discord if you prefer talking privately.
+For problems like this you can get live support through our guild's [#developer-chat](https://discord.gg/3fFF2V2).
+Like our server, you can directly message someone with Discord if you prefer talking privately.
 
 ### Get help on the forum
 Even with the above options, you may have a question that multiple people could answer or maybe you'd like it posted for a longer period of time.
