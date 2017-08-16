@@ -33,4 +33,4 @@ The amount of older client versions may update as the game changes over time.
 Our online community (or forum) can be joined by making a brand new account or signing up through GitHub.
 Registration through GitHub doesn't require e-mail verification, but the other method will send a confirmation e-mail to the address you signed up with.
 We also have a Discord server that's easy to join, and it's a great place for live chat and support.
-All you need is an account and you can click the 'chat' link on our navigation bar to receive an invite.
+All you need is an account and you can click the 'guild' link on our navigation bar to receive an invite.
