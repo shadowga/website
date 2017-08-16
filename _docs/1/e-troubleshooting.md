@@ -17,7 +17,7 @@ Before considering any of these options we recommend you try to solve the proble
 Sometimes an admin may busy or not on the server.
 For problems like this you can get live support through our guild's [#developer-chat](https://discord.gg/3fFF2V2).
 Like our server, you can directly message someone using Discord if you prefer talking privately.
-Other members or admins are capable of blocking you, which will prevent you from sending direct messages to them.
+Other members or admins are capable of blocking you, which will prevent your account from sending direct messages to them.
 
 ### Get help on the forum
 Even with the above options, you may have a question that multiple people could answer or maybe you'd like it posted for a longer period of time.
