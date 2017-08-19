@@ -138,6 +138,27 @@ h2 {
   }
 }
 
+.Footer-home {
+  text-align: center;
+  margin: 100px 0;
+  line-height: 2em;
+}
+.Footer a {
+  border: 0;
+}
+.Footer-nav {
+  margin-bottom: 5px;
+}
+.Footer-nav a, .Footer-copyright span {
+  margin: 0 8px;
+}
+
+@include respond-to(handhelds) {
+  .Footer {
+    margin: 30px 0;
+  }
+}
+
 .container-narrow {
   // max-width: 800px;
 }
