@@ -36,6 +36,8 @@ This command will affect just about anything so specifying perimeters is importa
  
 The first three perimeters should be used at all times.
  * `u:<user>` - Specifies a member by their username to rollback.
+   <br>
+   Instead of a member, you can specify blocks like water (`u:#water`), lava (`u:#lava`), or sand (`u:#sand`).
  * `t:<time>` - Specifies the amount of time to roll a person back.
    <br>
    You can specify weeks (example, `t:1w`), days (`t:2d`), hours (`t:4h`), minutes (`t:10m`), or seconds (`t:5s`).
