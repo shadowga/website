@@ -32,8 +32,8 @@ Here are the penalties of suspension:
 
 * You are banned from the server, meaning you can never join again. If you bypass this, you will remain under suspension.
 * Your forum account is disabled, stripping you of all forum permissions.
+* We'll ban your Discord account from the guild if you have one.
 * Depending on how severe the crime is, you may be banned from visiting the website.
-* You may keep your guild membership as a form of emergency contact under circumstances.
 * If the crime is unlawful, such as threatening harm to yourself or others, your location and known alias will be forwarded to local authorities.
 
 Depending on how severe the reason is, a member can be suspended indefinitely or for a fixed time.
