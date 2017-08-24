@@ -43,7 +43,7 @@ You'll often see our forum called the 'community' to keep things simple.
 Call it anything you want, but this feature is great for online collaboration and discourse.
 The forum and this website in general is made possible by the folks over at Flarum.
 
-### Making an account.
+### Making an account
 Getting started on the community is nice and simple, we don't ask for much information.
 You'll either need an e-mail and password or you can sign up with a GitHub account.
 Check out the security page for advice on that.
