@@ -43,11 +43,11 @@ You'll often see our forum called the 'community' to keep things simple.
 Call it anything you want, but this feature is great for online collaboration and discourse.
 The forum and this website in general is made possible by the folks over at Flarum.
 
-### Making an account
+### Making an account.
 Getting started on the community is nice and simple, we don't ask for much information.
 You'll either need an e-mail and password or you can sign up with a GitHub account.
-If you're looking for some advice on that, you should check out the security page.
-Welcome to the club.
+Check out the security page for advice on that.
+If you'd like your account deleted, just let us know.
 
 ### Discussions
 Discussions are thread-like posts that (when made) will show up on the community's front page.
@@ -64,11 +64,6 @@ Try customising your profile!
 You can set your own profile picture and short biography to tell us about yourself.
 Try adding a button; they're public links that you can add to your profile and can go to anything (website, repository, project, etc).
 We still want you to keep it appropriate and profiles violating our guidelines will be removed.
-
-### Deleting your account
-Accounts can be deleted, completely wiping any content under that name.
-Just let us know if you don't want your account anymore, but you'll need to verify yourself before we delete it.
-We won't discriminate and your information is never given to third-party services.
 
 ## Guild
 The guild is our Discord server where anyone can talk to each other in real time.
