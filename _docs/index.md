@@ -39,7 +39,7 @@ Maybe they'll lead to another neat website, maybe they're just for laughs.
 Either way, quick links play a big role in making this website possible.
 
 ## Community
-You'll often see our forum called the 'community' to keep things simple.
+We'll often refer to our forum as the 'community' to keep things simple.
 Call it anything you want, but this feature is great for online collaboration and discourse.
 The forum and this website in general is made possible by the folks over at Flarum.
 
