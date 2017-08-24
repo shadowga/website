@@ -106,5 +106,5 @@ If you're punisished by an admin, your operator may be revoked and you'll need a
 
 ### Other information
 Now that you know the basics, it's time to learn everything.
-Information about the server and forum's guidelines, ranks, and worlds is all available throughout our documentation.
+Information about the server's guidelines, ranks, and worlds is all available throughout our documentation.
 You can either click the 'next' button or manually navigate to begin.
