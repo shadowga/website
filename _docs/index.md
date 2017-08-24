@@ -98,8 +98,9 @@ Using a port isn't required but if you need one there's `25599`.
 We provide support for both newer and older clients, from `1.12.1` all the way back to `1.7.2`.
 Support for older client versions may change as the game updates.
 
-### Becoming operator
-New members can be added to operator by one of our administrators.
+### Becoming an operator
+Members are referred to as 'operators' in-game.
+You be added to operator by one of our administrators.
 It doesn't take any qualifications or approval to become an operator.
 If you're punisished by an admin, your operator may be revoked and you'll need an admin to re-op you.
 
