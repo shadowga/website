@@ -53,7 +53,7 @@ If you'd like your account deleted, just let us know.
 Discussions are thread-like posts that (when made) will show up on the community's front page.
 When a discussion is getting a lot of replies, it'll stay on the front for everyone to see.
 They're called discussions because you can endlessly... 'discuss' about anything.
-Flagged discussions (those violating our guidelines) can be locked or deleted.
+Posts that are violating our guidelines can be locked or deleted.
 
 ### Tags and categories
 You can talk about anything on the community, but we have categories called 'tags' for organisation.
