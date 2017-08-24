@@ -88,16 +88,22 @@ The way channels are organised is very similar to text, but members breaking our
 Discord has a pretty nice voice codec and you can fine-tune your microphone and voice through the settings.
 
 ## Server
+Our Minecraft server is what we're built around.
+We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
 
 ### Connection
 It's easy to join the server.
 You can connect by typing the domain `shadow.ga` as a server address using the direct connect box or by adding us to your in-game list.
 Using a port isn't required but if you need one there's `25599`.
 We provide support for both newer and older clients, from `1.12.1` all the way back to `1.7.2`.
-The amount of older client versions may update as the game changes over time.
+Support for older client versions may change as the game updates.
 
-### Forum and guild
-Our online community (or forum) can be joined by making a brand new account or signing up through GitHub.
-Registration through GitHub doesn't require e-mail verification, but the other method will send a confirmation e-mail to the address you signed up with.
-We also have a Discord server that's easy to join, and it's a great place for live chat and support.
-All you need is an account and you can click the 'guild' link on our navigation bar to receive an invite.
+### Becoming operator
+New members can be added to operator by one of our administrators.
+It doesn't take any qualifications or approval to become an operator.
+If you're punisished by an admin, your operator may be revoked and you'll need an admin to re-op you.
+
+### Other information
+Now that you know the basics, it's time to learn everything.
+Information about the server and forum's guidelines, ranks, and worlds is all available throughout our documentation.
+You can either click the 'next' button or manually navigate to begin.
