@@ -31,8 +31,8 @@ This command will affect just about anything so specifying perimeters is importa
  * `/co rb` - An alias of the previous command and serves the same function.
 
 #### Command usage and perimeters
- * `/co rollback u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
- * `/co rb u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+ * `/co rollback u:<user> t:<time> r:<radius> a:[action] b:[blocks] e:[exclude]`
+ * `/co rb u:<user> t:<time> r:<radius> a:[action] b:[blocks] e:[exclude]`
  
 The first three perimeters should be used at all times.
  * `u:<user>` - Specifies a member by their username to rollback.
@@ -50,22 +50,22 @@ The first three perimeters should be used at all times.
    You can even specify a WorldEdit selection (example, `r:#worldedit` or `r:#we`).
 
 If you want, you can use the latter perimeters to be more specific.
- * `a:<action>` - Restricts the rollback to a certain action.
+ * `a:[action]` - Restricts the rollback to a certain action.
    <br>
    For example, if you only want to rollback placements, you can use `a:+block`.
- * `b:<blocks>` - Restricts the rollback to certain block types.
+ * `b:[blocks]` - Restricts the rollback to certain block types.
    <br>
    For example, if you only want to rollback stone, you can use `b:1`.
    <br>
    You can even specify multiple items, such as `b:1,5,7`.
- * `e:<exclude>` - Excludes certain block types from the rollback.
+ * `e:[exclude]` - Excludes certain block types from the rollback.
    <br>
    For example, if you don't want any TNT to come back during a rollback, you can use `e:46`.
    <br>
    You can specify multiple items just like the above perimeter.
 
 Adding a hashtag to the end of your command allows you to perform additional actions. This feature isn't recommended for normal usage.
- * `#<hashtag>` - Performs diagnostic or visual actions.
+ * `#[hashtag]` - Performs diagnostic or visual actions.
 
 Here's a list of hashtags you can use.
  * `#preview` - Previews a rollback or restore.
@@ -80,8 +80,8 @@ Like a rollback, this command is very powerful so specifying perimeters is impor
  * `/co rs` - An alias of the previous command and serves the same function.
  
 #### Command usage
- * `/co restore u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
- * `/co rs u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+ * `/co restore u:<user> t:<time> r:<radius> a:[action] b:[blocks] e:[exclude]`
+ * `/co rs u:<user> t:<time> r:<radius> a:[action] b:[blocks] e:[exclude]`
 
 > **Tip:** The restore feature has the same options as rollback, so for detailed instructions just refer to the above list of perimeters.
 
@@ -91,12 +91,12 @@ This command allows you to search through block data using the same perimeters a
  * `/co l` - An alias of the previous command and serves the same function.
  
 #### Command usage
- * `/co lookup u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
- * `/co l u:<user> t:<time> r:<radius> a:<action> b:<blocks> e:<exclude>`
+ * `/co lookup u:<user> t:<time> r:<radius> a:[action] b:[blocks] e:[exclude]`
+ * `/co l u:<user> t:<time> r:<radius> a:[action] b:[blocks] e:[exclude]`
    <br>
-   If multiple pages are returned, use `/co lookup <page>` to switch pages.
+   If multiple pages are returned, use `/co lookup [page]` to switch pages.
    <br>
-   To change the number of lines displayed on a page, use `/co lookup <page>:<lines>`.
+   To change the number of lines displayed on a page, use `/co lookup [page]:[lines]`.
    <br>
    For example, `/co l 1:10` will return ten lines of data, starting at the first page.
    
