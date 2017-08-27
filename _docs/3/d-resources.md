@@ -13,7 +13,7 @@ That address alone will produce an error because you aren't requesting anything 
 
 ### Navigation
 Navigating through the server is fairly easy as each feature can be located using a trailing slash.
-Here's a list of directories you can use:
+Here's a list of trailing slashes you can use:
  - `/schematic/list` - Views a dynamic list of saved WorldEdit schematics.
  - `/schematic/upload` - Loads an interface for uploading schematics.
  - `/permbans` - Views a plain text copy of our `permbans.yml` list. This includes suspended users.
