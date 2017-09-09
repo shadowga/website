@@ -31,19 +31,6 @@ Donations are processed manually and it usually takes us a few hours to check th
 If you've already made a donation and haven't been rewarded yet, please let us know!
 Just contact us with your transaction ID (from an account or confirmation message) and we'll get you fixed up.
 
-## Other communities
-Besides the server, our community mainly uses the forum and Discord server to get server-related information across.
-Other communities help us promote ourselves while exploring the widely different member-bases of various places.
-
-### What association is
-Servers, Discord communities, and companies alike that have either reached out to us or have been specially requested as partnered by a server official are referred to as associated.
-Being part of an associated community means the actions you make, whether positive or negative, reflect back to here.
-If you wish to become part of an associated community, you must get to know their rules and respect their differences.
-
-A list of associated communities can be found [here](https://f.shadow.ga/d/45-list-of-associated-communities-6-2017).
-In some cases, a specific community may be added or removed.
-We attempt to keep a positive relationship with these communities.
-
 ## Branding
 To assure quality and consistency, we have some guidelines for the usage of our content.
 These branding rules can help members make their own contributions and allow others to incorporate the design into their service.
@@ -72,6 +59,19 @@ Black text isn't entirely black either, it's actually `#444444` (hsl: `0,0,26` a
 We have a press kit you can download [here](https://shadow.ga/img/presskit.zip) for a sample of our logos, fonts, and colours.
 If you're looking for something that isn't included in the press kit, you can send us a message and we'll do our best to get it for you.
 Any art using the brand can be sent to us for approval.
+
+## Other communities
+Besides the server, our community mainly uses the forum and Discord server to get server-related information across.
+Other communities help us promote ourselves while exploring the widely different member-bases of various places.
+
+### What association is
+Servers, Discord communities, and companies alike that have either reached out to us or have been specially requested as partnered by a server official are referred to as associated.
+Being part of an associated community means the actions you make, whether positive or negative, reflect back to here.
+If you wish to become part of an associated community, you must get to know their rules and respect their differences.
+
+A list of associated communities can be found [here](https://f.shadow.ga/d/45-list-of-associated-communities-6-2017).
+In some cases, a specific community may be added or removed.
+We attempt to keep a positive relationship with these communities.
 
 ### Associate your community
 New communities yet discovered by our members can always be added to our list through an association request.
