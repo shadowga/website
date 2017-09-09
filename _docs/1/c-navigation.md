@@ -22,17 +22,11 @@ You can build anything anywhere in this world; it only wipes if the map gets too
 Primary worlds (roughlands, netherlands, enderlands) are places you don't naturally spawn in, but can access using commands.
 These worlds will only wipe if they're corrupted and members can build here, just like the flatlands.
 
----
-
 The roughlands includes natural biomes - such as deserts, prairies, and jungles.
 Rough areas are great for constructing landscapes or cities, while preserving the nature of whatever you're building.
 
----
-
 The netherlands (or nether world) contains an endless set of red platforms, with fire and lakes of lava.
 Themic areas fit perfectly in this biome; melee, jumping courses, and fights are great for this world.
-
----
 
 The enderlands (or end world) is comprised of little to big islands made out of a light material, with several naturally-occuring platforms.
 This place is great for strategy puzzles, mazes, and machinery; you'll find a consistent pale black sky.
