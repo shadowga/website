@@ -40,6 +40,7 @@ Because everyone can view your forum handle and username, make it something you'
 ### Two-factor authentication
 The forum has a security feature known as 2FA (or two-factor authentication) that prevents login from only the username and password.
 While this layer is optional for members, all admins must have 2FA enabled on their forum account.
+
 Instead of relying on your password and nothing else, an account with two-factor enabled will also ask for an authentication code.
 This auth code is stored on your phone or other mobile device.
 
@@ -54,12 +55,12 @@ Remember to store those backup codes in a safe place, you'll need them if you ev
 ### Watching your back
 Making a forum account is rather easy, but you still shouldn't give out information like your private e-mail or banking information.
 We won't ever ask for personal information in any way, whether that be through mail or text.
+
 If you ever receive a suspicious message through our name, let us know and we'll take appropriate action from there.
 Keep in mind that we only use the `m.shadow.ga` subdomain for e-mails, so any other address is fake.
 
 ## Discord account
 Everything said above also applies to the guild and your Discord account.
 They even provide two-factor security of their own, and there's have a guide on enabling it [here](https://support.discordapp.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
-
 Similar to the forum; 2FA is optional for members but all admins should have it enabled.
 If your Discord account is compromised, notify an Executive or the owner so we can temporarily remove your permissions.
