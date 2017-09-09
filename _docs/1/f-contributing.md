@@ -3,7 +3,8 @@ layout: docs
 title: 1f. Contributing
 permalink: /docs/1/f-contributing/
 ---
-
+There are many ways to contribute to our server; including architecture, development, and even contribution of money to help us out.
+Contributing is a great way to assist not just the server, but our community as a whole.
 
 ## Donating
 Although our server is a non-profit organisation, donating to the server helps our community thrive and pays the bills.
