@@ -12,16 +12,43 @@ Worlds can be switched by any member.
 To do this, we have the command `/world`, which allows you to specify different types of worlds to visit.
 Most worlds have a custom alias command that teleports you there. Different types of worlds can be accessed by different types of members.
 
-### The Flatlands
-The flatlands is the default world you spawn in.
-You can build anything anywhere in this world, and it wipes every month to prevent lag.
+### Default world
+The default world (flatlands) is where you spawn in upon death or as a new player.
+You can build anything anywhere in this world; it only wipes if the map gets too big, is corrupted, or has been badly griefed.
  * `/spawn` - Teleports a player to the spawn (in the flatlands).
  * `/flatlands` - Teleports a player to the flatlands.
 
-### The Roughlands
-The roughlands is very similar to the flatlands except there are rough biomes, such as trees and oceans.
-This world is only wiped along with the netherlands and roughlands.
+### Primary worlds
+Primary worlds (roughlands, netherlands, enderlands) are places you don't naturally spawn in, but can access using commands.
+These worlds will only wipe if they're corrupted and members can build here, just like the flatlands.
+
+The roughlands includes natural biomes - such as deserts, prairies, and jungles.
+Rough areas are great for constructing landscapes or cities, while preserving the nature of whatever you're building.
+
+The netherlands (or nether world) contains an endless set of red platforms, with fire and lakes of lava.
+Themic areas fit perfectly in this biome; melee, jumping courses, and fights are great for this world.
+
+The enderlands (or end world) is comprised of little to big islands made out of a light material, with several naturally-occuring platforms.
+This place is great for strategy puzzles, mazes, and machinery; you'll find a consistent pale black sky.
+
+#### Command usage
+ * `/world <number>` - Teleports a player to the world they specify.
  * `/roughlands` - Teleports a player to the roughlands.
+ * `/nether` - Teleports a player to the netherlands.
+ * `/ender` - Teleports a player to the enderlands.
+ 
+The first command's perimeter is required.
+ * `<number>` - Specifies a world number. Each number, ranging from `0` to `4`, takes you to a different world.
+
+Here's a table identifying each number and the world it corresponds to.
+
+| Number | Destination | Alias         |
+| ------ | ----------- | ------------- |
+| `0`    | Roughlands  | `/roughlands` |
+| `1`    | Netherlands | `/nether`     |
+| `2`    | Enderlands  | `/ender`      |
+| `3`    | Flatlands   | `/flatlands`  |
+| `4`    | Adminworld  | `/adminworld` |
 
 ### The Netherlands
 The netherlands is the nether world for anyone to join in.
