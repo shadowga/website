@@ -53,17 +53,16 @@ From there, it will take you to the default world (flatlands).
 By clicking on the arrow to your right, you can select different worlds, switch to different render modes, and view a list of online members.
 Chat messages will be displayed at the bottom-left next to the hyperlink button.
 
+On the top-left, you can click on a layer button to filter out certain objects.
+Both options are enabled by default and deselecting either one will automatically update the render.
+The `markers` option shows where spawnpoints are located and `players` identifies the location of all online members.
+
 ### Online chat
 If the plugin is able to link your in-game address with that of your connection to Dynmap, you can send and receive messages.
 You'll be able to communicate (read and view in-game messages) as if you were on the server through the comfort of a webpage.
 
 Dynmap-sent messages can be distinguished by the `[WEB]` prefix that precedes anything sent through the interface.
 Messages sent by members in-game can also show display a text bubble relative to their position on the map; you must be viewing the respective map to use this feature.
-
-### Map filters
-On the top-left, you can click on a layer button to filter out certain objects.
-Both options are enabled by default and deselecting either one will automatically update the render.
-The `markers` option shows where spawnpoints are located and `players` identifies the location of all online members.
 
 ### Other information
 At the top-center, it will display the Minecraft world-specific time along with an animated representation.
