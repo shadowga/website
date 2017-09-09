@@ -42,13 +42,13 @@ The first command's perimeter is required.
 
 Here's a table identifying each number and the world it corresponds to.
 
-| Number | Destination | Alias         |
-| ------ | ----------- | ------------- |
-| `0`    | Roughlands  | `/roughlands` |
-| `1`    | Netherlands | `/nether`     |
-| `2`    | Enderlands  | `/ender`      |
-| `3`    | Flatlands   | `/flatlands`  |
-| `4`    | Adminworld  | `/adminworld` |
+| Number |  Destination  | Alias         |
+| ------ |  -----------  | ------------- |
+| `0`    |  Roughlands   | `/roughlands` |
+| `1`    |  Netherlands  | `/nether`     |
+| `2`    |  Enderlands   | `/ender`      |
+| `3`    |  Flatlands    | `/flatlands`  |
+| `4`    |  Adminworld   | `/adminworld` |
 
 ### The Netherlands
 The netherlands is the nether world for anyone to join in.
