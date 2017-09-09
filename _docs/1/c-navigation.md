@@ -38,7 +38,7 @@ This place is great for strategy puzzles, mazes, and machinery; you'll find a co
  * `/ender` - Teleports a player to the enderlands.
  
 The first command's perimeter is required.
- * `<number>` - Specifies a world number. Each number, ranging from `0` to `4`, takes you to a different world.
+ * `<number>` - Specifies a world number. Each number (`0` to `4`) takes you somewhere else.
 
 Here's each number and the world it corresponds to.
  * `0` (zero) - To the roughlands. Direct is `/roughlands`.
