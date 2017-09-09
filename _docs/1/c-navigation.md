@@ -54,11 +54,11 @@ By clicking on the arrow to your right, you can select different worlds, switch 
 Chat messages will be displayed at the bottom-left next to the hyperlink button.
 
 ### Online chat
-If the plugin is able to link your in-game address with that of your connection to Dynmap, you can send messages.
-Members on the server will be able to read your chat messages as if you were talking through Minecraft.
+If the plugin is able to link your in-game address with that of your connection to Dynmap, you can send and receive messages.
+You'll be able to communicate (read and view in-game messages) as if you were on the server through the comfort of a webpage.
 
 Dynmap-sent messages can be distinguished by the `[WEB]` prefix that precedes anything sent through the interface.
-Messages sent by members in-game can also show display a text bubble relative to their position.
+Messages sent by members in-game can also show display a text bubble relative to their position on the map; you must be viewing the respective map to use this feature.
 
 ### Map filters
 On the top-left, you can click on a layer button to filter out certain objects.
