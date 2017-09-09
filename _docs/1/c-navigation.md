@@ -14,7 +14,7 @@ Most worlds have a custom alias command that teleports you there. Different type
 
 ### Default world
 The default world (flatlands) is where you spawn in upon death or as a new player.
-You can build anything anywhere in this world; it only wipes if the map gets too big, is corrupted, or has been badly griefed.
+You can build anything anywhere in this world; it only wipes if the map gets too big, is corrupted, or has been ruined.
  * `/spawn` - Teleports a player to the spawn (in the flatlands).
  * `/flatlands` - Teleports a player to the flatlands.
 
