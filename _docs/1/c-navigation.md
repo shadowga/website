@@ -40,29 +40,14 @@ This place is great for strategy puzzles, mazes, and machinery; you'll find a co
 The first command's perimeter is required.
  * `<number>` - Specifies a world number. Each number, ranging from `0` to `4`, takes you to a different world.
 
-Here's a table identifying each number and the world it corresponds to.
+Here's each number and the world it corresponds to.
+ * `0` (zero) - To the roughlands. Direct is `/roughlands`.
+ * `1` (one) - To the netherlands. Direct is `/nether`.
+ * `2` (two) - To the enderlands. Direct is `/ender`.
+ * `3` (three) - To the flatlands. Direct is `/flatlands` or `/spawn`.
+ * `4` (four) - To the adminworld. Only admins can do this. Direct is `/adminworld`.
 
-| Number |  Destination  | Alias         |
-| ------ |  -----------  | ------------- |
-| `0`    |  Roughlands   | `/roughlands` |
-| `1`    |  Netherlands  | `/nether`     |
-| `2`    |  Enderlands   | `/ender`      |
-| `3`    |  Flatlands    | `/flatlands`  |
-| `4`    |  Adminworld   | `/adminworld` |
-
-### The Netherlands
-The netherlands is the nether world for anyone to join in.
-There is lava and a large amount of netherrack, which is not wiped often.
-This world is only wiped along with the roughlands and enderlands.
- * `/nether` - Teleports a player to the nether world.
-
-### The Enderlands
-The enderlands is the opposite of the netherlands.
-It houses end stone and end villages as of the 1.9 update, and is also known as the place where you can slay the ender dragon.
-This world is only wiped along with the roughlands and netherlands.
- * `/ender` - Teleports a player to the end world.
-
-### The Adminworld
+### Adminworld
 The adminworld is a private world that only Super Admins and above can go in.
 It is never wiped, and houses the adminworld village.
 On occasion, an admin can invite someone as a "guest", allowing them to join the adminworld for a small amount of time until the server restarts.
