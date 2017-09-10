@@ -65,6 +65,7 @@ Try and get as specific with tags as possible so everyone has a better experienc
 Try customising your profile!
 You can set your own profile picture and short biography to tell us about yourself.
 Try adding a button; they're public links that you can add to your profile and can go to anything (website, repository, project, etc).
+
 We still want you to keep it appropriate and profiles violating our guidelines will be removed.
 
 ## Guild
@@ -81,6 +82,7 @@ Then you'll be invited to the guild and will instantly become a full-fledged coo
 Similar to the forum, different topics have their own channel.
 The #general-chat is for just about anything while spam goes in the #spam-chat.
 Developers can do their thing in #developer-chat, controversial or inappropriate stuff goes in #nsfw-chat, and commands go in #commands.
+
 Everything's pretty straightforward, administrators even have a chat for their own roles.
 
 ### Voice channels
@@ -96,6 +98,7 @@ We provide operator permissions for anyone without hassle, an assortment of plug
 It's easy to join the server.
 You can connect by typing the domain `shadow.ga` as a server address using the direct connect box or by adding us to your in-game list.
 Using a port isn't required but if you need one there's `25599`.
+
 We provide support for both newer and older clients, from `1.12.1` all the way back to `1.7.2`.
 Support for older client versions may change as the game updates.
 
