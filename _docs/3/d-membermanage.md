@@ -8,7 +8,7 @@ It's important to master these tools so you can effectively handle the server.
 
 ## TFM and Essentials
 Essentials is a library of commands for many purposes and TotalFreedomMod (TFM) is the backbone of this server.
-A great deal of admin commands are part of Essentials, or in this case TF-Essentials - a modified variant of the plugin, while TFM provides more specific admin commands.
+A great deal of admin commands are part of Essentials, or in this case TF-Essentials—a modified variant of the plugin, while TFM provides more specific admin commands.
 Anyone can display an in-game list of every Essentials command:
  * `/help essentials [page]` - Shows a list of commands from the Essentials plugin.
  
