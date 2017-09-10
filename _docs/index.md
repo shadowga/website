@@ -52,7 +52,8 @@ If you'd like your account deleted, just let us know.
 ### Discussions
 Discussions are thread-like posts that (when made) will show up on the community's front page.
 When a discussion is getting a lot of replies, it'll stay on the front for everyone to see.
-They're called discussions because you can endlessly... 'discuss' about anything.
+
+They're called discussions because you can endlessly *discuss* anything.
 Posts that are violating our guidelines can be locked or deleted.
 
 ### Tags and categories
