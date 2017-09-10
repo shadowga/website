@@ -23,7 +23,7 @@ It's also great to master these tools, and you can start by learning how we do t
 
 ### Homepage
 Everyone begins at the homepage when they're checking us out for the first time.
-The homepage is the first page you see when you visit `shadow.ga` - you know, with the funny text and big red mountains.
+The homepage is the first page you see when you visit `shadow.ga`—you know, with the funny text and big red mountains.
 There isn't much to see but you can quickly navigate our website and follow us on social media.
 
 ### Documentation
