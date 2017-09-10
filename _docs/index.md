@@ -12,9 +12,9 @@ We aim to provide the best experience for every member on our server. This means
 
 - **Do anything you want.** Our server has the least possible amount of rules to give our members a feeling of freedom. There are no restrictions to what you can build, we just ask that your builds mind other people. We respect privacy, so members are allowed to build as close or as far away from the starting point as they want.
 
-- **Efficient administration.** Rule breakers can be easily tracked thanks to our administration team, which is given powerful tools that allow it to enforce rules on our server. Any grief caused by members can be easily fixed, we have a reliable logging system. Administrators can even control the server when they aren't playing the game with panels like telnet.
+- **Efficient administration.** Rule breakers can be easily tracked thanks to our administration team, which is given powerful tools that allow it to enforce rules on our server. Any grief caused by members can be easily fixed, we have a reliable logging system. Administrators can control the server when they aren't playing the game with panels like telnet.
 
-- **Free and open.** You don't need building expertise or any skills to join. Our server is public to all and so is our online community, the forum. We even allow you to chat with other server members on the go with our Discord server.
+- **Free and open.** You don't need building expertise or any skills to join. Our server is public to all and so is our online community, the forum. We allow you to chat with other server members on the go with our Discord server.
 
 ## Website
 We have a range of online services and you're on one of them.
@@ -32,11 +32,11 @@ In fact, you're reading a page from our documentation right now!
 Reading our docs allows you to understand everything with just a few pages.
 It's required for everyone to read through this so you don't mess up on accident.
 
-### Quick links
-Redirections and quick links are all over this place.
-They usually come in the form of trailing slashes (`shadow.ga/something`) so you can remember them easily.
-Maybe they'll lead to another neat website, maybe they're just for laughs.
-Either way, quick links play a big role in making this website possible.
+### Social media
+Social media is used for communicating announcements and other important information.
+We have a Twitter for sending quick messages and all tweets are relayed to the guild in #announcements.
+
+Our GitHub organization is great for the open-source development of resources such as this website—and don't forget our blog, powered by Medium. 
 
 ## Community
 We'll often refer to our forum as the 'community' to keep things simple.
