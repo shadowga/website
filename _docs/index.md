@@ -73,7 +73,7 @@ It's completely optional unless you're an admin but greatly improves the server 
 
 ### Joining the guild
 You'll need to make a Discord account if you don't already have one.
-When that's set, you can either join by clicking the 'guild' button on our navigation bar or through [this link](/discord).
+When that's set, you can either join by clicking the 'guild' button on our navigation bar or through [this link](/guild).
 Then you'll be invited to the guild and will instantly become a full-fledged cool person.
 
 ### Text channels
