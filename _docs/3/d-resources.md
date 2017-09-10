@@ -70,7 +70,7 @@ If you'd rather use something else instead, the Windows operating system provide
 
 ### Using the client
 After you have chose and installed a client, you must use the address and port `b.shadow.ga:26579` to connect.
-With the recommend client mentioned above, this information can be specified in the 'server' box - found on the bottom-left corner.
+With the recommend client mentioned above, this information can be specified in the 'server' box—found on the bottom-left corner.
 > **Note:** Make sure to seperate the server address (subdomain) and port with a colon. If you forget this step, the client won't be able to properly form a connection.
 
 Keep in mind that the five-digit port can change over time, so check back with this page if it suddenly stops working.
