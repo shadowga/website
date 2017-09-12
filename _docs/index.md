@@ -34,9 +34,9 @@ It's required for everyone to read through this so you don't mess up on accident
 
 ### Social media
 Social media is used for communicating announcements and other important information.
-We have a [Twitter](/twitter) for sending quick messages and all tweets are relayed to the guild in #announcements.
+We have a [Twitter](/twitter/) for sending quick messages and all tweets are relayed to the guild in #announcements.
 
-Our [GitHub](/github) organization is great for the open-source development of resources such as this website—and don't forget our blog, powered by Medium. 
+Our [GitHub](/github/) organization is great for the open-source development of resources such as this website—and don't forget our [blog](/blog/), powered by Medium. 
 
 ## Community
 We'll often refer to our forum as the 'community' to keep things simple.
