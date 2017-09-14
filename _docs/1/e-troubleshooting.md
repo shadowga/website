@@ -36,12 +36,6 @@ We recommend [Chrome](https://www.google.com/chrome/browser) but you can also us
 It's up to you, but keep in mind that we don't provide support for Microsoft Edge or Internet Explorer.
 When it comes to ad-blocking, it's completely optional since we never use advertisements.
 
-### Web encryption
-Security and privacy is very important to us, so web encryption is one of our top priorities.
-Everything from the website (`https://shadow.ga`) and forum (`https://f.shadow.ga`) goes through Cloudflare.
-These two services always use HTTPS (secure HTTP) content with TLS 1.3 through their CDN (content delivery network).
-Resources such as HTTPD don't go through this process because they aren't providing or requesting sensitive information.
-
 ### Error codes
 If you navigate this website enough, you may make a typographical error and accidentally encounter an error page.
 What you see when visiting one of these links describes the problem and gives you an error code.
