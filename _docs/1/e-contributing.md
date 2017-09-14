@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: 1f. Contributing
+title: 1e. Contributing
 permalink: /docs/1/e-contributing/
 ---
 There are many ways to contribute to the server; including architecture, development, and even contribution of money to help us out.
