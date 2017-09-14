@@ -30,7 +30,7 @@ You don't want other people having access to that, which is why it's even more v
 If your forum account becomes compromised, you should notify the owner immediately for deactivation.
 
 ### Web encryption
-Security and privacy is very important to us, so web encryption is one of our top priorities.
+Privacy is very important to us, so web encryption is one of our top priorities.
 Everything from the website (`https://shadow.ga`) and forum (`https://f.shadow.ga`) goes through Cloudflare.
 These two services always use HTTPS (secure HTTP) content with TLS 1.3 through their CDN (content delivery network).
 Resources such as HTTPD don't go through this process because they aren't providing or requesting sensitive information.
