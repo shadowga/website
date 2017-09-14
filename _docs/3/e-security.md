@@ -35,7 +35,7 @@ Everything from the website (`https://shadow.ga`) and forum (`https://f.shadow.g
 These two services always use HTTPS (secure HTTP) content with TLS 1.3 through their CDN (content delivery network).
 Resources such as HTTPD don't go through this process because they aren't providing or requesting sensitive information.
 
-### Login information
+### Account information
 Like in-game security, keeping your e-mail address and password safe is of great importance.
 We recommend [ProtonMail](https://protonmail.com/) for secure e-mail.
 You can use the same tools mentioned earlier in this page for forum security when it's needed.
