@@ -24,10 +24,16 @@ When it comes to verifying accounts when your password isn't available, Mojang u
 Usually the questions asked are common but personal, such as the name of your pet or first school, and it's important not to forget the answers or you'll be locked out of your own account.
 Refrain from using a short string of numbers (commonly '1234') or one-word terms (as mentioned above, like the name of a city).
 
-## Forum security
+## Website and forum
 Depending on your authorization level, your forum account may contain access to admin-only information or important settings.
-You don't want other people having access to that, which is why it's even more vital to keep private forum information away from prying eyes.
+You don't want other people having access to that, which is why it's even more vital to keep private forum and homepage information away from prying eyes.
 If your forum account becomes compromised, you should notify the owner immediately for deactivation.
+
+### Web encryption
+Security and privacy is very important to us, so web encryption is one of our top priorities.
+Everything from the website (`https://shadow.ga`) and forum (`https://f.shadow.ga`) goes through Cloudflare.
+These two services always use HTTPS (secure HTTP) content with TLS 1.3 through their CDN (content delivery network).
+Resources such as HTTPD don't go through this process because they aren't providing or requesting sensitive information.
 
 ### Login information
 Like in-game security, keeping your e-mail address and password safe is of great importance.
