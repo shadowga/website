@@ -68,4 +68,4 @@ When we need to promote someone, we usually look for three things; experience, h
 ### Demoting admins
 Promotions can also work the other way around, as admins can be demoted back to a lower rank as a punishment or to better organise the team.
 Executives are capable of demoting or suspending administrators if they've broken the conduct policy, acted improperly, or failed to do their job.
-Demotions can also be a result of inactivity and an admin can have themself demoted on request.
+Demotions can also be a result of inactivity and an admin can have themselves demoted on request.
