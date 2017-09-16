@@ -97,10 +97,10 @@ Here's what we need for a good report:
 * Willingness to speak with an administrator to further explain yourself if needed.
 * Assurance that (in your mind) you think your report is accurate.
 
-You can file a report with a quick and easy form here.
+You can file a report through this form here.
 It'll be read and we'll assign someone to deal with the problem.
 Responding to these reports may take a while but it's important that the issue is taken care of.
-If you've submitted a report over three days ago and nothing's been done, let us know.
+If you've filed a report over three days ago and nothing's been done, let us know.
 
 ### Reporting admins
 We also manage our admin team, so if an administrator has been abusing you can report them as well.
