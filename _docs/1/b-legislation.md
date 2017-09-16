@@ -106,5 +106,5 @@ If you've submitted a report over three days ago and nothing's been done, let us
 We also manage our admin team, so if an administrator has been abusing you can report them as well.
 Admin reports can be filed through the same form mentioned above, but make sure to note that you're filing an admin report.
 
-Your admin-related report will be taken into the hands of our Executives to assess the issue at hand.
-Keep in mind that falsely reporting an admin is a punishable offense.
+Your admin-related report will be taken into the hands of our Executives to assess the issue at hand, but keep in mind that false admin reports are punishable.
+If you're reporting an Executive, please directly contact the server owner instead.
