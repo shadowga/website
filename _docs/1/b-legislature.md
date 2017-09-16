@@ -5,7 +5,7 @@ permalink: /docs/1/b-legislature/
 ---
 When members aren’t doing the right thing, admins are capable of punishing them.
 It's important for everyone to know our administration's guidelines for proper gameplay and activity.
-You can appeal a ban depending on the offense’s severity. If you catch other people breaking our rules, you can take action.
+You can appeal a ban depending on the offense’s severity. If others are breaking our rules, you can take action.
 
 ## Guidelines
 Guidelines give the community a direct and consistent set of rules.
