@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: 1b. Legislature
-permalink: /docs/1/b-legislature/
+permalink: /docs/1/b-legislation/
 ---
 When members aren’t doing the right thing, admins are capable of punishing them.
 It's important for everyone to know our administration's guidelines for proper gameplay and activity.
