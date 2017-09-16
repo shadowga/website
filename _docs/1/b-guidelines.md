@@ -5,7 +5,7 @@ permalink: /docs/1/b-guidelines/
 ---
 Guidelines give the community a direct and consistent set of rules.
 We have these rules for both our server and forum.
-If you are caught violating the guidelines, an administrator can take the action they deem necessary.
+If you are caught violating the guidelines, an administrator can take the action they deem necessary—such as banning your account.
 
 ### Server guidelines
 Our server tries to maintain freedom and equality for all members.
