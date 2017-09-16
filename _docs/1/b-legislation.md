@@ -99,7 +99,6 @@ Here's what we need for a good report:
 
 You can file a report with a quick and easy form here.
 It'll be read and we'll assign someone to deal with the problem.
-
 Responding to these reports may take a while but it's important that the issue is taken care of.
 If you've submitted a report over three days ago and nothing's been done, let us know.
 
