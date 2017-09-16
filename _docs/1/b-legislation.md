@@ -58,6 +58,7 @@ Here are the penalties of suspension:
 
 Depending on how severe the reason is, a member can be suspended indefinitely or for a fixed time.
 Indefinite suspensions cannot be appealed, have no end date, and can only be revoked under unusual circumstances.
+
 Members can't appeal fixed suspensions either but they have an expiration date.
 In most cases fixed suspensions won't be for longer than a month unless decided otherwise.
 
@@ -98,11 +99,13 @@ Here's what we need for a good report:
 
 You can file a report with a quick and easy form here.
 It'll be read and we'll assign someone to deal with the problem.
+
 Responding to these reports may take a while but it's important that the issue is taken care of.
 If you've submitted a report over three days ago and nothing's been done, let us know.
 
 ### Reporting admins
 We also manage our admin team, so if an administrator has been abusing you can report them as well.
 Admin reports can be filed through the same form mentioned above.
+
 Your admin-related report will be taken into the hands of our Executives to assess the issue at hand.
 Keep in mind that falsely reporting an admin is a punishable offense.
