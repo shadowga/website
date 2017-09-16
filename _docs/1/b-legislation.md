@@ -1,6 +1,6 @@
 ---
 layout: docs
-title: 1b. Legislature
+title: 1b. Legislation
 permalink: /docs/1/b-legislation/
 ---
 When members aren’t doing the right thing, admins are capable of punishing them.
