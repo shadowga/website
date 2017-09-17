@@ -86,7 +86,7 @@ Developers can do their thing in #developer-chat, controversial or inappropriate
 Everything's pretty straightforward, administrators even have a chat for their own roles.
 
 ### Voice channels
-You can even talk to each other using Discord's voice service.
+You can talk to each other using Discord's voice service.
 The way channels are organised is very similar to text, but members breaking our guidelines can be muted.
 Discord has a pretty nice voice codec and you can fine-tune your microphone and voice through the settings.
 
