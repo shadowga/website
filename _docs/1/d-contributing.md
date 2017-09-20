@@ -66,9 +66,9 @@ Any art using the brand can be sent to us for approval.
 Besides the server, our community mainly uses the forum and Discord server to get server-related information across.
 Other communities based on servers, guilds, or other platforms can partner with us and become associated.
 
-Services we associate with generally share our guidelines, set of values, but remain diverse; as a result, we encourage our members to check these places out.
-
 ### Our associates
+Services we associate with generally share our values but remain diverse—and as a result, we encourage our members to check these places out.
+
 A list of associates can be found [here](https://f.shadow.ga/d/45-list-of-associated-communities-6-2017).
 In some cases, a specific associate may be added or removed.
 We attempt to keep a positive relationship with these platforms.
