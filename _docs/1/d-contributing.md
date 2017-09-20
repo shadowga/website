@@ -61,28 +61,26 @@ We have a press kit you can download [here](https://shadow.ga/img/presskit.zip) 
 If you're looking for something that isn't included in the press kit, you can send us a message and we'll do our best to get it for you.
 Any art using the brand can be sent to us for approval.
 
-## Other communities
+## Association
 Besides the server, our community mainly uses the forum and Discord server to get server-related information across.
-Other communities help us promote ourselves while exploring the widely different member-bases of various places.
+Other communities based on servers, guilds, or other platforms can partner with us and become associated.
 
-### What association is
-Servers, Discord communities, and companies alike that have either reached out to us or have been specially requested as partnered by a server official are referred to as associated.
-Being part of an associated community means the actions you make, whether positive or negative, reflect back to here.
-If you wish to become part of an associated community, you must get to know their rules and respect their differences.
+Services we associate with generally share our guidelines, set of values, but remain diverse; as a result, we encourage our members to check these places out.
 
-A list of associated communities can be found [here](https://f.shadow.ga/d/45-list-of-associated-communities-6-2017).
-In some cases, a specific community may be added or removed.
-We attempt to keep a positive relationship with these communities.
+### Our associates
+A list of associates can be found [here](https://f.shadow.ga/d/45-list-of-associated-communities-6-2017).
+In some cases, a specific associate may be added or removed.
+We attempt to keep a positive relationship with these platforms.
 
-### Associate your community
-New communities yet discovered by our members can always be added to our list through an association request.
-The acceptance of a request can depend on multiple factors, but we have guidelines for associated communities that defines our expectations. Here's what we look for:
+### Request association
+New platforms to-be-discovered can always be added to our list through an association request.
+The acceptance of a request can depend on the situation, but here's what we generally look for:
+
 * The service must have some common interest with our server or website; and be helpful to the members of our community.
 * Any well-established audience, base of users, or target demographic relevant to our purpose.
 * Protection against content that could possibly break our guidelines or cross ethical boundaries.
 * Providing an extension, beneficial third-party service, or tool to our members is encouraged.
 * A similar administrative structure with moderation and a set of rules.
 
-### Request association
-To request association, you must have an administrative title or be the leader of the community you want to associate.
-You can make a request to associate by contacting the owner and your offer will be considered over time.
+To request association, you must have authority on the service you want to associate.
+You can make a request by contacting the server owner and your offer will be considered over time.
