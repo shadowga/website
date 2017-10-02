@@ -14,10 +14,10 @@ Maybe you already know what's going on; if that's true, you can report it or sug
 * For client-side errors (such as Minecraft crashes or Internet connection problems), seek help from an external source.
 
 ### Platform support
-To receive forum support, all you need to do is make sure that you've got a forum account and ask a question on the forum paired with the ‘support’ tag.
+To receive support from the forum, all you need to do is make sure that you have a forum account—then ask a question on the forum paired with the ‘support’ tag.
 An administrator will make an attempt to assist you as soon as possible.
 
-For guild support, you can get help through our guild's [#developer-chat](https://discord.gg/3fFF2V2).
+For guild-sourced support, you can get help through our guild's [#developer-chat](https://discord.gg/3fFF2V2).
 It's also possible to directly message an Executive using Discord if you prefer talking privately.
 Be respectful and don't annoy admins, they can block you.
 
