@@ -13,18 +13,18 @@ Maybe you already know what's going on; if that's true, you can report it or sug
 * For development-related issues, make a suggestion on the forum instead.
 * For client-side errors (such as Minecraft crashes or Internet connection problems), seek help from an external source.
 
-### Get help on the guild
-Sometimes an admin may busy or not on the server.
-For problems like this you can get live support through our guild's [#developer-chat](https://discord.gg/3fFF2V2).
-Like our server, you can directly message someone using Discord if you prefer talking privately.
-Other members or admins are capable of blocking you, which will prevent your account from sending direct messages to them.
-
-### Get help on the forum
-Even with the above options, you may have a question that multiple people could answer or maybe you'd like it posted for a longer period of time.
-To get forum support, all you need to do is make sure that you've got a forum account and ask a question on the forum paired with the ‘support’ tag.
+### Forum and guild support
+To receive forum support, all you need to do is make sure that you've got a forum account and ask a question on the forum paired with the ‘support’ tag.
 An administrator will make an attempt to assist you as soon as possible.
 
-You can also contact our owner using the Discord handle `@irix#5973` if that floats your boat.
+For guild support, you can get help through our guild's [#developer-chat](https://discord.gg/3fFF2V2).
+It's also possible to directly message an Executive using Discord if you prefer talking privately.
+Be respectful and don't annoy admins, they can block you.
+
+### Direct support
+If you need direct help from the server owner, you can contact `@irix#5973` through Discord.
+Direct support is also prvoided through our `webmaster@mg.shadow.ga` e-mail address.
+Please don't use in-game messaging (`/msg` or `/whisper`) to send confidential information as it can be read and logged by admins.
 
 ## Website and forum
 Issues with the homepage, documentation page, or forum can get complicated.
