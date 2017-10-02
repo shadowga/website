@@ -13,7 +13,7 @@ Maybe you already know what's going on; if that's true, you can report it or sug
 * For development-related issues, make a suggestion on the forum instead.
 * For client-side errors (such as Minecraft crashes or Internet connection problems), seek help from an external source.
 
-### Forum and guild support
+### Platform support
 To receive forum support, all you need to do is make sure that you've got a forum account and ask a question on the forum paired with the ‘support’ tag.
 An administrator will make an attempt to assist you as soon as possible.
 
