@@ -100,7 +100,7 @@ Suggestions may or may not be accepted depending on how much of a change they wo
 
 ### Taking action
 To reveal an issue or suggestion, you may start a discussion on our forum.
-If your discussion is about an issue, please use the 'development' tag paired with a proper sub-tag (server, forum, or resource pack).
+If your discussion is about an issue, please use the 'development' tag paired with a sub-tag (server, forum, or resource pack).
 
 If it's about a suggestion, use the 'suggestions' tag instead.
 After your post is voted on by our administrator team, a verdict can be reached by an Executive or above.
