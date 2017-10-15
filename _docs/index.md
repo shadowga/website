@@ -76,7 +76,11 @@ It's completely optional unless you're an admin but greatly improves the server 
 ### Joining the guild
 You'll need to make a Discord account if you don't already have one.
 When that's set, you can either join by clicking the 'guild' button on our navigation bar or through [this link](/guild/).
-Then you'll be invited to the guild and will instantly become a full-fledged cool person.
+Then you'll be invited to the guild and will instantly become a fully-fledged cool person.
+
+Now that you're in, you'll need to get two-factor authentication set up.
+This feature is required for everyone to use the service, it's for security reasons.
+If you need help with this, we have a page on it [here](https://shadow.ga/docs/3/e-security/#discord-account).
 
 ### Text channels
 Similar to the forum, different topics have their own channel.
