@@ -46,7 +46,7 @@ The forum and this website in general is made possible by the folks over at Flar
 ### Making an account
 Getting started on the community is nice and simple, we don't ask for much information.
 You'll either need an e-mail and password or you can sign up with a GitHub account.
-Check out the security page for advice on that.
+Also consider enabling two-factor authentication, check our security page [here](https://shadow.ga/docs/3/e-security/#activating-two-factor-login) for more on that.
 If you'd like your account deleted, just let us know.
 
 ### Discussions
@@ -77,10 +77,6 @@ It's completely optional unless you're an admin but greatly improves the server 
 You'll need to make a Discord account if you don't already have one.
 When that's set, you can either join by clicking the 'guild' button on our navigation bar or through [this link](/guild/).
 Then you'll be invited to the guild and will instantly become a fully-fledged cool person.
-
-Now that you're in, you'll need to get two-factor authentication set up.
-This feature is required for everyone to use the service, it's for security reasons.
-More information can be found [here](https://shadow.ga/docs/3/e-security/#discord-account).
 
 ### Text channels
 Similar to the forum, different topics have their own channel.
