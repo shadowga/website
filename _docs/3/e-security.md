@@ -68,9 +68,9 @@ Keep in mind that we only use the `m.shadow.ga` subdomain for e-mails, so any ot
 
 ## Discord account
 Everything said above also applies to the guild and your Discord account.
-They even provide two-factor security of their own, and we require it to be enabled—there's a guide for that [here](https://support.discordapp.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
+They even provide two-factor security of their own, and admins must have it enabled—there's a guide for that [here](https://support.discordapp.com/hc/en-us/articles/219576828-Setting-up-Two-Factor-Authentication).
 
 > **Note:** As of now, Discord's process of enabling 2FA is only present on the web and desktop versions of their programme. You'll need a desktop machine for this, but it only needs to be done once.
 
-Members of our guild won't be able to communicate or utilise the service's features without enabling two-factor auth.
+Members of our guild with admin positions won't be able to utilise the service's features without enabling two-factor auth.
 If your Discord account is compromised, notify an Executive or the owner so we can temporarily remove your permissions.
