@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 1d. Contributing
-permalink: /docs/1/d-contributing/
+title: IV. Contributing
+permalink: /docs/1/4-contributing/
 ---
 There are many ways to contribute to the server; including architecture, development, and even contribution of money to help us out.
 Contributing is a great way to assist not just the server, but our community as a whole.
