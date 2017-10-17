@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: III. Navigation
-permalink: /docs/1/3-navigation/
+title: c. Navigation
+permalink: /docs/1/c-navigation/
 ---
 We have different types of worlds so members may choose any environment they like.
 While every world shares the same set of guidelines, they can help distinguish the atmosphere and design of builds.
