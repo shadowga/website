@@ -63,7 +63,7 @@ Remember to store those backup codes in a safe place, you'll need them if you ev
 Making a forum account is rather easy, but you still shouldn't give out information like your private e-mail or banking information.
 We won't ever ask for personal information in any way, whether that be through mail or text.
 
-If you ever receive a suspicious message through our name, [contact us](https://shadow.ga/docs/1/e-support/#direct-support) and we'll take appropriate action from there.
+If you ever receive a suspicious message bearing our name, [contact us](https://shadow.ga/docs/1/e-support/#direct-support) and we'll take appropriate action from there.
 Keep in mind that we only use the `mg.shadow.ga` subdomain for e-mails, so any other address is fake.
 
 ## Discord account
