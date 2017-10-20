@@ -45,6 +45,20 @@ These guidelines also apply to the guild and other resources.
 
 - **Control your account.** The account you create and keep secure is your responsibility. Don't let others have access to your account information, and if that happens you should have your password changed immediately. If an alternate account acts up, your main account will also be sanctioned. Members should notify an Executive or higher before making another account if they intend to do so. It's your responsibility to take care of your account; that means having a secure username, password, and e-mail address. Check out the security page for more info.
 
+### Our practices
+Here's what we do to ensure the best for our community.
+These practices are ultimately followed both officially and by our admins.
+
+ - **We'll be safe.** We won't ever solicit dangerous offers or files; we'll never ask for private information, government-issued verification, security codes, or your residential address—and that's just to name a few. If requested, we'll provide a full inspection of any file hosted on our website, and won't play host to illegal or suspicious content. Anything posted on our server or forum that violates posted legislation will be met with removal. If you see anything like this, [contact us](https://shadow.ga/docs/1/e-support/#direct-support) right away.
+ 
+  - **Discretion is golden.** Unless requested by government or state officials, we'll never give out personal information to the public. Since we don't make use of advertising, nothing personal in our hands will go to third-party services and respecting the wishes of our members is very important to us. Anyone who uses our services to post unwanted details of other people will be prohibited from using the server or forum, as dictated by administrators and the guidelines. 
+
+ - **Entirely non-profit.** None of our administrators are paid, and we don't profit from donations. Everything paid to us will solely assist in funding our server and saving money for those resources if needed. In the event of a closure, any donations collected will go back to whoever issued them or charity. Our service isn't in the hands of any big company, but belongs to one person—the server owner.
+ 
+ - **One step ahead.** If your personal information is leaked for any reason and you'd like us to do something, we'll contact the United States authorities (that's where we're from) and the proper actions to prevent it from happening again. (Distributed) denial of service attacks and other attempted takedowns are protected by our server host and Cloudflare, but if a real threat is posed we'll backup and shut down the service to prevent data loss.
+ 
+ - **Your account belongs to you.** Forum accounts, server information, plugin-stored data, and references to you can be removed by request. We won't ever hold any of your information against you or condone any attempts to do so. If something happened to an account holder here and you would like their information taken down for any reason, let us know with legal proof or relation to that member and we'll do what's necessary. We'll also take steps to secure breached accounts.
+
 ## Suspension
 The status of being suspended can be given to any member that breaks the rules to a point where banning them is ineffective.
 Members can be suspended by Executives or the Server Owner if they are petitioned to do so by another administrator.
