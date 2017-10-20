@@ -59,6 +59,9 @@ These practices are ultimately followed both officially and by our admins.
  
  - **Your account belongs to you.** Forum accounts, server information, plugin-stored data, and references to you can be removed by request. We won't ever hold any of your information against you or condone any attempts to do so. If something happened to an account holder here and you would like their information taken down for any reason, let us know with legal proof or relation to that member and we'll do what's necessary. We'll also take steps to secure breached accounts.
 
+If you see anything with our name that's violating the posted guidelines or practices, it isn't us.
+You can find out more on this matter [here](https://shadow.ga/docs/3/e-security/#watching-your-back).
+
 ## Suspension
 The status of being suspended can be given to any member that breaks the rules to a point where banning them is ineffective.
 Members can be suspended by Executives or the Server Owner if they are petitioned to do so by another administrator.
