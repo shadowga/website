@@ -23,8 +23,8 @@ Be respectful and don't annoy admins, they can block you.
 
 ### Direct support
 If you need direct help from the server owner, you can contact `@irix#5973` through Discord.
-Direct support is also prvoided through our `webmaster@mg.shadow.ga` e-mail address.
-Please don't use in-game messaging (`/msg` or `/whisper`) to send confidential information as it can be read and logged by admins.
+Direct support is also provided through our `webmaster@mg.shadow.ga` e-mail address.
+Please don't use in-game messaging (`/msg` or `/whisper`) to send confidential information as it can be read by admins.
 
 ## Website and forum
 Issues with the homepage, documentation page, or forum can get complicated.
