@@ -193,7 +193,7 @@
 
 @include respond-to(handhelds) {
 .Footer-home {
-  background: #fff;
+  background: rgba(255,255,255,0);
   }
 }
 
