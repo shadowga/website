@@ -16,7 +16,7 @@ Admins must periodically check their e-mail addresses to make sure they weren't 
 There are many tools capable of effectively doing this, but we recommend [this](https://haveibeenpwned.com/) service for quick lookups.
 
 Passwords should be made as long as possible to prevent a brute-force attack, but it's also important to not use obvious terms (such as your last name, date of birth, or something common like a city name).
-GRC provides [Perfect Passwords](https://www.grc.com/passwords.htm), a free webpage that generates safe passwords.
+GRC provides [Perfect Passwords](https://www.grc.com/passwords.htm), a free service that generates safe passwords.
 
 ### Security questions
 When it comes to verifying accounts when your password isn't available, Mojang uses a set of three security questions with answers unique to what you've chosen.
