@@ -64,9 +64,9 @@ We recommend using FTC, a lightweight telnet client made for Minecraft servers l
 FTC requires a desktop copy of Java to work, but most machines come with the software pre-installed.
 To see if you have Java installed on your machine, follow [this guide](https://www.java.com/en/download/help/version_manual.xml).
 
-Once you have made sure that Java is installed, you can download the client by clicking [this link](https://git.io/v7kJw).
+Once you have made sure that Java is installed, you can download the client [here](https://git.io/v7kJw).
 Since the program has a `.jar` extension, you can open it using the Java platform.
-If you'd rather use something else instead, the Windows operating system provides a built-in client that isn't enabled by default; TechNet (Microsoft) has a guide on that [here](https://technet.microsoft.com/en-us/library/cc771275).
+If you'd rather use something else instead, the Windows operating system provides a built-in client that isn't present by default; TechNet (Microsoft) provides a [guide](https://technet.microsoft.com/en-us/library/cc771275) on enabling the feature.
 
 ### Using the client
 After you have chose and installed a client, you must use the address and port `b.shadow.ga:26579` to connect.
