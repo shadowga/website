@@ -61,8 +61,7 @@ This feature is helpful for portable administration, log checking, and monitorin
 ### Finding a client
 Admins have a wide array of different applications and programs to use as a client for the service.
 We recommend using FTC, a lightweight telnet client made for Minecraft servers like this one.
-FTC requires a desktop copy of Java to work, but most machines come with the software pre-installed.
-To see if you have Java installed on your machine, follow [this guide](https://www.java.com/en/download/help/version_manual.xml).
+If the downloaded binary isn't working, you may not have [Java](https://www.java.com/en/download) installed.
 
 Once you have made sure that Java is installed, you can download the client [here](https://git.io/v7kJw).
 Since the program has a `.jar` extension, you can open it using the Java platform.
