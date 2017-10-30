@@ -12,13 +12,13 @@ Having a hierarchy of ranks is a great way of classifying our community, althoug
 Knowing our various ranks allows members to identify and communicate with administrators easily.
 
 ### Super Admins
-Super Admins are the basic administrators. They are given banning and smiting abilities, and full access to grief logging plugins. Super Admins are also allowed to use some commands that are blocked for operators, such as /tpo and /say.
+Super Admins are the basic administrators. They are given banning and smiting abilities, and full access to grief logging plugins. Super Admins are allowed to use some commands that are blocked for operators such as `/tpo` and `/say`.
 
 ### Telnet Admins
-Telnet Admins are given the same commands as Super Admins, however they can use telnet. Our telnet server allows members with the rank to administrate even when they are not on Minecraft. This is useful for on-the-go devices such as phones, which have apps supporting telnet.
+Telnet Admins are given the same commands as Super Admins except they can use [telnet](https://shadow.ga/docs/3/d-resources/#telnet-server). Our telnet server allows members with the rank to administrate even when they are not on Minecraft. This is useful for on-the-go devices such as phones, which have apps supporting telnet.
 
 ### Senior Admins
-Senior Admins have all the abilities as the above ranks. They are also given extra commands that are blocked to the default admin rank, such as global commands like /time and /weather. The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
+Senior Admins have all the abilities as the above ranks. They're also given extra commands that are blocked to lower ranks; like `/time` and `/weather`. The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
 
 ### Executive Admins
 Executives are in charge of all other admin ranks, except for the owner. They have the ability to suspend disobedient or rogue administrators, and even ban them if required. They're also in charge of marketing the server to members when the owners are unable to. You probably won't even see these admins in-game that often, that's because they also take care of resources like the forum.
