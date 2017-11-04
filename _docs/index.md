@@ -35,7 +35,7 @@ The documentation page (or docs) is the home of all information regarding our se
 We provide guidelines, instructions, and guides so newcomers can be educated with ease.
 You're even reading a docs page right now and you can quickly jump to pages with the left-hand table.
 
-> **Notes** and **tips** like this one signify knowledge that isn't necessarily definite but important. **Upcoming** blocks detail assets we're still trying to implement—these are also subject to change when a new feature arises.
+> **Notes** and **tips** like this one signify knowledge that isn't necessarily definite but important. **Upcoming** blocks detail assets we're still trying to implement—also subject to change when a new feature arises.
 
 Everyone should thoroughly read our documentation so they know how to get around.
 If you don't read the docs, you could get in trouble for something you didn't know about.
