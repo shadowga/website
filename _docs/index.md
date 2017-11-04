@@ -28,7 +28,7 @@ There isn't much to see but you can quickly navigate our website and follow us o
 
 Other pages branching from our homepage (such as error pages) can provide material.
 The open-source portions of our service can be viewed and forked through the repository.
-Our homepage and akin files are powered by Jekyll and Flarum.
+Our homepage and akin files are powered by [Jekyll](https://jekyllrb.com/) and [Flarum](http://flarum.org/).
 
 ### Documentation
 The documentation page (or docs) is the home of all information regarding our service.
@@ -45,7 +45,7 @@ Information also helps with using the exclusive features of our server, forum, a
 Social media is used for communicating announcements and other important information.
 We have a [Twitter](/twitter/) for sending quick messages and all tweets are relayed to the guild in #announcements.
 
-Our [GitHub](/github/) organization is great for the open-source development of resources such as this website—and don't forget our [blog](/blog/), powered by Medium. 
+Our [GitHub](/github/) organization is great for the open-source development of resources such as this website—and don't forget our Medium [blog](/blog/).
 
 ## Community
 We'll often refer to our forum as the 'community' to keep things simple.
