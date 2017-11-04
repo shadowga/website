@@ -28,14 +28,14 @@ There isn't much to see but you can quickly navigate our website and follow us o
 
 Other pages branching from our homepage (such as error pages) can provide material.
 The open-source portions of our service can be viewed and forked through the repository.
-Our homepage and akin files are powered by 
+Our homepage and akin files are powered by Jekyll and Flarum.
 
 ### Documentation
 The documentation page (or docs) is the home of all information regarding our service.
 We provide guidelines, instructions, and guides so newcomers can be educated with ease.
 You're even reading a docs page right now and you can quickly jump to pages with the left-hand table.
 
-> **Notes** and **tips** like this one signify knowledge that isn't necessarily definite but important. **Upcoming** blocks detail assets we're still trying to implement—also subject to change when a new feature arises.
+> **Notes** and **tips** like this one signify knowledge that isn't necessarily definite but important. **Upcoming** blocks detail assets we're still trying to implement—also subject to revision.
 
 Everyone should thoroughly read our documentation so they know how to get around.
 If you don't read the docs, you could get in trouble for something you didn't know about.
