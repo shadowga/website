@@ -27,10 +27,13 @@ The homepage is the first page you see when you visit `shadow.ga`—you know, wi
 There isn't much to see but you can quickly navigate our website and follow us on social media.
 
 ### Documentation
-The documentation page is great... especially if you're new.
-In fact, you're reading a page from our documentation right now!
-Reading our docs allows you to understand everything with just a few pages.
-It's required for everyone to read through this so you don't mess up on accident.
+The documentation page (or docs) is the home of all information regarding our service.
+We provide guidelines, instructions, and guides so newcomers can be educated with ease.
+You're even reading a docs page right now, and you can quickly jump to pages with the left-hand table.
+
+Everyone should thoroughly read our documentation so they know how to get around.
+If you don't read the docs, you could get in trouble for something you didn't know about.
+Information also helps with using the exclusive features of our server, forum, and other resources.
 
 ### Social media
 Social media is used for communicating announcements and other important information.
