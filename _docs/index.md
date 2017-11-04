@@ -29,7 +29,7 @@ There isn't much to see but you can quickly navigate our website and follow us o
 ### Documentation
 The documentation page (or docs) is the home of all information regarding our service.
 We provide guidelines, instructions, and guides so newcomers can be educated with ease.
-You're even reading a docs page right now, and you can quickly jump to pages with the left-hand table.
+You're even reading a docs page right now and you can quickly jump to pages with the left-hand table.
 
 Everyone should thoroughly read our documentation so they know how to get around.
 If you don't read the docs, you could get in trouble for something you didn't know about.
