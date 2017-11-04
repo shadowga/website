@@ -50,7 +50,7 @@ Our [GitHub](/github/) organization is great for the open-source development of 
 ## Community
 We'll often refer to our forum as the 'community' to keep things simple.
 Call it anything you want, but this feature is great for online collaboration and discourse.
-The forum software we use is made possible by the folks over at Flarum.
+The forum we use is also powered by the [Flarum](http://flarum.org/) forum software.
 
 ### Making an account
 Getting started on the community is nice and simple, we don't ask for much information.
