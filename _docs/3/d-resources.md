@@ -65,7 +65,7 @@ If the downloaded binary isn't working, you may not have [Java](https://www.java
 
 Once you have made sure that Java is installed, you can download the client [here](https://git.io/v7kJw).
 Since the program has a `.jar` extension, you can open it using the Java platform.
-If you'd rather use something else instead, the Windows operating system provides a built-in client that isn't present by default; TechNet (Microsoft) provides a [guide](https://technet.microsoft.com/en-us/library/cc771275) on enabling the feature.
+If you'd rather use something else, the Windows operating system provides a built-in client that isn't present by default; TechNet (Microsoft) provides a [guide](https://technet.microsoft.com/en-us/library/cc771275) on enabling the feature.
 
 ### Using the client
 After you have chose and installed a client, you must use the address and port `b.shadow.ga:26579` to connect.
