@@ -108,7 +108,7 @@ To get started, you can create a discussion on our forum.
 If your discussion is about an issue, please use the 'development' tag paired with a sub-tag (server, forum, or resource pack).
 If it's about a suggestion, use the 'suggestions' tag instead.
 
-> **Note:** Since this is a fairly democratic process, we need some replies before closing the discussion—this may take a while.
+> **Note:** Since this is a fairly democratic process, we need some replies before closing the discussion—this may take a while. Patience is key.
 
 After your post is voted on by our administrator team, a verdict can be reached by an Executive or above.
 Here's some tips for constructing a good post with all the facts:
