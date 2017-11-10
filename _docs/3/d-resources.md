@@ -63,7 +63,7 @@ Admins have a wide array of different applications and programs to use as a clie
 We recommend our self-maintained client made for our server, which you can download [here](https://git.io/v7kJw).
 If the download isn't working, check to see if [Java](https://www.java.com/en/download) is installed.
 
-Since the program is a binary, you can open it with the Java Runtime Environment (JRE or Java JRE).
+Since the program is a binary, you can open it with the Java Runtime Environment (JRE or Java SE JRE).
 If you'd rather use something else, the Windows operating system provides a built-in client that isn't present by default; TechNet (Microsoft) provides a [guide](https://technet.microsoft.com/en-us/library/cc771275) on enabling the feature.
 
 ### Using the client
