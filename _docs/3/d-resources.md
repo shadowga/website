@@ -9,7 +9,8 @@ If a service hasn't been mentioned anywhere else in the documentation; it's list
 ## File transfer server
 Our server for file uploads and downloads (HTTPD) can be used for quick access to certain in-game files.
 You can directly access the online file transfer server by manually entering an address and port (`b.shadow.ga:27579`) or through [this link](http://b.shadow.ga:27579).
-That address alone will produce an error because you aren't requesting anything yet.
+
+> **Note:** That address alone will produce an error because you aren't requesting anything yet. You'll need to get somewhere by navigating through the server.
 
 ### Navigation
 Navigating through the server is fairly easy as each feature can be located using a trailing slash.
@@ -22,15 +23,19 @@ Here's a list of trailing slashes you can use:
  - `/list` - Similar to the above directory, views an updated list of the server's online members.
  
 ### Downloading schematics
-Using the schematic list, anyone can download a file by clicking on its name.
-Only files with a `.schematic` extension can be downloaded using the interface for security reasons.
-Files are sorted alphabetically onto a dynamic list that can be updated by a page refresh.
-Don't download other's entries without their permission.
+Using the schematic list (or [downloader](http://b.shadow.ga:27579/schematic/list), anyone can download a file by clicking on its name.
+Only files with a `.schematic` extension can be downloaded and they're sorted alphabetically onto a dynamic list.
+New entries to the list can be uploaded with a page refresh.
+
+Don't download other's entries without their permission and respect their privacy—don't distribute files.
+Schematics with a filename or content violating our guidelines will be deleted.
 
 ### Uploading schematics
-The interface for uploading can only be used by locations that are added in-game as an admin, meaning only administrators can use this feature.
-When uploading a schematic, the 'choose file' option allows you to pick a file from your computer and upload it to the server.
-Files with a size above sixty-four kilobytes will not upload and inappropriate file names aren't allowed.
+The schematic [uploader](http://b.shadow.ga:27579/schematic/list) can only be used by networks added in-game as an admin, meaning only administrators can use this feature.
+When using the interface, the 'choose file' option allows you to pick a file from your computer and upload it.
+
+Files with a size above sixty-four kilobytes will not upload and inappropriate names aren't allowed.
+Administrators who abuse this feature are subject to removal or suspension.
 
 ## Archives and backups
 Preventing data loss is very important, so we take several measures to prevent that from happening.
