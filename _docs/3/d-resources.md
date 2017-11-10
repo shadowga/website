@@ -32,7 +32,7 @@ Schematics with a filename or content violating our guidelines will be deleted.
 
 ### Uploading schematics
 The schematic [uploader](http://b.shadow.ga:27579/schematic/list) can only be used by networks added in-game as an admin, meaning only administrators can use this feature.
-When using the interface, the 'choose file' option allows you to pick a file from your computer and upload it.
+When using this interface, the 'choose file' option allows you to pick a file from your computer and upload it.
 
 Files with a size above sixty-four kilobytes will not upload and inappropriate names aren't allowed.
 Administrators who abuse this feature are subject to removal or suspension.
