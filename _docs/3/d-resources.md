@@ -23,7 +23,7 @@ Here's a list of trailing slashes you can use:
  - `/list` - Similar to the above directory, views an updated list of the server's online members.
  
 ### Downloading schematics
-Using the schematic list (or [downloader](http://b.shadow.ga:27579/schematic/list), anyone can download a file by clicking on its name.
+Using the schematic list (or [downloader](http://b.shadow.ga:27579/schematic/list)), anyone can download a file by clicking on its name.
 Only files with a `.schematic` extension can be downloaded and they're sorted alphabetically onto a dynamic list.
 New entries to the list can be uploaded with a page refresh.
 
