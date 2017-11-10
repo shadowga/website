@@ -49,8 +49,8 @@ While we don't allow downloads of our entire server, you can request a specific 
 Private backups are handled by the server owner and requests are fulfilled at their discretion.
 
 ### Website backups
-Our homepage and documentation is handled through a public repository.
-Forum backups are handled by DigitalOcean and are kept private.
+Our homepage and documentation are handled through a public repository.
+Forum backups are handled by DigitalOcean and we keep them private.
 If we experience problems with the forum, we can restore to a number of snapshots.
 
 ## Telnet server
@@ -60,11 +60,10 @@ This feature is helpful for portable administration, log checking, and monitorin
 
 ### Finding a client
 Admins have a wide array of different applications and programs to use as a client for the service.
-We recommend using FTC, a lightweight telnet client made for Minecraft servers like this one.
-If the downloaded binary isn't working, you may not have [Java](https://www.java.com/en/download) installed.
+We recommend our self-maintained client made for our server, which you can download [here](https://git.io/v7kJw).
+If the download isn't working, check to see if [Java](https://www.java.com/en/download) is installed.
 
-Once you have made sure that Java is installed, you can download the client [here](https://git.io/v7kJw).
-Since the program has a `.jar` extension, you can open it using the Java platform.
+Since the program is a binary, you can open it with the Java Runtime Environment (JRE or Java JRE).
 If you'd rather use something else, the Windows operating system provides a built-in client that isn't present by default; TechNet (Microsoft) provides a [guide](https://technet.microsoft.com/en-us/library/cc771275) on enabling the feature.
 
 ### Using the client
