@@ -57,12 +57,11 @@ Once you have chosen someone you want to select, you can directly message an Exe
 ## Management
 As mentioned earlier, we organise our staff so members can go to the right person for help.
 Depending on what someone wants to administrate or how they perform, they can be promoted or demoted.
-Our Executive team helps manage lower-ranked administrators by evaluating their actions in-game.
 
 ### Promotion
 When admins further improve themselves, the owner can issue a promotion to them which will up their position in the administrator hierarchy.
 
-This usually occurs because a higher-ranking admin resigns or goes inactive, which opens an opportunity for promotion.
+This usually occurs when a higher-ranking admin resigns or is placed inactive, opening the opportunity for a promotion.
 When we need to promote someone, we usually look for three things; experience, helpfulness, and activity.
 
 ### Demotion
