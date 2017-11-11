@@ -39,7 +39,7 @@ If the above sounds like you, make sure to let us know.
 Maybe that description reminds you of someone else?
 If so, you can directly message an admin to recommend them.
 
-### Selecting members
+### Selection
 If you're already an administrator; you can select a member for the position.
 Selected members are expected to stand out from everyone else and meet all of the above requirements.
 By selecting a member, you agree that they represent a model candidate in your eyes and bring a higher-ranked admin's attention to the member.
@@ -50,7 +50,7 @@ We have a few requirements for selection:
 * The member must have a forum account with two-factor auth enabled.
 * The member must have a Discord account connected to our guild, also with two-factor auth enabled.
 
-### How to select a member
+### Selecting a member
 To choose a member, they must agree to become an admin and vow to fulfill all tasks expected of them.
 Once you have chosen someone you want to select, you can directly message an Executive or higher and they will the make decision to appoint them or not.
 
@@ -59,12 +59,12 @@ As mentioned earlier, we organise our staff so members can go to the right perso
 Depending on what someone wants to administrate or how they perform, they can be promoted or demoted.
 Our Executive team helps manage lower-ranked administrators by evaluating their actions in-game.
 
-### Promoting admins
+### Promotion
 When admins further improve themselves, the owner can issue a promotion to them which will up their rank.
 This usually occurs because a higher-ranking admin resigns or goes inactive, which opens an opportunity for promotion.
 When we need to promote someone, we usually look for three things; experience, helpfulness, and activity.
 
-### Demoting admins
+### Demotion
 Promotions can also work the other way around, as admins can be demoted back to a lower rank as a punishment or to better organise the team.
 Executives are capable of demoting or suspending administrators if they've broken the conduct policy, acted improperly, or failed to do their job.
 Demotions can also be a result of inactivity and an admin can have themselves demoted on request.
