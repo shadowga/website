@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: a. Directorate
-permalink: /docs/3/a-directorate/
+permalink: /docs/2/a-directorate/
 ---
 Having an effective and reliable staff team is important to us, and that's why we carefully manage our administrators.
 The admin rank isn't for everyone, but it's possible to become one if you're fit for the task.
