@@ -60,11 +60,13 @@ Depending on what someone wants to administrate or how they perform, they can be
 Our Executive team helps manage lower-ranked administrators by evaluating their actions in-game.
 
 ### Promotion
-When admins further improve themselves, the owner can issue a promotion to them which will up their rank.
+When admins further improve themselves, the owner can issue a promotion to them which will up in the administrator hierarchy.
+
 This usually occurs because a higher-ranking admin resigns or goes inactive, which opens an opportunity for promotion.
 When we need to promote someone, we usually look for three things; experience, helpfulness, and activity.
 
 ### Demotion
 Promotions can also work the other way around, as admins can be demoted back to a lower rank as a punishment or to better organise the team.
+
 Executives are capable of demoting or suspending administrators if they've broken the conduct policy, acted improperly, or failed to do their job.
 Demotions can also be a result of inactivity and an admin can have themselves demoted on request.
