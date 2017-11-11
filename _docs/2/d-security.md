@@ -31,9 +31,10 @@ If your forum account becomes compromised, you should notify the owner immediate
 
 ### Web encryption
 Privacy is very important to us, so web encryption is one of our top priorities.
-Everything from the website (`https://shadow.ga`) and forum (`https://f.shadow.ga`) goes through Cloudflare.
-These two services always use HTTPS (secure HTTP) content with TLS 1.3 through their CDN (content delivery network).
-Resources such as HTTPD don't go through this process because they aren't providing or requesting sensitive information.
+Everything from the website (`https://shadow.ga`) and forum (`https://f.shadow.ga`) goes through [Cloudflare](https://www.cloudflare.com/).
+These two services always use HTTPS (secure HTTP) content with TLS 1.3 through their content delivery network.
+
+Resources such as HTTPD and Dynmap don't go through this process because they aren't providing or requesting sensitive information.
 
 ### Account information
 Like in-game security, keeping your e-mail address and password safe is of great importance.
