@@ -17,10 +17,10 @@ Super Admins are the basic administrators. They are given banning and smiting ab
 Telnet Admins are given the same commands as Super Admins except they can use [telnet](https://shadow.ga/docs/2/c-resources/#telnet-server). Our telnet server allows members with the rank to administrate even when they are not on Minecraft. This is useful for on-the-go devices such as phones, which have apps supporting telnet.
 
 ### Senior Admins
-Senior Admins have all the abilities as the above ranks. They're also given extra commands that are blocked to lower ranks; like `/time` and `/weather`. The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
+Senior Admins have all the abilities as the above ranks. They're also given extra commands that are blocked to lower ranks; like `/summon` and `/socialspy`. The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
 
 ### Executive Admins
-Executives are in charge of all other admin ranks, except for the owner. They have the ability to suspend disobedient or rogue administrators, and even ban them if required. They're also in charge of marketing the server to members when the owners are unable to. You probably won't even see these admins in-game that often, that's because they also take care of resources like the forum.
+Executives are in charge of all lower positions; t have the ability to suspend disobedient or rogue administrators. They're also in charge of marketing the server to members when the owners are unable to. You probably won't even see these admins in-game that often because they also take care of platforms like the forum.
 
 ## Appointment
 We always keep an eye out for potential administrators as the server grows.
