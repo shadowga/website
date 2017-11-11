@@ -60,7 +60,7 @@ Depending on what someone wants to administrate or how they perform, they can be
 Our Executive team helps manage lower-ranked administrators by evaluating their actions in-game.
 
 ### Promotion
-When admins further improve themselves, the owner can issue a promotion to them which will up in the administrator hierarchy.
+When admins further improve themselves, the owner can issue a promotion to them which will up their position in the administrator hierarchy.
 
 This usually occurs because a higher-ranking admin resigns or goes inactive, which opens an opportunity for promotion.
 When we need to promote someone, we usually look for three things; experience, helpfulness, and activity.
