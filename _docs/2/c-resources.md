@@ -63,7 +63,7 @@ Telnet Admins and higher can use the server's command-line interface for adminis
 Upon logging in through the telnet service, admins can send commands and view server statistics through a client.
 This feature is helpful for portable administration, log checking, and monitoring as it's basically a lightweight server control panel.
 
-### Location
+### Finding a client
 Admins have a wide array of different applications and programs to use as a client for the service.
 We recommend our self-maintained client made for our server, which you can download [here](https://git.io/v7kJw).
 If the download isn't working, check to see if [Java](https://www.java.com/en/download) is installed.
@@ -71,7 +71,7 @@ If the download isn't working, check to see if [Java](https://www.java.com/en/do
 Since the program is a binary, you can open it with the Java Runtime Environment (JRE or Java SE JRE).
 If you'd rather use something else, the Windows operating system provides a built-in client that isn't present by default; TechNet (Microsoft) provides a [guide](https://technet.microsoft.com/en-us/library/cc771275) on enabling the feature.
 
-### Usage
+### Using the client
 After you have chose and installed a client, you must use the address and port `b.shadow.ga:26579` to connect.
 With the recommend client mentioned above, this information can be specified in the 'server' box—found on the bottom-left corner.
 > **Note:** Make sure to seperate the server address (subdomain) and port with a colon. If you forget this step, the client won't be able to properly form a connection.
