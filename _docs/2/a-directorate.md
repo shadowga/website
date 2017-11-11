@@ -3,9 +3,8 @@ layout: docs
 title: a. Directorate
 permalink: /docs/2/a-directorate/
 ---
-Having an effective and reliable staff team is important to us, and that's why we carefully manage our administrators.
-The admin rank isn't for everyone, but it's possible to become one if you're fit for the task.
-Some admins manage more than others depending on their ability, which is why we have multiple ranks to organise our staff.
+Having an effective and reliable team is imperative, and that's why we carefully manage our administrators.
+Some admins manage more than others depending on their ability; a ranking system is used for institution.
 
 ## Hierarchy
 Having a hierarchy of ranks is a great way of classifying our community, although the two should not be confused as they carry important differences.
