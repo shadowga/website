@@ -14,7 +14,7 @@ Knowing our various ranks allows members to identify and communicate with admini
 Super Admins are the basic administrators. They are given banning and smiting abilities, and full access to grief logging plugins. Super Admins are allowed to use some commands that are blocked for operators such as `/tpo` and `/say`.
 
 ### Telnet Admins
-Telnet Admins are given the same commands as Super Admins except they can use [telnet](https://shadow.ga/docs/3/d-resources/#telnet-server). Our telnet server allows members with the rank to administrate even when they are not on Minecraft. This is useful for on-the-go devices such as phones, which have apps supporting telnet.
+Telnet Admins are given the same commands as Super Admins except they can use [telnet](https://shadow.ga/docs/2/c-resources/#telnet-server). Our telnet server allows members with the rank to administrate even when they are not on Minecraft. This is useful for on-the-go devices such as phones, which have apps supporting telnet.
 
 ### Senior Admins
 Senior Admins have all the abilities as the above ranks. They're also given extra commands that are blocked to lower ranks; like `/time` and `/weather`. The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
