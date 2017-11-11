@@ -39,7 +39,7 @@ If the above sounds like you, make sure to let us know.
 Maybe that description reminds you of someone else?
 If so, you can directly message an admin to recommend them.
 
-### Selection
+### Selecting members
 If you're already an administrator; you can select a member for the position.
 Selected members are expected to stand out from everyone else and meet all of the above requirements.
 By selecting a member, you agree that they represent a model candidate in your eyes and bring a higher-ranked admin's attention to the member.
@@ -50,7 +50,7 @@ We have a few requirements for selection:
 * The member must have a forum account with two-factor auth enabled.
 * The member must have a Discord account connected to our guild, also with two-factor auth enabled.
 
-### Selecting a member
+### Commencing selection
 To choose a member, they must agree to become an admin and vow to fulfill all tasks expected of them.
 Once you have chosen someone you want to select, you can directly message an Executive or higher and they will the make decision to appoint them or not.
 
@@ -58,13 +58,13 @@ Once you have chosen someone you want to select, you can directly message an Exe
 As mentioned earlier, we organise our staff so members can go to the right person for help.
 Depending on what someone wants to administrate or how they perform, they can be promoted or demoted.
 
-### Promotion
+### Promoting an admin
 When admins further improve themselves, the owner can issue a promotion to them which will up their position in the administrator hierarchy.
 
 This usually occurs when a higher-ranking admin resigns or is placed inactive, opening the opportunity for a promotion.
 When we need to promote someone, we usually look for three things; experience, helpfulness, and activity.
 
-### Demotion
+### Demoting an admin
 Promotions can also work the other way around, as admins can be demoted back to a lower rank as a punishment or to better organise the team.
 
 Executives are capable of demoting or suspending administrators if they've broken the conduct policy, acted improperly, or failed to do their job.
