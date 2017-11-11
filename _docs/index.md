@@ -55,7 +55,7 @@ The forum we use is also powered by the [Flarum](http://flarum.org/) forum softw
 ### Making an account
 Getting started on the community is nice and simple, we don't ask for much information.
 You'll either need to give credentials or you can sign up through GitHub.
-Also consider enabling 2FA, check our security page [here](https://shadow.ga/docs/3/e-security/#activating-two-factor-login) for more on that.
+Also consider enabling 2FA, check our security page [here](https://shadow.ga/docs/2/d-security/#activating-two-factor-login) for more on that.
 If you'd like your account deleted, just let us know.
 
 ### Discussions
