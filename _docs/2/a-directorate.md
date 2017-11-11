@@ -20,7 +20,7 @@ Telnet Admins are given the same commands as Super Admins except they can use [t
 Senior Admins have all the abilities as the above ranks. They're also given extra commands that are blocked to lower ranks; like `/summon` and `/socialspy`. The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
 
 ### Executive Admins
-Executives are in charge of all lower positions; t have the ability to suspend disobedient or rogue administrators. They're also in charge of marketing the server to members when the owners are unable to. You probably won't even see these admins in-game that often because they also take care of platforms like the forum.
+Executives are in charge of all lower positions; they have the ability to suspend administrators and market the service. You probably won't see these admins in-game as often because they also take care of platforms like the forum.
 
 ## Appointment
 We always keep an eye out for potential administrators as the server grows.
