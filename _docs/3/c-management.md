@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 3c. Build management
-permalink: /docs/3/c-buildmanage/
+title: 3c. Management
+permalink: /docs/3/c-management/
 ---
 As an admin, you are given powerful tools to manage block placements, deletions, and WorldEdit selections.
 Learning to master these tools is important when rolling back grief and restoring a member's builds.
@@ -163,7 +163,7 @@ Admins should only use this command in emergencies as it can cause a major chang
 ### Toggling Async
 Async (AWE) is enabled by default but this command can disable or re-enable the feature.
 With Async disabled, edits will be performed without lag prevention.
-> **Note:** This command is not recommended without given permission of an Executive or higher. It can potentially result in selections (in progress) becoming unresponsive or abnormally slow. In some cases, edits in progress may stop working entirely.
+> **Note:** This command is not recommended without given permission of an Executive or higher. It can potentially result in selections becoming unresponsive or abnormally slow.
 
  * `/awe toggle` - Disables or enables the AsyncWorldEdit service.
  
