@@ -6,9 +6,9 @@
   - 1/d-contributing
   - 1/e-support
 
-- title: 3. Authority
+- title: Administrators
   docs:
-  - 3/a-admins
-  - 3/c-buildmanage
-  - 3/d-resources
-  - 3/e-security
+  - 3/a-directorate
+  - 3/b-management
+  - 3/c-resources
+  - 3/d-security
