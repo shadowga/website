@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 3c. Management
-permalink: /docs/3/c-management/
+title: 3b. Management
+permalink: /docs/3/b-management/
 ---
 As an admin, you are given powerful tools to manage block placements, deletions, and WorldEdit selections.
 Learning to master these tools is important when rolling back grief and restoring a member's builds.
