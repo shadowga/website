@@ -33,7 +33,8 @@ It's important to provide as much information as possible when you're reporting 
 ### Browser support
 Pages and discussions are loaded on several different platforms so we need to provide support for several browsers.
 We recommend [Chrome](https://www.google.com/chrome/browser) but you can also use Firefox or Opera.
-> **Note:** Older versions of Chrome and some other browsers may not support the protocols used by our services. To ensure compliance, we recommend using the latest version of your browser.
+
+> **Note:** Older versions of Chrome and some other browsers may not support the [protocols](https://shadow.ga/docs/2/d-security/#web-encryption) used by our services. To ensure compliance, we recommend using the latest version of your browser.
 
 It's up to you, but keep in mind that we don't provide support for Microsoft Edge or Internet Explorer.
 When it comes to ad-blocking, it's completely optional since we never use advertisements.
