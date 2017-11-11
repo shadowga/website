@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: d. Security
-permalink: /docs/3/d-security/
+permalink: /docs/2/d-security/
 ---
 As an administrator and member of this server, guarding your information is vital to prevent weak points in our community.
 Because the security of your accounts is your responsibility, we recommend both normal members and admins to take this seriously.
