@@ -57,7 +57,7 @@ A link with this error code could easily have content in the future.
 If the link previously contained content, it has likely either been deleted or moved to another link.
 
 * Check for typographical or formatting errors in the link you used.
-* If the link was from a bookmark or you were redirected there, the content could've been modified.
+* If the link was from a bookmark or redirection; the content could've been modified or moved.
 * Ensure that your link contains a proper extension at the end if needed.
 
 #### html-se-500
