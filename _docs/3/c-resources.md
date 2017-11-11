@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: 3d. Resources
-permalink: /docs/3/d-resources/
+title: c. Resources
+permalink: /docs/3/c-resources/
 ---
 Our server has different tools and resources that can be used to make tasks easier.
 If a service hasn't been mentioned anywhere else in the documentation; it's listed here for quick reference.
