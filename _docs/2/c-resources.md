@@ -122,7 +122,7 @@ They're capable of creating and removing sets of stationary particles.
    This command relies on coordinates to determine the location you'd like.
    <br>
    If you'd like the set created at your present location, use `~` to replace `<x>`, `<y>`, and `<z>`.
- * `/pp fixed remove <id>` - Removes an identification of stationary particles.
+ * `/pp fixed remove <id>` - Removes a set of stationary particles by identification.
    <br>
    You can only remove sets of particles created under your username.
 
