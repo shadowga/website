@@ -125,3 +125,21 @@ They're capable of creating and removing sets of stationary particles.
  * `/pp fixed remove <id>` - Removes an identification of stationary particles.
    <br>
    You can only remove sets of particles created under your username.
+
+### Chimney particles
+Senior Admins and higher can apply chimney particles to builds.
+They're stationary and operate vertically, making them more suitable for fireplaces and different arrays.
+
+ * `/chimney <tgt | std>` - Creates a chimney particle array.
+   <br>
+   The `tgt` option will create an array where you're aiming; `std` will create an array where you're standing.
+
+### Other commands
+A few other niche plugins can provide cosmetic effects.
+Cosmetic features with narrow functionality are listed here.
+
+ * `/firework <user>` - Ignites a firework at the specified member's location.
+ * `/spawncorpse [user]` - Spawns a corpse at your location, your skin by default; if specified, can be the skin of another member.
+ 
+Don't spawn too many corpses because they won't disppear soon.
+If a member is killed or dies for some other reason, their corpse will automatically spawn at that point.
