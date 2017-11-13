@@ -93,4 +93,33 @@ They're also great for customisation.
 
  * `/pp effects` - Provides a list of effects (or particle styles) you can use on the following command.
  * `/pp effect <effect>` - Applies an effect, dynamically bound to your position.
- * `/p
+
+Styles are different presentation methods that can change how your particles warp or appear.
+You'll need an effect before applying a style.
+
+ * `/pp styles` - Provides a list of styles you can use on the following command.
+ * `/pp style <style>` - Applies a style, accompanying the effect chosen earlier.
+ 
+### Stationary particles
+Particles that are stationary (or fixed) will be embedded to a set of coordinates, rather than a member.
+These particles are great for buildings and functionally-appearing interiors.
+
+ * `/pp fixed` - Provides information on the usage of stationary particles.
+
+Identifications are used by the plugin for specifying a certain set of stationary particles.
+They are presented in numbers.
+
+ * `/pp fixed list` - Provides a list of existing sets with their identifications.
+ * `/pp fixed info <id>` - Provides information on a specific set of particles.
+
+The following commands are self-explanatory.
+They're capable of creating and removing sets of stationary particles.
+
+ * `/pp fixed create <x> <y> <z> <effect> <style> [data]` - Creates a new identification (or set) of stationary particles.
+ <br>
+ This command relies on coordinates to determine the location you'd like.
+ <br>
+ If you'd like the set created at your present location, use `~` to replace `<x>`, `<y>`, and `<z>`.
+ * `/pp fixed remove <id>` - Removes an identification of stationary particles.
+ <br>
+ You can only remove sets of particles created under your username.
