@@ -116,10 +116,10 @@ The following commands are self-explanatory.
 They're capable of creating and removing sets of stationary particles.
 
  * `/pp fixed create <x> <y> <z> <effect> <style> [data]` - Creates a new identification (or set) of stationary particles.
- <br>
- This command relies on coordinates to determine the location you'd like.
- <br>
- If you'd like the set created at your present location, use `~` to replace `<x>`, `<y>`, and `<z>`.
+   <br>
+   This command relies on coordinates to determine the location you'd like.
+   <br>
+   If you'd like the set created at your present location, use `~` to replace `<x>`, `<y>`, and `<z>`.
  * `/pp fixed remove <id>` - Removes an identification of stationary particles.
- <br>
- You can only remove sets of particles created under your username.
+   <br>
+   You can only remove sets of particles created under your username.
