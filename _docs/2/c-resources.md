@@ -79,3 +79,18 @@ With the recommend client mentioned above, this information can be specified in 
 Keep in mind that the five-digit port can change over time, so check back with this page if it suddenly stops working.
 The steps described may be similar or different depending on what client you use.
 If you can't get another client to work, consult the software's publisher or developer.
+
+## Cosmetics
+Several cosmetic plugins are installed to provide features that accompany building, texture, and overall experience.
+Many of these tools can have an extensive amount of functions, so mastering them may take some time.
+ * `/pp help` - Provides help for functions related to particles. Use tab to fill in syntax.
+ * `/chimney` - Without arguments, provides help for functions related to chimney particles.
+
+### Embedded particles
+A given amount of particles can be embedded, meaning they'll adhere to the member applying them.
+These particles serve as an effect or aura to complement appearance.
+They're also great for customisation.
+
+ * `/pp effects` - Provides a list of effects (or particle styles) you can use on the following command.
+ * `/pp effect <effect>` - Applies an effect, dynamically bound to your position.
+ * `/p
