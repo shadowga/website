@@ -104,7 +104,7 @@ You'll need an effect before applying a style.
 Particles that are stationary (or fixed) will be embedded to a set of coordinates, rather than a member.
 These particles are great for buildings and functionally-appearing interiors.
 
-> **Note:** The modification of these particles is currently restricted to Senior Admins and higher. This is to prevent lag and secure the feature.
+> **Note:** The modification of these particles is currently restricted to Senior Admins and higher. This is to present server lag, possible client lag, and secure the feature from unwanted usage.
 
  * `/pp fixed` - Provides information on the usage of stationary particles.
 
