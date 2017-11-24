@@ -41,7 +41,7 @@ If we lose any data, backups of the server and website are handled by the server
 
 We periodicially update our archive [repository](https://git.io/v7PUB).
 Anyone can download public archives and they currently include our schematics and in-game worlds.
-If the repository gets too big, older releases may be deleted.
+If the repository gets too big, older releases may be deleted but we'll keep private copies of them.
 
 ## Telnet server
 Telnet Admins and higher can use the server's command-line interface for administrating without direct access to the game.
