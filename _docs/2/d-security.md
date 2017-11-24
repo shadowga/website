@@ -42,7 +42,7 @@ Security questions aren't ideal so we don't use them, but services like Mojang d
 Having security questions enabled is better than nothing, so we highly recommend it for Minecraft.
 
 Usually, you'll be asked personal questions—this is so others can't guess them.
-Refrain from using a short string of numbers (commonly '1234') or one-word terms (as mentioned above, like the name of a city).
+Refrain from using a short string of numbers (commonly '1234') or one-word terms (like the name of a city).
 
 ## Website and forum
 Depending on your authorization level, your forum account may contain access to admin-only information or important settings.
