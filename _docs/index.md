@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: a. Introduction
-permalink: /docs
+permalink: /docs/
 ---
 We're a modern creative server for Minecraft. We give members every command they need to powerfully build and enjoy our server without meeting any requirements.
 
