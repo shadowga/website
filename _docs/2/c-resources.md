@@ -68,22 +68,22 @@ If you can't get another client to work, consult the software's publisher or dev
 Several cosmetic plugins are installed to provide features that accompany building, texture, and overall experience.
 Many of these tools can have an extensive amount of functions, so mastering them may take some time.
 
- * `/pp help` - Provides help for functions related to particles. Use tab to fill in syntax.
- * `/chimney` - Without arguments, provides help for functions related to chimney particles.
+* `/pp help` - Provides help for functions related to particles. Use tab to fill in syntax.
+* `/chimney` - Without arguments, provides help for functions related to chimney particles.
 
 ### Embedded particles
 A given amount of particles can be embedded, meaning they'll adhere to the member applying them.
 These particles serve as an effect or aura; they're also great for customisation.
 
- * `/pp effects` - Provides a list of effects (or particle styles) you can use on the following command.
- * `/pp styles` - Provides a list of styles you can use on the following command.
+* `/pp effects` - Provides a list of effects (or particle styles) you can use on the following command.
+* `/pp styles` - Provides a list of styles you can use on the following command.
  
 #### Command usage
 Once you have viewed a list, pick an effect or style you'd like to apply.
 Styles can only be applied after you've chosen an effect.
 
- * `/pp effect <effect>` - Applies an effect, dynamically bound to your position.
- * `/pp style <style>` - Applies a style, accompanying the effect chosen earlier.
+* `/pp effect <effect>` - Applies an effect, dynamically bound to your position.
+* `/pp style <style>` - Applies a style, accompanying the effect chosen earlier.
  
 ### Stationary particles
 Particles that are stationary (or fixed) will be embedded to a set of coordinates, rather than a member.
@@ -91,24 +91,24 @@ These particles are great for buildings and functionally-appearing interiors.
 
 > **Note:** The modification of these particles is currently restricted to Senior Admins and higher. This is to prevent server lag, possible client lag, and secure the feature from unwanted usage.
 
- * `/pp fixed` - Provides information on the usage of stationary particles.
+* `/pp fixed` - Provides information on the usage of stationary particles.
 
 #### Command usage
 Identifications are used by the plugin for specifying a certain set of stationary particles.
 They are presented in numbers.
 
- * `/pp fixed list` - Provides a list of existing sets with their identifications.
- * `/pp fixed info <id>` - Provides information on a specific set of particles.
+* `/pp fixed list` - Provides a list of existing sets with their identifications.
+* `/pp fixed info <id>` - Provides information on a specific set of particles.
 
 The following commands are self-explanatory.
 They're capable of creating and removing sets of stationary particles.
 
- * `/pp fixed create <x> <y> <z> <effect> <style> [data]` - Creates a new identification (or set) of stationary particles.
+* `/pp fixed create <x> <y> <z> <effect> <style> [data]` - Creates a new identification (or set) of stationary particles.
    <br>
    This command relies on coordinates to determine the location you'd like.
    <br>
    If you'd like the set created at your present location, use `~` to replace `<x>`, `<y>`, and `<z>`.
- * `/pp fixed remove <id>` - Removes a set of stationary particles by identification.
+* `/pp fixed remove <id>` - Removes a set of stationary particles by identification.
    <br>
    You can only remove sets of particles created under your username.
 
@@ -116,7 +116,7 @@ They're capable of creating and removing sets of stationary particles.
 Senior Admins and higher can apply chimney particles to builds.
 They're stationary and operate vertically, making them more suitable for fireplaces and different arrays.
 
- * `/chimney <tgt | std>` - Creates a chimney particle array.
+* `/chimney <tgt | std>` - Creates a chimney particle array.
    <br>
    The `tgt` option will create an array where you're aiming; `std` will create an array where you're standing.
 
@@ -124,8 +124,8 @@ They're stationary and operate vertically, making them more suitable for firepla
 A few other niche plugins can provide cosmetic effects.
 Cosmetic features with narrow functionality are listed here.
 
- * `/firework <user>` - Ignites a firework at the specified member's location.
- * `/spawncorpse [user]` - Spawns a corpse at your location, your skin by default; if specified, can be the skin of another member.
+* `/firework <user>` - Ignites a firework at the specified member's location.
+* `/spawncorpse [user]` - Spawns a corpse at your location, your skin by default; if specified, can be the skin of another member.
  
 Don't spawn too many corpses because they won't disppear soon.
 If a member is killed or dies for some other reason, their corpse will automatically spawn at that point.
