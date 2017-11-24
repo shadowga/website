@@ -83,21 +83,22 @@ If you can't get another client to work, consult the software's publisher or dev
 ## Cosmetics
 Several cosmetic plugins are installed to provide features that accompany building, texture, and overall experience.
 Many of these tools can have an extensive amount of functions, so mastering them may take some time.
+
  * `/pp help` - Provides help for functions related to particles. Use tab to fill in syntax.
  * `/chimney` - Without arguments, provides help for functions related to chimney particles.
 
 ### Embedded particles
 A given amount of particles can be embedded, meaning they'll adhere to the member applying them.
-These particles serve as an effect or aura to complement appearance.
-They're also great for customisation.
+These particles serve as an effect or aura; they're also great for customisation.
 
  * `/pp effects` - Provides a list of effects (or particle styles) you can use on the following command.
- * `/pp effect <effect>` - Applies an effect, dynamically bound to your position.
-
-Styles are different presentation methods that can change how your particles warp or appear.
-You'll need an effect before applying a style.
-
  * `/pp styles` - Provides a list of styles you can use on the following command.
+ 
+#### Command usage
+Once you have viewed a list, pick an effect or style you'd like to apply.
+Styles can only be applied after you've chosen an effect.
+
+ * `/pp effect <effect>` - Applies an effect, dynamically bound to your position.
  * `/pp style <style>` - Applies a style, accompanying the effect chosen earlier.
  
 ### Stationary particles
@@ -108,6 +109,7 @@ These particles are great for buildings and functionally-appearing interiors.
 
  * `/pp fixed` - Provides information on the usage of stationary particles.
 
+#### Command usage
 Identifications are used by the plugin for specifying a certain set of stationary particles.
 They are presented in numbers.
 
