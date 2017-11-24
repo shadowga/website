@@ -47,22 +47,32 @@ If the repository gets too big, older releases may be deleted but we'll keep pri
 Telnet Admins and higher can use the server's command-line interface for administrating without direct access to the game.
 Upon logging in through the telnet service, admins can send commands and view server statistics through a client.
 
-### Finding a client
+### Client usage
 Admins have a wide array of clients to use for the service.
-We recommend our self-maintained client made for our server, which you can download [here](https://git.io/v7kJw).
-If the download isn't working, check to see if [Java](https://www.java.com/en/download) is installed.
-
-Since the program is a binary, you can open it with the Java Runtime Environment (JRE or Java SE JRE).
-If you'd rather use something else, Windows provides a built-in client that you can enable; TechNet (Microsoft) provides a [guide](https://technet.microsoft.com/en-us/library/cc771275) on installing this feature.
-
-### Using the client
-After you have chose and installed a client, you must use the address and port `b.shadow.ga:26579` to connect.
-With the recommend client mentioned above, this information can be specified in the 'server' box—found on the bottom-left corner.
+We recommend our self-maintained [Java](https://www.java.com/en/download)-based client made for our server, which you can download [here](https://git.io/v7kJw).
+If you'd rather use something else, Windows has a built-in client you can [enable](https://technet.microsoft.com/en-us/library/cc771275).
 
 > **Note:** Make sure to seperate the server address (subdomain) and port with a colon. If you forget this step, the client won't be able to properly form a connection.
 
+After you have chose and installed a client, you must use the address and port `b.shadow.ga:26579` to connect.
 Keep in mind that the five-digit port can change over time, so check back with this page if it suddenly stops working.
 If you can't get another client to work, consult the software's publisher or developer.
+
+### Telnet commands
+The telnet server provides some built-in commands that can manage the server and your connection.
+These commands can only be used through telnet; they won't work in-game.
+
+> **Note:** Some actions capable with this resource can result in server downtime. Work with this feature carefully and avoid syntax mistakes.
+
+* `telnet.help` - Provides a list of management commands and their functions.
+
+#### Command usage
+Here's a developed list of telnet commands you can use.
+They shouldn't be prefixed with a slash (`/`) like conventional in-game commands.
+
+* `telnet.stop` - Shuts down the server; this doesn't restart.
+* `telnet.log` - Toggles between three filters - all logs, only chat logs, and only non-chat logs.
+* `telnet.exit` - Terminates your connection to the telnet server.
 
 ## Cosmetics
 Several cosmetic plugins are installed to provide features that accompany building, texture, and overall experience.
