@@ -22,41 +22,25 @@ Here's a list of trailing slashes you can use:
  - `/help` - Views a plain text list of every server command, proper usage, and description.
  - `/list` - Similar to the above directory, views an updated list of the server's online members.
  
-### Downloading schematics
+### Schematic transfer
 Using the schematic list (or [downloader](http://b.shadow.ga:27579/schematic/list)), anyone can download a file by clicking on its name.
 Only files with a `.schematic` extension can be downloaded and they're sorted alphabetically onto a dynamic list.
 New entries to the list can be uploaded with a page refresh.
 
-Don't download other's entries without their permission and respect their privacy—don't distribute files.
-Schematics with a filename or content violating our guidelines will be deleted.
+> **Note:** Don't download the schematics of other people without their permission. Administrators must be added in-game for some transfer features to work properly.
 
-### Uploading schematics
-The schematic [uploader](http://b.shadow.ga:27579/schematic/list) can only be used by networks added in-game as an admin, meaning only administrators can use this feature.
-When using this interface, the 'choose file' option allows you to pick a file from your computer and upload it.
+The schematic [uploader](http://b.shadow.ga:27579/schematic/list) can only be used by administrators.
+This interface allows you to directly upload a file from your computer.
+Files with a size above sixty-four kilobytes will not upload; abuse of this feature is prohibited.
 
-Files with a size above sixty-four kilobytes will not upload and inappropriate names aren't allowed.
-Administrators who abuse this feature are subject to removal or suspension.
-
-## Archives and backups
+### Archives and backups
 Preventing data loss is very important, so we take several measures to prevent that from happening.
-If we lose any data, backups of the server and website are kept through both public and private means.
-Members can even download parts of the server if something is lost.
+If we lose any data, backups of the server and website are handled by the server owner.
+[DigitalOcean](https://m.do.co/c/7438217b1bcd) handles our forum and other VPS-related backups.
 
-### Downloading archives
-We periodically archive some contents to a GitHub repository [here](https://git.io/v7PUB).
-From there, anyone can download archives from latest to oldest.
-Right now we only allow public backups of our schematics and in-game worlds.
-If the repository gets too big, older releases may be deleted to free up space.
-
-### Server backups
-The entire server is often backed up to private storage.
-While we don't allow downloads of our entire server, you can request a specific file from us.
-Private backups are handled by the server owner and requests are fulfilled at their discretion.
-
-### Website backups
-Our homepage and documentation are handled through a public repository.
-Forum backups are handled by DigitalOcean and we keep them private.
-If we experience problems with the forum, we can restore to a number of snapshots.
+We periodicially update our archive [repository](https://git.io/v7PUB).
+Anyone can download public archives and they currently include our schematics and in-game worlds.
+If the repository gets too big, older releases may be deleted.
 
 ## Telnet server
 Telnet Admins and higher can use the server's command-line interface for administrating without direct access to the game.
