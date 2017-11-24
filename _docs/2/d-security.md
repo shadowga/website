@@ -61,14 +61,15 @@ We recommend [ProtonMail](https://protonmail.com/) for secure e-mail.
 You can use the same tools mentioned earlier in this page for forum security when it's needed.
 
 When selecting a username, don't use your real name or revealing information such as a birth date.
-Because everyone can view your forum handle and username, make it something you'd feel comfortable with.
+Anyone can view your forum handle and username so make it something you're comfortable with.
 
 ### Watching your back
-Making a forum account is rather easy, but you still shouldn't give out information like your private e-mail or banking information.
+Account creation is easy, but you still shouldn't give out information like your private e-mail or banking information.
 We won't ever ask for personal information in any way, whether that be through mail or text.
 
-If you ever receive a suspicious message bearing our name, [contact us](https://shadow.ga/docs/1/e-support/#direct-support) and we'll take appropriate action from there.
-Keep in mind that we only use the `mg.shadow.ga` subdomain for e-mails, so any other address is fake.
+Hiding your location with an alternative IP (address) is also easy; we recommend [TunnelBear](https://www.tunnelbear.com/) as an easy virtual private server that's entirely supported by us.
+
+> **Note:** Keep in mind that we only use the `mg.shadow.ga` subdomain for e-mails—anything else is fake. If you receive a suspicious message bearing our name, [contact us](https://shadow.ga/docs/1/e-support/#direct-support) and we'll deal with it.
 
 ## Discord account
 Everything said above also applies to the guild and your Discord account.
