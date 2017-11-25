@@ -14,13 +14,17 @@ If you are caught violating the guidelines, an administrator can take the action
 This potion of our rules focuses on in-game conduct and gameplay etiquette.
 These guidelines reflect the optimal behaviour practiced by example members.
 
- * **Don't harm the server.** Refrain from deliberately lagging or crashing the server. While we have plugins to prevent downtime, massive edits should only be performed with the permission of an administrator. Exploting said plugins is forbidden.
+ * **Don't harm the server.** Refrain from deliberately lagging or crashing the server. While we have plugins to prevent downtime, massive edits should only be performed with the permission of an administrator. Exploiting said plugins is forbidden.
 
-   Don't deliberately lag, crash, or corrupt the world in any way. We have plugins to prevent downtime, but only perform massive edits with the permission of an administrator. Don't attempt to weaken the server's response time with lag machines; and don't corrupt the game by using exploits such as chests and other various blocks. Flooding the chat with messages using text, commands, or hacks isn't allowed; the same goes for bot accounts, fake members that join the server to spam us. Advertising isn't allowed in the main chat.
+   Lag machines will be removed and don't corrupt the game by using exploits such as chests and other various blocks. Flooding the chat with messages using text, commands, or hacks isn't allowed; spambots will be banned. Advertising isn't allowed in the main chat.
 
-- **Don't harm others.** Respect the wishes of other people by giving them privacy. If you think you're annoying someone, it's best to stay away from them and respect their intent. Destroying the builds of others, called griefing, isn't allowed. Administrators are capable of rolling back any grief using a block logging tool. Don't 'troll' others or use derogatory remarks; such as comments that are potentially sexist, racist, homophobic, or directed to offend someone. Don't use hacks or exploits that can annoy others, such as potions or mobs.
+- **Don't harm others.** Respect the wishes of other people and their privacy without circumstance. If you think you're annoying someone, it's best to stay away from them and respect their intent. Destroying the builds of others, called griefing, isn't allowed.
 
-- **Don't be malicious.** Hacked clients are allowed, but only if they don't harm the server or other players. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to malicious, pornographic, or hateful content in chat. Committing rogue activity as an administrator (such as abuse or intently violating the guidelines) will result in a suspension. Don't modify the inventory of others or their `tptoggle` without consent from that member. Attempting to frame people with false reports (including administrators) is forbidden and administrator reports should be made through the website.
+   Administrators are capable of rolling back any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intented to offend. Don't use hacks or exploits that can annoy others, such as potions or mobs.
+
+- **Don't be malicious.** Hacked clients are allowed, but they can't be harmful. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to malicious, pornographic, or hateful content in chat; and don't solicit illegality.
+
+   Committing rogue activity as an administrator (such as abuse or intently violating the guidelines) will result in a suspension. Don't modify the inventory of others or their `tptoggle` without consent from that member. Attempting to frame people is forbidden.
 
 - **Don't plagiarise.** The act of invading other's builds or using someone else's schematics without permission from the original creator is forbidden. Taking credit for the builds of others isn't allowed unless the responsible architect gives you credit. Although you can download any schematic from the server, respect the wishes of others by not uploading their content to other sites.
 
