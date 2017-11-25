@@ -10,7 +10,7 @@ It's important for everyone to know our administration's guidelines for proper g
 Guidelines give the community a direct and consistent set of rules.
 If you are caught violating the guidelines, an administrator can take the action they deem necessary—such as banning your account.
 
-### Server guidelines
+### General policy
 This potion of our rules focuses on in-game conduct and gameplay etiquette.
 These guidelines reflect the optimal behaviour practiced by example members.
 
@@ -28,24 +28,27 @@ These guidelines reflect the optimal behaviour practiced by example members.
 
 - **Comply with staff.** You shouldn't try logging in with an alternate account when banned. Evading your ban by using a proxy or virtual private network isn't allowed and can result in a suspension. Don't attempt to undermine administrators.
 
-Offensive tags or nicknames will be removed. Threatening harm to yourself or other members will result in an immediate suspension. If an administrator doesn't like what they see, they're entitled to punish for something that isn't directly mentioned here; use common sense.
+   Offensive tags or nicknames will be removed. Threatening harm to yourself or other members will result in an immediate suspension. If an administrator doesn't like what they see, they're entitled to punish for something that isn't directly mentioned here; use common sense.
  
-### Forum guidelines
-We also prefer to maintain the freedom of speech on our forum.
-That being said, regulations are necessary to keep discussions in order.
+### Specific policy
+We also prefer to maintain the freedom of speech on our forum, but regulation is necessary.
 These guidelines also apply to the guild and other resources.
 
-- **Be respectful.** If another member seems to be irritated by your actions, leave them alone. Don't post inappropriate or potentially offensive content on the forum. Any discussion made for the purpose of ranting on others will be deleted. Members should only argue or debate in discussions made for that purpose. Like our server guidelines, trolling is frowned upon and shouldn't take place here.
+- **Be respectful.** If someone is irritated, you're permitted to block other members; but don't block administrators. Inappropriate or offensive content on our forum and guild will be deleted and may result in a ban.
 
-- **Don't spam or power-post.** Power-posting is usually defined as posting nonsensical messages or over-posting the same thing for no reason. Try not to make whole new posts simply for the sake of adding on to something you posted earlier. Instead, use the edit feature to make corrections when you can and don't make posts for short responses (people usually make a post to say 'yeah' or agree with somebody). If you are going to make a post, compliment it with a good, meaningful sentence that is easy to understand and worth somebody's time reading.
+   Discussions made for the purpose of ranting will be removed. Members should only dispute in categories intended for formal debate. Being an annoyance on any of our platforms is unacceptable and therefore equals termination.
 
-- **Don't make discussions with the wrong tag.** Flarum uses a tag system so members know which posts are about what. This allows somebody with specific knowledge to answer posts quickly and filter out what they don't want to read. Always make sure the tags you add to your discussion are relevant. Don't add irrelevant tags to attract people's attention or your post may be removed.
+- **Community etiquette.** Power-posting is usually defined as posting nonsensical messages or over-posting the same thing for no reason; don't do this. Instead, use the edit feature to make corrections when you can and don't make posts for short responses.
 
-- **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on. Don't start spam discussions or posts, content simply made for the sake of spamming, also known as 'shit-posting'. Only create discussions with a unique topic and always make sure somebody hasn't already discussed what you are posting. Posts like these will be deleted.
+   If you are going to make a post, compliment it with a good, meaningful sentence that is easy to understand and worth somebody's time reading. Always make sure the tags you add to your discussion are relevant; irrelevant tags will be removed.
 
-- **Adhere to the law.** Don't post anything against copyright law on the forum. We are based in the United States, so we follow U.S. law. Your post will be removed if it violates copyright and (if needed) you will be reported to the proper authorities. Plagiarism isn't tolerated here; don't copy posts or work from somewhere else without the original author's permission.
+- **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has tags.
 
-- **Control your account.** The account you create and keep secure is your responsibility. Don't let others have access to your account information, and if that happens you should have your password changed immediately. If an alternate account acts up, your main account will also be sanctioned. Members should notify an Executive or higher before making another account if they intend to do so. It's your responsibility to take care of your account; that means having a secure username, password, and e-mail address. Check out the security page for more info.
+   Only create discussions with a unique topic and always make sure somebody hasn't already discussed what you are posting. Don't use misleading information to catch the attention of our members. Advertising anywhere is prohibited.
+
+- **Control your account.** The account you create and keep secure is your responsibility. Don't let others have access to your account; change your password regularly and practice high [security](https://shadow.ga/docs/2/d-security/). If an alternate account acts up, your main account will also be sanctioned. 
+
+   Members should notify an Executive or higher before making another account if they intend to do so. Anything that violates the United States law may be relayed to the appropriate authorities; we are based in the U.S. and work within its laws.
 
 ### Our practices
 Here's what we do to ensure the best for our community.
