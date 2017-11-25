@@ -24,13 +24,11 @@ These guidelines reflect the optimal behaviour practiced by example members.
 
 - **Don't be malicious.** Hacked clients are allowed, but they can't be harmful. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to malicious, pornographic, or hateful content in chat; and don't solicit illegality.
 
-   Committing rogue activity as an administrator (such as abuse or intently violating the guidelines) will result in a suspension. Don't modify the inventory of others or their `tptoggle` without consent from that member. Attempting to frame people is forbidden.
+   Committing rogue activity as an administrator (such as abuse or intently violating the guidelines) will result in a suspension. Don't modify the inventory of others or their `tptoggle` without consent from that member. Attempting to frame people is forbidden. No plagiarism.
 
-- **Don't plagiarise.** The act of invading other's builds or using someone else's schematics without permission from the original creator is forbidden. Taking credit for the builds of others isn't allowed unless the responsible architect gives you credit. Although you can download any schematic from the server, respect the wishes of others by not uploading their content to other sites.
+- **Comply with staff.** You shouldn't try logging in with an alternate account when banned. Evading your ban by using a proxy or virtual private network isn't allowed and can result in a suspension. Don't attempt to undermine administrators.
 
-- **Comply with staff.** You shouldn't try logging in with an alternate account when banned. Evading your ban by using a proxy or virtual private network isn't allowed and can result in a suspension. Don't attempt to undermine administrators by ignoring or blocking them. Don't use other services such as Dynmap to appeal your ban. Instead, you can appeal through the website.
-
-- **Use common sense.** Don't use offensive tags or nicknames designed to offend. Threatening harm to yourself or other members, including suicide-related threads, will result in an immediate suspension. If an administrator doesn't like what they see, they're entitled to punish for something that isn't directly mentioned in our guidelines. Always use common sense.
+Offensive tags or nicknames will be removed. Threatening harm to yourself or other members will result in an immediate suspension. If an administrator doesn't like what they see, they're entitled to punish for something that isn't directly mentioned here; use common sense.
  
 ### Forum guidelines
 We also prefer to maintain the freedom of speech on our forum.
