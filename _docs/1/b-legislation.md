@@ -50,9 +50,33 @@ These guidelines also apply to the guild and other resources.
 
    Members should notify an Executive or higher before making another account if they intend to do so. Anything that violates the United States law may be relayed to the appropriate authorities; we are based in the U.S. and work within its laws.
 
-Keep on reading for more information on reporting those who break our policy.
 If you see anything with our name that's violating the posted guidelines or practices, it isn't us.
 You can find out more about this matter [here](https://shadow.ga/docs/2/d-security/#watching-your-back).
+
+## Reporting
+Other members that have visibly broken the guidelines can be reported.
+There are different ways to report a member; one may be quicker for you than the other.
+
+### In-game reports
+Reporting a member in-game is very simple and requires no additional information than the name of who you're reporting; but you should still be careful with the tool and know what you're doing before filing a report.
+
+ * `/help` - Provides a quick link to the guidelines (this page); helpful for new members.
+ * `/report` - Reports a specified user and relays the message to administrators.
+ 
+#### Command usage
+
+> **Note:** You can't report administrators in-game or members that aren't online; you must know the username of who you're reporting. If this won't do, file an online report instead.
+
+ * `/report <user> <reason>` - Files a report. Specifying a username and reason are both required.
+
+### Online reports
+Online reports will ask the name of whoever's in question, what they did, and why you think they did it.
+Reporting helps administrators improve their activity and effectively handle the situation.
+
+> **Note:** If you're filing an admin report, please make note of it on the form. If you're reporting an Executive, please [directly contact](https://shadow.ga/docs/1/e-support/#direct-support) the server owner instead.
+
+You can file a report through the form [here](https://shadowga.typeform.com/to/On3kVf).
+It'll be read and we'll assign someone to deal with the problem; if nothing happens, [let us know](https://shadow.ga/docs/1/e-support/#direct-support).
 
 ## Suspension
 The status of being suspended can be given to any member that breaks the rules to a point where banning them is ineffective.
@@ -88,33 +112,3 @@ You can appeal a ban if at least one of the following are true:
 You may not appeal a temporary ban if you have been banned for the same reason over two times in a row.
 If your ban message does not state that the ban was temporary, you may be suspended. You cannot appeal a suspension.
 Use the form [here](https://shadowga.typeform.com/to/fE4jeV).
-
-## Reporting
-To call the attention of an administrator, you can use the `/report <player> <reason>` command.
-If there aren't any admins on or the in-game feature just isn't cutting it, you can still help out.
-We provide online reporting for when you need something more powerful.
-
-### Filing a report
-Online reports will ask the name of whoever's in question, what they did, and why you think they did it.
-Reporting helps administrators improve their activity and effectively handle the situation.
-Here's what we need for a good report:
-
-* The member or admin must be clearly violating our forum or server conduct policy.
-* Any offense the member made must be worthy of a report (remember, an administrator has to read it and deal with it themselves).
-* Reasoning behind the member's actions if possible and how it affects you.
-* A clear account of what happened.
-* Willingness to speak with an administrator to further explain yourself if needed.
-* Assurance that (in your mind) you think your report is accurate.
-
-You can file a report through the form [here](https://shadowga.typeform.com/to/On3kVf).
-It'll be read and we'll assign someone to deal with the problem.
-Responding to these reports may take a while but it's important that the issue is taken care of.
-If you've filed a report over three days ago and nothing's been done, let us know.
-
-### Reporting admins
-We also manage our admin team, so if an administrator has been abusing you can report them as well.
-Admin reports can be filed through the same form mentioned above, but make sure to note that you're filing an admin report.
-
-Submitted reports will be taken into the hands of our Executives to properly assess the issue.
-If you're reporting an Executive, please directly contact the server owner instead.
-Falsely reporting an admin is a punishable offense.
