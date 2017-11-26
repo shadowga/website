@@ -42,7 +42,7 @@ Here's each number and the world it corresponds to.
  * `1` - To the netherlands. Direct is `/nether`.
  * `2` - To the enderlands. Direct is `/ender`.
  * `3` - To the flatlands. Direct is `/flatlands` or `/spawn`.
- * `4` - To the adminworld. Only admins can do this. Direct is `/adminworld`.
+ * `4` - To the adminworld. Only admins can do this. Direct is `/adminworld` or `/aw`.
 
 ### Adminworld
 The adminworld is a private world that only Super Admins and above can go in.
