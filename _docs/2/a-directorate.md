@@ -26,13 +26,22 @@ Telnets and above can add members to administrator through any console; Seniors 
 Telnet Admins are given the same commands as Super Admins except they can use [telnet](https://shadow.ga/docs/2/c-resources/#telnet-server). Our telnet server allows members with the rank to administrate even when they are not on Minecraft.
 
 #### Appointing members
-When a member is officially listed for promotion, Seniors and above can set their rank through any console. Like general management, only do this if they're listed for it.
+When a member is officially listed for promotion, Seniors and above can set their rank through any console. Like general management, only do this if they're listed for it. They can also be appointed downwards.
 
  * `/saconfig setrank <user> telnet_admin` - Appoints an administrator to the Telnet Admin position.
+ * `/saconfig setrank <user> super_admin` - Appoints an administrator back to the Super Admin position.
  * `/saconfig reload` - Reloads the administrator registry, don't run this too often.
 
 ### Senior Admins
 Senior Admins have all the abilities as the above ranks. They're also given extra commands that are blocked to lower ranks; like `/summon` and `/socialspy`. The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
+
+#### Appointing members
+Telnets can be appointed to the Senior rank using the same method. Unless they were previously removed, we recommend that only Executives perform appointments intended to promote admins.
+
+> **Note:** You can add Super Admins directly to Senior; the command can skip a rank and perform the same operation. It also works vice-versa, as you can demote while skipping a rank.
+
+ * `/saconfig setrank <user> senior_admin` - Appoints an administrator to the Senior Admin position.
+ * `/saconfig setrank <user> <telnet_admin | super_admin>` - Appoints an administrator to the Telnet or Super position.
 
 ### Executive Admins
 Executives are in charge of all lower positions; they have the ability to suspend administrators and market the service. You probably won't see these admins in-game as often because they also take care of platforms like the forum.
