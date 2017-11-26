@@ -13,8 +13,23 @@ Knowing our various ranks allows members to identify and communicate with admini
 ### Super Admins
 Super Admins are the basic administrators. They are given banning and smiting abilities, and full access to grief logging plugins. Super Admins are allowed to use some commands that are blocked for operators such as `/tpo` and `/say`.
 
+#### Rank management
+Telnets and above can add members to administrator through any console; Seniors and above are capable of adding and removing administrators, but they should do it legally.
+
+> **Note:** Adding members that aren't listed on the admin [roster](https://f.shadow.ga/d/5-list-of-administrators-11-2017) is considered rogue activity. Administrators should learn this command before attempting to use it.
+
+ * `/saconfig add <user>` - Adds a member to administrator, default appointment is Super Admin. For Telnets and above.
+ * `/saconfig remove <user>` - Removes a member from administator. For Seniors and above.
+ 
+
 ### Telnet Admins
-Telnet Admins are given the same commands as Super Admins except they can use [telnet](https://shadow.ga/docs/2/c-resources/#telnet-server). Our telnet server allows members with the rank to administrate even when they are not on Minecraft. This is useful for on-the-go devices such as phones, which have apps supporting telnet.
+Telnet Admins are given the same commands as Super Admins except they can use [telnet](https://shadow.ga/docs/2/c-resources/#telnet-server). Our telnet server allows members with the rank to administrate even when they are not on Minecraft.
+
+#### Appointing members
+When a member is officially listed for promotion, Seniors and above can set their rank through any console. Like general management, only do this if they're listed for it.
+
+ * `/saconfig setrank <user> telnet_admin` - Appoints an administrator to the Telnet Admin position.
+ * `/saconfig reload` - Reloads the administrator registry, don't run this too often.
 
 ### Senior Admins
 Senior Admins have all the abilities as the above ranks. They're also given extra commands that are blocked to lower ranks; like `/summon` and `/socialspy`. The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
