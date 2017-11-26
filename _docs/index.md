@@ -110,11 +110,28 @@ Using a port isn't required but if you need one there's `25599`.
 We provide support for both newer and older clients, from `1.12.2` all the way back to `1.7.2`.
 Support for older client versions may change as the game updates.
 
-### Becoming an operator
-Members are referred to as 'operators' in-game.
-You be added to operator by one of our administrators.
-It doesn't take any qualifications or approval to become an operator.
-If you're punisished by an admin, your operator may be revoked and you'll need an admin to re-op you.
+### Economy
+With an economy, members are capable of making transactions for shop items and developing their own wealth.
+Money is presented in the form of coins and you can manage them.
+
+#### Using the shop
+To earn coins, you can [vote] for the server and complete in-game chat reactions.
+Once you build up enough coins, you can purchase from the shop; items like login messages and weapons.
+ 
+ * `/coins` - Displays your current wealth; coins attributed to your user.
+ * `/shop` - Opens up the shop. From here you can purchase items.
+ 
+#### Shop management
+Senior Admins and higher can manage the shop with an administrator tool.
+Shop management allows for economy modification and the addition of new coins.
+
+> **Note:** Only remove or 'set' coins with the permission of an Executive or higher. Giving out coins can potentially unbalance the server economy, resulting in inflation.
+
+ * `/manageshop coins add <amount> <user | all>` - Gives an amount of coins to a specific member or everyone.
+ * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins from a member or everyone.
+ * `/manageshop coins set <amount> <user | all>` - Sets a definite amount of coins for a member or everyone.
+ 
+The `all` function will only apply to members that are online; the `set` function will override pre-existing coins.
 
 ### Other information
 Now that you know the basics, it's time to learn everything.
