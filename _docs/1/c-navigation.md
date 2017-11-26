@@ -46,10 +46,11 @@ Here's each number and the world it corresponds to.
 
 ### Adminworld
 The adminworld is a private world that only Super Admins and above can go in.
-It is never wiped, and houses the adminworld village.
 On occasion, an admin can invite someone as a "guest", allowing them to join the adminworld for a small amount of time until the server restarts.
-When operators are not invited as guests, it is impossible for them to enter this world.
+When operators are not invited as guests, they can't enter.
+
  * `/adminworld` - Teleports an administrator to the adminworld.
+ * `/aw` - An alias of the previous command and serves the same function.
 
 ## Using Dynmap
 Dynmap, as abbreviated in the name, is a dynamic map generator.
