@@ -115,7 +115,7 @@ With an economy, members are capable of making transactions for shop items and d
 Money is presented in the form of coins and you can manage them.
 
 #### Using the shop
-To earn coins, you can [vote] (https://www.planetminecraft.com/server/shadowrealms---a-server-where-everyone-gets-op/) for the server and complete in-game chat reactions.
+To earn coins, you can [vote](https://www.planetminecraft.com/server/shadowrealms---a-server-where-everyone-gets-op/) for the server and complete in-game chat reactions.
 Once you build up enough coins, you can purchase from the shop; items like login messages and weapons.
  
  * `/coins` - Displays your current wealth; coins attributed to your user.
