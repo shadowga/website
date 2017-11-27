@@ -145,8 +145,8 @@ Spawning too many mobs can lag or crash the server; that can lead to a ban.
 With the proper arguments, you can customise the mobs spawned.
 Both natural and player-made sequences can be emulated with this feature.
 
- * `/smob <mob> [amount]` - Basic command; spawns a mob. Use `amount` to spawn a number of mobs.
- * `/smob <mob>;<mob> [amount]` - With a semicolon, allows you to spawn one mob on top of another.
+ * `/smob <mob> [amount]` - Basic command; spawns a mob. Use `amount` to spawn multiple mobs.
+ * `/smob <mob>;<mob> [amount]` - With a semicolon, allows you to spawn stacked mobs.
  * `/smob <mob> [amount] <coordinates>` - Allows you to spawn mobs at a set of coordinates.
 
 ### Other commands
