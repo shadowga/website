@@ -134,7 +134,7 @@ They're stationary and operate vertically, making them more suitable for firepla
 Anyone can spawn mobs in using a set of commands.
 Spawning too many mobs can lag or crash the server; that can lead to a ban.
 
->> **Note:** Mobs can only be removed from the console, so the only other way to get rid of a mob you've spawned is by killing it.
+> **Note:** Mobs can only be removed from the console, so the only other way to get rid of a mob you've spawned is by killing it.
 
  * `/smob` - With the correct arguments, spawns mobs.
  * `/sm` - An alias of the previous command and serves the same function.
