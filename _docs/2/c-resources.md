@@ -130,6 +130,25 @@ They're stationary and operate vertically, making them more suitable for firepla
    <br>
    The `tgt` option will create an array where you're aiming; `std` will create an array where you're standing.
 
+### Spawning mobs
+Anyone can spawn mobs in using a set of commands.
+Spawning too many mobs can lag or crash the server; that can lead to a ban.
+
+>> **Note:** Mobs can only be removed from the console, so the only other way to get rid of a mob you've spawned is by killing it.
+
+ * `/smob` - With the correct arguments, spawns mobs.
+ * `/sm` - An alias of the previous command and serves the same function.
+ * `/smob help` - Provides help for functions related to spawning mobs.
+ * `/smob list` - Provides a list of mobs you can spawn.
+
+#### Command usage
+With the proper arguments, you can customise the mobs spawned.
+Both natural and player-made sequences can be emulated with this feature.
+
+ * `/smob <mob> [amount]` - Basic command; spawns a mob. Use `amount` to spawn a number of mobs.
+ * `/smob <mob>;<mob> [amount]` - With a semicolon, allows you to spawn one mob on top of another.
+ * `/smob <mob> [amount] <coordinates>` - Allows you to spawn mobs at a set of coordinates.
+
 ### Other commands
 A few other niche plugins can provide cosmetic effects.
 Cosmetic features with narrow functionality are listed here.
