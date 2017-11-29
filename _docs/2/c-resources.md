@@ -153,6 +153,7 @@ Both natural and player-made sequences can be emulated with this feature.
 A few other niche plugins can provide cosmetic effects.
 Cosmetic features with narrow functionality are listed here.
 
+* `/chairs <on | off>` - Enables or disables client-side chairs; it's on by default.
 * `/firework <user>` - Ignites a firework at the specified member's location.
 * `/spawncorpse [user]` - Spawns a corpse at your location, your skin by default; if specified, can be the skin of another member.
  
