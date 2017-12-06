@@ -108,8 +108,8 @@ Shop management allows for economy modification and the addition of new coins.
 > **Note:** Only remove or 'set' coins with the permission of an Executive or higher. Giving out coins can potentially unbalance the server economy, resulting in inflation.
 
  * `/manageshop coins add <amount> <user | all>` - Gives an amount of coins to someone.
- * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins from someone.
- * `/manageshop coins set <amount> <user | all>` - Sets a definite amount of coins for someone.
+ * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins.
+ * `/manageshop coins set <amount> <user | all>` - Sets a definite amount of coins.
  
 The `all` function will only apply to members that are online; the `set` function will override pre-existing coins.
 
