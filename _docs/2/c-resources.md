@@ -149,6 +149,14 @@ Both natural and player-made sequences can be emulated with this feature.
  * `/smob <mob>;<mob> [amount]` - With a semicolon, allows you to spawn stacked mobs.
  * `/smob <mob> [amount] <coordinates>` - Allows you to spawn mobs at a set of coordinates.
 
+### Image maps
+This feature lets you put any image you'd like onto the map of your choice.
+From there, you can place the map in an item frame (for public display) or keep it a secret.
+
+> **Note:** If you'd like to draw an image onto a blank map, you must right-click it first (the map must be pre-loaded before you use `/drawimage`).
+
+ * `/drawimage [link]` - Draws an image onto the map in your hand. Source link must end in an image extension (`.png`, `.jpg`, etc).
+
 ### Other commands
 A few other niche plugins can provide cosmetic effects.
 Cosmetic features with narrow functionality are listed here.
