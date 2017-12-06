@@ -52,7 +52,27 @@ When operators are not invited as guests, they can't enter.
  * `/adminworld` - Teleports an administrator to the adminworld.
  * `/aw` - An alias of the previous command and serves the same function.
 
-## Using Dynmap
+## Location
+Our server uses the basic Essentials kit of commands.
+As a result, you can bookmark a set of coordinates both for the public and as a private home.
+
+### Using warps
+A warp is a keyword that allows anyone to teleport to a set of coordinates.
+Warps are public and can be viewed by anyone, and they can also be overridden.
+
+ * `/warps` - Provides a list of existing warps.
+ * `/warp <warp>` - Allows you to... warp to a warp. (Sounds weird, right?)
+ 
+### Using homes
+Members can set their own home, which is just like a private warp.
+Homes won't appear in the public list of warps and they're good for referencing locations.
+
+> **Note:** Unlike warps, members can't go to homes set by others. They're specific to whoever has set them previously. If you'd like to have a public keyword, you should be using warps instead.
+
+ * `/homes` - Provides a list of your homes.
+ * `/home <home>` - Takes you home to a home. (Slightly less weird.)
+
+## Dynamic map
 Dynmap, as abbreviated in the name, is a dynamic map generator.
 This plugin can generate a bird's-eye view of any world through your web browser.
 With the online interface, you can also view statistics and use the in-game chat.
