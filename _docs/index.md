@@ -17,28 +17,20 @@ We aim to provide the best experience for every member on our server. This means
 - **Free and open.** You don't need building expertise or any skills to join. Our server is public to all and so is our online community, the forum. We allow you to chat with other server members on the go with our Discord server.
 
 ## Website
-We have a range of online services and you're on one of them.
-Our homepage and public documentation are great places to learn about the server.
-It's also great to master these tools, and you can start by learning how we do things around here.
+The website provides fundamentals; such as information, referrals, and resources.
+It's also great to master these tools, and you can start by learning how we commit different sections.
 
 ### Homepage
-Everyone begins at the homepage when they're checking us out for the first time.
-The homepage is the first page you see when you visit `shadow.ga`—you know, with the funny text and big red mountains.
-There isn't much to see but you can quickly navigate our website and follow us on social media.
-
+Our homepage is the first page enveloping `shadow.ga`—you know, with the funny text and big red mountains.
 Other pages branching from our homepage (such as error pages) can provide material.
-The open-source portions of our service can be viewed and forked through the repository.
-Our homepage and akin files are powered by [Jekyll](https://jekyllrb.com/) and [Flarum](http://flarum.org/).
+This and akin files are powered by [Jekyll](https://jekyllrb.com/) and [Flarum](http://flarum.org/).
 
-### Documentation
-The documentation page (or docs) is the home of all information regarding our service.
-We provide guidelines, instructions, and guides so newcomers can be educated with ease.
+We provide guidelines, instructions, and guides on our documentation; so newcomers can learn with ease.
 You're even reading a docs page right now and you can quickly jump to pages with the left-hand table.
 
 > **Notes** and **tips** like this one signify knowledge that isn't necessarily definite but important. **Upcoming** blocks detail assets we're still trying to implement—also subject to revision.
 
 Everyone should thoroughly read our documentation so they know how to get around.
-If you don't read the docs, you could get in trouble for something you didn't know about.
 Information also helps with using the exclusive features of our server, forum, and other resources.
 
 ### Social media
@@ -47,44 +39,27 @@ We have a [Twitter](/twitter/) for sending quick messages and all tweets are rel
 
 Our [GitHub](/github/) organization is great for the open-source development of resources such as this website—and don't forget our Medium [blog](/blog/).
 
-## Community
-We'll often refer to our forum as the 'community' to keep things simple.
-Call it anything you want, but this feature is great for online collaboration and discourse.
-The forum we use is also powered by the [Flarum](http://flarum.org/) forum software.
-
-### Making an account
-Getting started on the community is nice and simple, we don't ask for much information.
-You'll either need to give credentials or you can sign up through GitHub.
-Also consider enabling 2FA, check our security page [here](https://shadow.ga/docs/2/d-security/#activating-two-factor-login) for more on that.
+### Community
+We'll often refer to our forum as the 'community' to keep things simple—a feature great for online collaboration and discourse.
+Getting started on the community is nice and simple, we don't ask for much; anyone can sign up through our database or GitHub—but please [enable](https://shadow.ga/docs/2/d-security/#activating-two-factor-login) two-factor auth.
 If you'd like your account deleted, just let us know.
 
-### Discussions
 Discussions are thread-like posts that (when made) will show up on the community's front page.
 When a discussion is getting a lot of replies, it'll stay on the front for everyone to see.
-They're called discussions because you can endlessly *discuss* anything.
-Posts that are violating our guidelines can be locked or deleted.
-
-### Tags and categories
-You can talk about anything on the community, but we have categories called 'tags' for organisation.
-When you're making a discussion, make sure to use the right tag!
-Try and get as specific with tags as possible so everyone has a better experience, but please don't abuse them.
-
-### Customisation
-Try customising your profile!
-You can set your own profile picture and short biography to tell us about yourself.
-Try adding a button; they're public links that you can add to your profile and can go to anything (website, repository, project, etc).
-
-We still want you to keep it appropriate and profiles violating our guidelines will be removed.
+You can talk about anything on the community, but we have tags for organisation; be specific but don't abuse them.
 
 ## Guild
 The guild is our Discord server where anyone can talk to each other in real time.
-This service is great for sharing content, collaboration, and quick support.
-It's completely optional unless you're an admin but greatly improves the server experience.
+This service is great for sharing content, collaboration, and quick support; you can either join by clicking the 'guild' button on our navigation bar or through [this link](/guild/).
 
-### Joining the guild
-You'll need to make a Discord account if you don't already have one.
-When that's set, you can either join by clicking the 'guild' button on our navigation bar or through [this link](/guild/).
-Then you'll be invited to the guild and will instantly become a fully-fledged cool person.
+### Automation
+We use bots to emulate a personal assistant for every member.
+Bots have a wide variety of command and may cover customisation to specification.
+They can't be used in-game.
+
+ * `/` - Triggers a pop-up menu listing the built-in commands of our Discord guild.
+ * `.help` - Provides a list of the [Some Dragon](https://github.com/robingall2910/RobTheBoat) bot's commands via a personal message.
+ * `t!help` - Provides a list of the [Tatsumaki](https://www.tatsumaki.xyz/) bot's commands via a personal message.
 
 ### Text channels
 Similar to the forum, different topics have their own channel.
@@ -131,9 +106,9 @@ Shop management allows for economy modification and the addition of new coins.
 
 > **Note:** Only remove or 'set' coins with the permission of an Executive or higher. Giving out coins can potentially unbalance the server economy, resulting in inflation.
 
- * `/manageshop coins add <amount> <user | all>` - Gives an amount of coins to a specific member or everyone.
- * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins from a member or everyone.
- * `/manageshop coins set <amount> <user | all>` - Sets a definite amount of coins for a member or everyone.
+ * `/manageshop coins add <amount> <user | all>` - Gives an amount of coins to someone.
+ * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins from someone.
+ * `/manageshop coins set <amount> <user | all>` - Sets a definite amount of coins for someone.
  
 The `all` function will only apply to members that are online; the `set` function will override pre-existing coins.
 
