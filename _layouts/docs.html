@@ -3,6 +3,13 @@ layout: default
 ---
 <header class="Hero">
   <div class="container">
+    <script>
+	    var pattern = Trianglify({
+		    width: window.innerWidth,
+		    height: window.innerHeight
+	    });
+	    document.body.appendChild(pattern.canvas())
+    </script>
     <h2>Documentation</h2>
   </div>
 </header>
