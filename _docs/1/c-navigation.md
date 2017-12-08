@@ -71,6 +71,13 @@ Homes won't appear in the public list of warps and they're good for referencing 
 
  * `/homes` - Provides a list of your homes.
  * `/home <home>` - Takes you home to a home. (Slightly less weird.)
+ 
+### Other commands
+WorldEdit and other plugins come bundled with navigaton-centic commands.
+Teleportation features with narrow functionality are listed here.
+
+ * `/thru` - No arguments, teleports you through the block you are specifically facing.
+ * `/tppos <x> <y> <z> [yaw] [pitch]` - Takes you to a specified set of block coordinates.
 
 ## Dynamic map
 Dynmap, as abbreviated in the name, is a dynamic map generator.
