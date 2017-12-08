@@ -10,10 +10,6 @@ It's important for everyone to know our administration's guidelines for proper g
 Guidelines give the community a direct and consistent set of rules.
 If you are caught violating the guidelines, an administrator can take the action they deem necessary—such as banning your account.
 
-#### Referral commands
- * `/motd` - Views the message of the day, with links to this page and more.
- * `/rules` - Directly refers members with a link to this page. 
-
 ### General policy
 This potion of our rules focuses on in-game conduct and gameplay etiquette.
 These guidelines reflect the optimal behaviour practiced by example members.
@@ -56,6 +52,10 @@ These guidelines also apply to the guild and other resources.
 
 If you see anything with our name that's violating the posted guidelines or practices, it isn't us.
 You can find out more about this matter [here](https://shadow.ga/docs/2/d-security/#watching-your-back).
+
+#### Referral commands
+ * `/motd` - Views the message of the day, with links to this page and more.
+ * `/rules` - Directly refers members with a link to this page.
 
 ## Reporting
 Other members that have visibly broken the guidelines can be reported.
