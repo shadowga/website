@@ -34,7 +34,7 @@ This place is great for strategy puzzles, mazes, and machinery; you'll find a co
  * `/nether` - Teleports a player to the netherlands.
  * `/ender` - Teleports a player to the enderlands.
  
-The first command's perimeter is required.
+The `/world` command's perimeter is required.
  * `<number>` - Specifies a world number. Each number (`0` to `4`) takes you somewhere else.
 
 Here's each number and the world it corresponds to.
