@@ -10,6 +10,10 @@ It's important for everyone to know our administration's guidelines for proper g
 Guidelines give the community a direct and consistent set of rules.
 If you are caught violating the guidelines, an administrator can take the action they deem necessary—such as banning your account.
 
+#### Referral commands
+ * `/motd` - Views the message of the day, with links to this page and more.
+ * `/rules` - Directly refers members with a link to this page. 
+
 ### General policy
 This potion of our rules focuses on in-game conduct and gameplay etiquette.
 These guidelines reflect the optimal behaviour practiced by example members.
