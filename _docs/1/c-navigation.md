@@ -93,7 +93,7 @@ The request, sent to another member, can be easily approved or denied with a sho
  
 If you'd like to prevent any member from teleporting to you, incoming requests can be disabled.
 
- * `/tptoggle [on | off]` - Toggles the ability for incoming requests; optionally, you can specify a value.
+ * `/tptoggle [on | off]` - Toggles the ability for incoming requests; optionally, you can set a value.
  
 ### Other commands
 WorldEdit and other plugins come bundled with navigaton-centic commands.
