@@ -72,6 +72,29 @@ Homes won't appear in the public list of warps and they're good for referencing 
  * `/homes` - Provides a list of your homes.
  * `/home <home>` - Takes you home to a home. (Slightly less weird.)
  
+### Teleportation
+Anyone can use basic commands if they'd like to teleport to other players, but we require their content.
+Privacy is important to us, so we don't allow intrusive commands.
+
+> **Note:** `/tp` and `/tpo` can only be used by administrators, which is why only the `/tpa` set of commands are documented.
+
+All `/tpa` commands require approval from the second member for your relocation.
+
+ * `/tpa <user>` - Teleports you to the location of another member.
+ * `/tpask <user>` - An alias of the previous command and serves the same function.
+ * `/tpahere <user>` - Teleports another member to your location.
+ 
+The request, sent to another member, can be easily approved or denied with a short response command.
+
+ * `/tpaccept` - Accepts an incoming teleportation request.
+ * `/tpyes` - An alias of the previous command and serves the same function.
+ * `/tpdeny` - Denies an incoming teleportation request.
+ * `/tpno` - An alias of the previous command and serves the same function.
+ 
+If you'd like to prevent any member from teleporting to you, incoming requests can be disabled.
+
+ * `/tptoggle [on | off]` - Toggles the ability for incoming requests; optionally, you can specify a value.
+ 
 ### Other commands
 WorldEdit and other plugins come bundled with navigaton-centic commands.
 Teleportation features with narrow functionality are listed here.
