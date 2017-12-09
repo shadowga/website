@@ -111,6 +111,30 @@ We use the [Essentials](https://wiki.mc-ess.net) features library along with sev
 
  * `/me <text>` - Globally announces the specified text for all to see.
  * `/msg <user> <text>` - Privately messages the specified text to another member.
+ * `/mail` - Serves as an in-game mailbox. Messages can be sent to other members.
+ 
+#### Mail usage
+The `/mail` function can be used to send, receive, and manage messages.
+Keep in mind that all messages must comply with our guidelines or they'll be removed.
+
+> **Note:** Mailed messages, unlike `/msg`, can be sent to offline members—or members that aren't currently on the server during command execution. The `/mail sendall` feature cannot be used by members.
+
+ * `/mail send <to> <message>` - Mails a message to another member.
+ * `/mail read` - Functions as an inbox; displays any and all messages sent to you.
+ * `/mail clear` - Clears your inbox; deletes any and all messages sent to you.
+ 
+#### Colour codes
+Many Essentials commands can use colour codes, identifiers that signify specific colours; these can be embedded into item names, messages, and descriptions (as elaborated above).
+
+ * `&4` - Dark red: `&4<text>`; vanilla: `§4<text>`.
+ * `&c` - Light red: `&c<text>`; vanilla: `§c<text>`.
+ * `&6` - Light brown: `&6<text>`; vanilla: `§6<text>`.
+ * `&e` - Yellow: `&e<text>`; vanilla: `§e<text>`.
+ * `&2` - Dark green: `&2<text>`; vanilla: `§2<text>`.
+ * `&a` - Light green: `&a<text>`; vanilla: `§a<text>`.
+ * `&b` - Light blue: `&b<text>`; vanilla: `§b<text>`.
+ * `&3` - Cyan: `&3<text>`; vanilla: `§3<text>`.
+ * `&1` - Dark blue: `&1<text>`; vanilla: `§1<text>`.
 
 ### Economy
 With an economy, members are capable of making transactions for shop items and developing their own wealth.
