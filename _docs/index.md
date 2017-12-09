@@ -86,9 +86,30 @@ Using a port isn't required but if you need one there's `25599`.
  * `/status` - Displays the server's current state and loaded worlds.
  * `/memory` - Projects memory statistics, loaded worlds, and ticks per second (TPS).
  * `/mem` - An alias of the previous command and serves the same function.
+ 
+You can also view and lookup other members, as opposed to the default tab list.
+
+> **Note:** Many in-game commands with member-specific variables will only apply to those who are connected to the server when that command is executed. Because of this, it is important to be specific.
+
+ * `/list` - Displays a list of members currently on the server.
+ * `/list -a` - Displays a list of members, with administrator, on the server.
+ * `/whois <name>` - Provides advanced information regarding a member.
+ 
+Nearby members can be located with a couple of proximity-sensing commands.
+
+ * `/radar` - Displays a list of nearby members and their proximity to you.
+ * `/nearby` - An Essentials-based variant of the above command, tracks proximity.
+ * `/near` - An alias of the previous command and serves the same function.
 
 We provide support for both newer and older clients, from `1.12.2` all the way back to `1.7.2`.
 Support for older client versions may change as the game updates.
+
+### Communication
+Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands.
+We use the [Essentials](https://wiki.mc-ess.net) features library along with several other plugins.
+
+ * `/me <text>` - Globally announces the specified text for all to see.
+ * `/msg <user> <text>` - Privately messages the specified text to another member.
 
 ### Economy
 With an economy, members are capable of making transactions for shop items and developing their own wealth.
