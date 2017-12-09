@@ -146,6 +146,7 @@ You can talk to each other using Discord's voice service.
 The way channels are organised is very similar to text, but members breaking our guidelines can be muted.
 Discord has a pretty nice voice codec and you can fine-tune your microphone and voice through the settings.
 
-### Other information
+---
+
 Other commands and information; regarding in-game features, resources, and tools are further detailed appropriately.
 You can either click the ‘next’ button or manually navigate to continue.
