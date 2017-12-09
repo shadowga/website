@@ -16,6 +16,78 @@ We aim to provide the best experience for every member on our server. This means
 
 - **Free and open.** You don't need building expertise or any skills to join. Our server is public to all and so is our online community, the forum. We allow you to chat with other server members on the go with our Discord server.
 
+## Server
+Our Minecraft server is what we're built around.
+We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
+
+### Connection
+It's easy to join the server.
+You can connect by typing the domain `shadow.ga` as a server address using the direct connect box or by adding us to your in-game list.
+Using a port isn't required but if you need one there's `25599`.
+
+ * `/status` - Displays the server's current state and loaded worlds.
+ * `/memory` - Projects memory statistics, loaded worlds, and ticks per second (TPS).
+ * `/mem` - An alias of the previous command and serves the same function.
+ 
+You can also view and lookup other members, as opposed to the default tab list.
+
+> **Note:** Many in-game commands with member-specific variables will only apply to those connected during the execution of your command, making specificity imperative.
+
+ * `/list` - Displays a list of members currently on the server.
+ * `/list -a` - Displays a list of members, with administrator, on the server.
+ * `/whois <name>` - Provides advanced information regarding a member.
+ * `/realname <name>` - Finds a member's username from their nickname (if they have one).
+ 
+Nearby members can be located with a couple of proximity-sensing commands.
+
+ * `/radar` - Displays a list of nearby members and their proximity to you.
+ * `/nearby` - An Essentials-based variant of the above command, tracks proximity.
+ * `/near` - An alias of the previous command and serves the same function.
+
+We provide support for both newer and older clients, from `1.12.2` all the way back to `1.7.2`.
+Support for older client versions may change as the game updates.
+
+### Communication
+Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands.
+We use the [Essentials](https://wiki.mc-ess.net) features library along with several other plugins.
+
+ * `/me <text>` - Globally announces the specified text for all to see.
+ * `/msg <user> <text>` - Privately messages the specified text to another member.
+ * `/mail` - Serves as an in-game mailbox. Messages can be sent to other members.
+ 
+#### Mail usage
+The `/mail` function can be used to send, receive, and manage messages.
+Keep in mind that all messages must comply with our guidelines or they'll be removed.
+
+> **Note:** Mailed messages, unlike `/msg`, can be sent to offline members—or members that aren't currently on the server during command execution. `/mail sendall` cannot be used by members.
+
+ * `/mail send <to> <message>` - Mails a message to another member.
+ * `/mail read` - Functions as an inbox; displays any and all messages sent to you.
+ * `/mail clear` - Clears your inbox; deletes any and all messages sent to you.
+
+### Economy
+With an economy, members are capable of making transactions for shop items and developing their own wealth.
+Money is presented in the form of coins and you can manage them.
+
+#### Using the shop
+To earn coins, you can [vote](https://www.planetminecraft.com/server/shadowrealms---a-server-where-everyone-gets-op/) for the server and complete in-game chat reactions.
+Once you build up enough coins, you can purchase from the shop; items like login messages and weapons.
+ 
+ * `/coins` - Displays your current wealth; coins attributed to your user.
+ * `/shop` - Opens up the shop. From here you can purchase items.
+ 
+#### Shop management
+Senior Admins and higher can manage the shop with an administrator tool.
+Shop management allows for economy modification and the addition of new coins.
+
+> **Note:** Only remove or 'set' coins with the permission of an Executive or higher. Giving out coins can potentially unbalance the server economy, resulting in inflation.
+
+ * `/manageshop coins add <amount> <user | all>` - Gives an amount of coins to someone.
+ * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins.
+ * `/manageshop coins set <amount> <user | all>` - Sets a definite amount of coins.
+ 
+The `all` function will only apply to members that are online; `set` will override pre-existing coins.
+
 ## Website
 The website provides fundamentals; such as information, referrals, and resources.
 It's also great to master these tools, and you can start by learning how we commit different sections.
@@ -74,79 +146,6 @@ You can talk to each other using Discord's voice service.
 The way channels are organised is very similar to text, but members breaking our guidelines can be muted.
 Discord has a pretty nice voice codec and you can fine-tune your microphone and voice through the settings.
 
-## Server
-Our Minecraft server is what we're built around.
-We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
-
-### Connection
-It's easy to join the server.
-You can connect by typing the domain `shadow.ga` as a server address using the direct connect box or by adding us to your in-game list.
-Using a port isn't required but if you need one there's `25599`.
-
- * `/status` - Displays the server's current state and loaded worlds.
- * `/memory` - Projects memory statistics, loaded worlds, and ticks per second (TPS).
- * `/mem` - An alias of the previous command and serves the same function.
- 
-You can also view and lookup other members, as opposed to the default tab list.
-
-> **Note:** Many in-game commands with member-specific variables will only apply to those connected during the execution of your command, making specificity imperative.
-
- * `/list` - Displays a list of members currently on the server.
- * `/list -a` - Displays a list of members, with administrator, on the server.
- * `/whois <name>` - Provides advanced information regarding a member.
- * `/realname <name>` - Finds a member's username from their nickname (if they have one).
- 
-Nearby members can be located with a couple of proximity-sensing commands.
-
- * `/radar` - Displays a list of nearby members and their proximity to you.
- * `/nearby` - An Essentials-based variant of the above command, tracks proximity.
- * `/near` - An alias of the previous command and serves the same function.
-
-We provide support for both newer and older clients, from `1.12.2` all the way back to `1.7.2`.
-Support for older client versions may change as the game updates.
-
-### Communication
-Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands.
-We use the [Essentials](https://wiki.mc-ess.net) features library along with several other plugins.
-
- * `/me <text>` - Globally announces the specified text for all to see.
- * `/msg <user> <text>` - Privately messages the specified text to another member.
- * `/mail` - Serves as an in-game mailbox. Messages can be sent to other members.
- 
-#### Mail usage
-The `/mail` function can be used to send, receive, and manage messages.
-Keep in mind that all messages must comply with our guidelines or they'll be removed.
-
-> **Note:** Mailed messages, unlike `/msg`, can be sent to offline members—or members that aren't currently on the server during command execution. The `/mail sendall` feature cannot be used by members.
-
- * `/mail send <to> <message>` - Mails a message to another member.
- * `/mail read` - Functions as an inbox; displays any and all messages sent to you.
- * `/mail clear` - Clears your inbox; deletes any and all messages sent to you.
-
-### Economy
-With an economy, members are capable of making transactions for shop items and developing their own wealth.
-Money is presented in the form of coins and you can manage them.
-
-#### Using the shop
-To earn coins, you can [vote](https://www.planetminecraft.com/server/shadowrealms---a-server-where-everyone-gets-op/) for the server and complete in-game chat reactions.
-Once you build up enough coins, you can purchase from the shop; items like login messages and weapons.
- 
- * `/coins` - Displays your current wealth; coins attributed to your user.
- * `/shop` - Opens up the shop. From here you can purchase items.
- 
-#### Shop management
-Senior Admins and higher can manage the shop with an administrator tool.
-Shop management allows for economy modification and the addition of new coins.
-
-> **Note:** Only remove or 'set' coins with the permission of an Executive or higher. Giving out coins can potentially unbalance the server economy, resulting in inflation.
-
- * `/manageshop coins add <amount> <user | all>` - Gives an amount of coins to someone.
- * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins.
- * `/manageshop coins set <amount> <user | all>` - Sets a definite amount of coins.
- 
-The `all` function will only apply to members that are online; the `set` function will override pre-existing coins.
-
 ### Other information
-Now that you know the basics, it's time to learn everything.
-Information about the server's guidelines, ranks, and worlds is all available throughout our documentation.
-You can either click the 'next' button or manually navigate to begin.
+Other commands and information; regarding in-game features, resources, and tools are further detailed appropriately.
+You can either click the ‘next’ button or manually navigate to begin.
