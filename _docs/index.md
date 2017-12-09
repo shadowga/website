@@ -89,7 +89,7 @@ Using a port isn't required but if you need one there's `25599`.
  
 You can also view and lookup other members, as opposed to the default tab list.
 
-> **Note:** Many in-game commands with member-specific variables will only apply to those who are connected to the server when that command is executed. Because of this, it is important to be specific.
+> **Note:** Many in-game commands with member-specific variables will only apply to those connected during the execution of your command, making specificity imperative.
 
  * `/list` - Displays a list of members currently on the server.
  * `/list -a` - Displays a list of members, with administrator, on the server.
