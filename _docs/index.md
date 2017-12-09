@@ -148,4 +148,4 @@ Discord has a pretty nice voice codec and you can fine-tune your microphone and 
 
 ### Other information
 Other commands and information; regarding in-game features, resources, and tools are further detailed appropriately.
-You can either click the ‘next’ button or manually navigate to begin.
+You can either click the ‘next’ button or manually navigate to continue.
