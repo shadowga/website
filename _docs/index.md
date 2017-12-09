@@ -94,6 +94,7 @@ You can also view and lookup other members, as opposed to the default tab list.
  * `/list` - Displays a list of members currently on the server.
  * `/list -a` - Displays a list of members, with administrator, on the server.
  * `/whois <name>` - Provides advanced information regarding a member.
+ * `/realname <name>` - Finds a member's username from their nickname (if they have one).
  
 Nearby members can be located with a couple of proximity-sensing commands.
 
