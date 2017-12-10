@@ -129,7 +129,7 @@ This service is great for sharing content, collaboration, and quick support; you
 Text channels are the focus of our guild, along with voice channels.
 We segregate our channels based on the subject they were constructed for; as a result, please keep things where they belong.
 
- * `#announcements` - Executive-only channel for important stuff; server updates, tweets, and articles.
+ * `#announcements` - Executive-only channel for important stuff; updates, tweets, and articles.
  
 The following channels can be used by anyone (regardless of any position) who isn't muted.
  
@@ -137,12 +137,7 @@ The following channels can be used by anyone (regardless of any position) who is
  * `#spam-chat` - For content that's purposeless or has been designated as spam.
  * `#dev-chat` - The support hotline and place for development discussion.
 
-And don't forget these channels, which aren't governed with discourse in mind.
-
- * `#commands` - Landfill for bot commands and other niche.
- * `#nsfw-chat` - Not safe for work, you get the idea.
- 
-Administrators have a chat for each role, functioning as a live chat variant of the admin-only forum lounges.
+Other channels that aren't listed here (such as admin-only channels) function limitedly; for more information, see the various channel topics.
 
 ### Automation
 We use bots to emulate a personal assistant for every member.
