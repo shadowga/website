@@ -145,8 +145,13 @@ These are called 'titles' because they carry no permissions (unlike ranks).
 
 > **Note:** Only titles will be listed here, as the guild's ranking system is identical to that of our server; a list of our administrator ranks can be found at our [hierarchy](https://shadow.ga/docs/2/a-directorate/#hierarchy).
 
- * ```diff + Developer ``` - Provided to those who make code contribution to our [organisation](https://github.com/shadowga).
- * ```diff - Architect ``` - Awarded to builders who have made salient contribution in-game.
+ * **Developer** - Provided to those who make code contribution to our [organisation](https://github.com/shadowga).
+ * **Architect** - Awarded to the prolific builders of our in-game atmosphere.
+ 
+The following positions can only be granted to administrators.
+
+ * **Inactive** - Attached to an inactive admin's account; provided upon request.
+ * **Emeritus** - Attached to administrators designated as permanently active.
  
 ### Automation
 We use bots to emulate a personal assistant for every member.
