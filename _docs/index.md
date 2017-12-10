@@ -129,13 +129,13 @@ This service is great for sharing content, collaboration, and quick support; you
 Text channels are the focus of our guild, along with voice channels.
 We segregate our channels based on the subject they were constructed for; as a result, please keep things where they belong.
 
- * `#announcements` - Executive-only channel for important stuff; updates, tweets, and articles.
+ * [`#announcements`](https://discord.gg/kpePHUP) - Executive-only channel for important stuff; updates, tweets, and articles.
  
 The following channels can be used by anyone (regardless of any position) who isn't muted.
  
- * `#general-chat` - Catalyst of 'normal' content—everyday and relevant talk.
- * `#spam-chat` - For content that's purposeless or has been designated as spam.
- * `#dev-chat` - The support hotline and place for development discussion.
+ * [`#general-chat`](https://discord.gg/3fFF2V2) - Catalyst of 'normal' content—everyday and relevant talk.
+ * [`#spam-chat`](https://discord.gg/k6RHq5N) - For content that's purposeless or has been designated as spam.
+ * [`#dev-chat`](https://discord.gg/XQjuvt3) - The support hotline and place for development discussion.
 
 Other channels that aren't listed here (such as admin-only channels) function limitedly; for more information, see the various channel topics.
 
@@ -147,18 +147,6 @@ They can't be used in-game.
  * `/` - Triggers a pop-up menu listing the built-in commands of our Discord guild.
  * `.help` - Provides a list of the [Some Dragon](https://github.com/robingall2910/RobTheBoat) bot's commands via a personal message.
  * `t!help` - Provides a list of the [Tatsumaki](https://www.tatsumaki.xyz/) bot's commands via a personal message.
-
-### Text channels
-Similar to the forum, different topics have their own channel.
-The #general-chat is for just about anything while spam goes in the #spam-chat.
-Developers can do their thing in #developer-chat, controversial or inappropriate stuff goes in #nsfw-chat, and commands go in #commands.
-
-Everything's pretty straightforward, administrators even have a chat for their own roles.
-
-### Voice channels
-You can talk to each other using Discord's voice service.
-The way channels are organised is very similar to text, but members breaking our guidelines can be muted.
-Discord has a pretty nice voice codec and you can fine-tune your microphone and voice through the settings.
 
 ---
 
