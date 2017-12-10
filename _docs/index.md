@@ -125,6 +125,25 @@ You can talk about anything on the community, but we have tags for organisation;
 The guild is our Discord server where anyone can talk to each other in real time.
 This service is great for sharing content, collaboration, and quick support; you can either join by clicking the 'guild' button on our navigation bar or through [this link](/guild/).
 
+### Channels
+Text channels are the focus of our guild, along with voice channels.
+We segregate our channels based on the subject they were constructed for; as a result, please keep things where they belong.
+
+ * `#announcements` - Executive-only channel for important stuff; server updates, tweets, and articles.
+ 
+The following channels can be used by anyone (regardless of any position) who isn't muted.
+ 
+ * `#general-chat` - Catalyst of 'normal' content—everyday and relevant talk.
+ * `#spam-chat` - For content that's purposeless or has been designated as spam.
+ * `#dev-chat` - The support hotline and place for development discussion.
+
+And don't forget these channels, which aren't governed with discourse in mind.
+
+ * `#commands` - Landfill for bot commands and other niche.
+ * `#nsfw-chat` - Not safe for work, you get the idea.
+ 
+Administrators have a chat for each role, functioning as a live chat variant of the admin-only forum lounges.
+
 ### Automation
 We use bots to emulate a personal assistant for every member.
 Bots have a wide variety of command and may cover customisation to specification.
@@ -149,4 +168,4 @@ Discord has a pretty nice voice codec and you can fine-tune your microphone and 
 ---
 
 Other commands and information; regarding in-game features, resources, and tools are further detailed appropriately.
-You can either click the ‘next’ button or manually navigate to continue.
+You can either click the ‘next' button or manually navigate to continue.
