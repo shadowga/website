@@ -131,7 +131,7 @@ We segregate our channels based on the subject they were constructed for; as a r
 
  * [`#announcements`](https://discord.gg/kpePHUP) - Executive-only channel for important stuff; updates, tweets, and articles.
  
-The following channels can be used by anyone (regardless of any position) who isn't muted.
+The following channels can be used by anyone who isn't muted or removed.
  
  * [`#general-chat`](https://discord.gg/3fFF2V2) - Catalyst of 'normal' content—everyday and relevant talk.
  * [`#spam-chat`](https://discord.gg/k6RHq5N) - For content that's purposeless or has been designated as spam.
