@@ -139,6 +139,15 @@ The following channels can be used by anyone who isn't muted or removed.
 
 Other channels that aren't listed here (such as admin-only channels) function limitedly; for more information, see the various channel topics.
 
+### Position
+The guild uses Discord's role system for standalone designation; meaning that some roles provided to members will have no server or forum counterpart.
+These are called 'titles' because they carry no permissions (unlike ranks).
+
+> **Note:** Only titles will be listed here, as the guild's ranking system is identical to that of our server; a list of our administrator ranks can be found at our [hierarchy](https://shadow.ga/docs/2/a-directorate/#hierarchy).
+
+ * ```diff + Developer ``` - Provided to those who make code contribution to our [organisation](https://github.com/shadowga).
+ * ```diff - Architect ``` - Awarded to builders who have made salient contribution in-game.
+ 
 ### Automation
 We use bots to emulate a personal assistant for every member.
 Bots have a wide variety of command and may cover customisation to specification.
