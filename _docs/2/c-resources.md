@@ -16,12 +16,12 @@ You can directly access the online file transfer server by manually entering an 
 Navigating through the server is fairly easy as each feature can be located using a trailing slash.
 Here's a list of trailing slashes you can use:
 
-- `/schematic/list` - Views a dynamic list of saved WorldEdit schematics.
-- `/schematic/upload` - Loads an interface for uploading schematics.
-- `/permbans` - Views a plain text copy of our `permbans.yml` list. This includes suspended users.
-- `/players` - Views a plain text list of our currently added administrators; sorted by their rank.
-- `/help` - Views a plain text list of every server command, proper usage, and description.
-- `/list` - Similar to the above directory, views an updated list of the server's online members.
+- [`/schematic/list`](http://b.shadow.ga:27579/schematic/list) - Views a dynamic list of saved WorldEdit schematics.
+- [`/schematic/upload`](http://b.shadow.ga:27579/schematic/upload) - Loads an interface for uploading schematics.
+- [`/permbans`](http://b.shadow.ga:27579/permbans) - Views a plain text copy of our `permbans.yml` list. This includes suspended users.
+- [`/players`](http://b.shadow.ga:27579/players) - Views a plain text list of our currently added administrators; sorted by their rank.
+- [`/help`](http://b.shadow.ga:27579/help) - Views a plain text list of every server command, proper usage, and description.
+- [`/list`](http://b.shadow.ga:27579/list) - Similar to the above directory, views an updated list of the server's online members.
  
 ### Schematic transfer
 Using the schematic list (or [downloader](http://b.shadow.ga:27579/schematic/list)), anyone can download a file by clicking on its name.
