@@ -8,8 +8,8 @@ Learning to master these tools is important when rolling back grief and restorin
 
 ## Using CoreProtect
 CoreProtect is a heavy block management tool that provides detailed logs of all blocks placed and removed.
-This plugin allows you to make detailed, specific rollbacks and restorations while managing the integrity of our worlds.
 You can display an in-game list of the available options with three main commands:
+
  * `/coreprotect help` - The default and longest command, only admins can use it.
  * `/core help` - An alias of the default command, only admins can use it.
  * `/co help` - The shortest alias, only admins can use it.
@@ -19,6 +19,7 @@ We will demonstrate command usage with the alias `/co`, as it is the shortest an
 ### Block inspection tool
 The inspection tool is a toggleable feature that allows you to click any block and view all previous changes made to that specific location.
 It will show WorldEdit selections, placements, deletions, and even natural changes such as water or an explosion.
+
  * `/co inspect` - Toggles the inspector and can be disabled by typing the command a second time.
  * `/co i` - An alias of the previous command and serves the same function.
 
@@ -27,6 +28,7 @@ This tool is mostly used to quickly check for damage such as a deleted build and
 ### Rolling back a member
 Likely the most used tool of this plugin, the rollback feature allows an administrator to roll a member's changes back.
 This command will affect just about anything so specifying perimeters is important.
+
  * `/co rollback` - Performs a rollback depending on the user and time you specify.
  * `/co rb` - An alias of the previous command and serves the same function.
 
@@ -76,6 +78,7 @@ Here's a list of hashtags you can use.
 ### Restoring a member
 The restore feature allows an administrator to bring back a member's placed or removed blocks.
 Like a rollback, this command is very powerful so specifying perimeters is important.
+
  * `/co restore` - Performs a restore depending on the user and time you specify.
  * `/co rs` - An alias of the previous command and serves the same function.
  
@@ -87,6 +90,7 @@ Like a rollback, this command is very powerful so specifying perimeters is impor
 
 ### Looking up a member
 This command allows you to search through block data using the same perimeters as `/co rollback` and `/co restore`.
+
  * `/co lookup` - Performs an advanced block data lookup depending on the user and time you specify.
  * `/co l` - An alias of the previous command and serves the same function.
  
@@ -126,10 +130,12 @@ This command can only be used through Telnet or another console.
 AsyncWorldEdit (AWE) is an addition to WorldEdit that allows for larger edits without lagging the server.
 Seniors and higher are capable of viewing, purging, and cancelling member's edits in the queue.
 You can display an in-game list of the available options with the following main command:
+
  * `/awe help` - The default command, only Senior Admins and higher can use it.
 
 ### Viewing edit jobs
 This command allows you to view a personal or global updated list of the queued block operations.
+
  * `/awe jobs` - Displays queued block operations.
  
 #### Command usage
@@ -141,6 +147,7 @@ The `[page]` option can be used to specify different pages in numbers, such as `
 
 ### Cancelling edit jobs
 This command allows you to cancel specific edits.
+
  * `/awe cancel` - Cancels queued block operations.
  
 #### Command usage
@@ -153,6 +160,7 @@ You can find a specific ID by viewing jobs for yourself, another member, or the 
 ### Purging edit jobs
 This command is similar to the above one except it will cancel every edit in a member's queue or globally.
 Admins should only use this command in emergencies as it can cause a major change.
+
  * `/awe purge` - Purges all queued block operations.
 
 #### Command usage
@@ -163,7 +171,9 @@ Admins should only use this command in emergencies as it can cause a major chang
 ### Toggling Async
 Async (AWE) is enabled by default but this command can disable or re-enable the feature.
 With Async disabled, edits will be performed without lag prevention.
-> **Note:** This command is not recommended without given permission of an Executive or higher. It can potentially result in selections becoming unresponsive or abnormally slow.
+
+> **Note:** This command is not recommended without given permission of an Executive or higher.
+> It can potentially result in selections becoming unresponsive or abnormally slow.
 
  * `/awe toggle` - Disables or enables the AsyncWorldEdit service.
  
