@@ -94,6 +94,23 @@ h2 {
   }
 }
 
+.Banner {
+  background: #EFF2F6;
+  color: #7E96B3;
+  padding: 1px 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+@include respond-to(handhelds) {
+  .Banner {
+    display: none;
+  }
+}
+
 .Hero {
   background: #EFF2F6;
   padding: 40px 0;
