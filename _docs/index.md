@@ -3,7 +3,7 @@ layout: docs
 title: a. Introduction
 permalink: /docs/
 ---
-We're a modern creative server for Minecraft. We give members every command they need to powerfully build and enjoy our server without meeting any requirements.
+We're a modern creative environment; we give members every command they need to powerfully build and enjoy our server without meeting any requirements.
 
 ## Server
 Our Minecraft server is what we're built around.
