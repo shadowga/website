@@ -4,14 +4,22 @@ title: e. Support
 permalink: /docs/1/e-support/
 ---
 If you're in need of support, we provide several resources for getting help.
-Before considering any of these options we recommend you try to solve the problem yourself first.
-Maybe you already know what's going on; if that's true, you can report it or suggest something entirely new.
+Before considering any of these options we recommend you try troubleshooting the issue.
 
-### Before getting help
-* Ensure that you have read our documentation thoroughly, we could've already mentioned it.
-* If the above does not work, try searching the forum for pre-existing discussions.
-* For development-related issues, make a suggestion on the forum instead.
-* For client-side errors (such as Minecraft crashes or Internet connection problems), seek help from an external source.
+## Contact us
+Maybe you need a hand, and in that case, we can help you out.
+Our community has multiple layers of direct support if you're stumped on something.
+
+### Before you ask
+Different portions of our team are primarily knowledgable at different subjects.
+We get a lot of questions, so here's what (we think) you should consider before contacting us:
+
+* Ensure that you have searched our docs, forum, and guild; it could've already been mentioned.
+* If it's a technical issue and you know how to fix it, make a suggestion instead.
+* For issues outside of our services (such as game crashes or web problems), consult an external source.
+
+If none of these seem to help, we're here for you.
+As mentioned previously, there are a few options at your arsenal to summon the support mob.
 
 ### Platform support
 To receive support from the forum, all you need to do is make sure that you have a forum account—then ask a question on the forum paired with the ‘support’ tag.
@@ -22,8 +30,13 @@ It's also possible to directly message an Executive using Discord if you prefer 
 Be respectful and don't annoy admins, they can block you.
 
 ### Direct support
+If you need the best of the best, we have official channels for Executive support.
+When given the right information, our Executives can modify accounts and make changes to our resources.
+
+ * :envelope: `help@shadow.ga` - For general questions and account changes.
+ * :envelope: `urgent@shadow.ga` - For really important stuff. Please don't abuse this!
+
 If you need direct help from the server owner, you can contact `@irix#5973` through Discord.
-Direct support is also provided through our `webmaster@mg.shadow.ga` e-mail address.
 Please don't use in-game messaging (`/msg` or `/whisper`) to send confidential information as it can be read by admins.
 
 ## Website and forum
