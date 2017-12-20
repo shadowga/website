@@ -33,8 +33,8 @@ Be respectful and don't annoy admins, they can block you.
 If you need the best of the best, we have official channels for Executive support.
 When given the right information, our Executives can modify accounts and make changes to our resources.
 
- * :envelope: `help@shadow.ga` - For general questions and account changes.
- * :envelope: `urgent@shadow.ga` - For really important stuff. Please don't abuse this!
+ * ✉️ `help@shadow.ga` - For general questions and account changes.
+ * ✉️ `urgent@shadow.ga` - For really important stuff. Please don't abuse this!
 
 If you need direct help from the server owner, you can contact `@irix#5973` through Discord.
 Please don't use in-game messaging (`/msg` or `/whisper`) to send confidential information as it can be read by admins.
