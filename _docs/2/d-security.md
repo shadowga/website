@@ -69,7 +69,7 @@ We won't ever ask for personal information in any way, whether that be through m
 
 Hiding your location with an alternative IP (address) is also easy; we recommend [TunnelBear](https://www.tunnelbear.com/) as a simple VPN (virtual private network) that's entirely supported by us.
 
-> **Note:** Keep in mind that we only use the `mg.shadow.ga` subdomain for e-mails—anything else is fake. If you receive a suspicious message bearing our name, [contact us](https://shadow.ga/docs/1/e-support/#direct-support) and we'll deal with it.
+> **Note:** Keep in mind that we only use the `mg.shadow.ga` subdomain for e-mails—anything else is fake. If you receive a suspicious message bearing our name, [contact us](https://shadow.ga/docs/1/d-support/#direct-support) and we'll deal with it.
 
 ## Discord account
 Everything said above also applies to the guild and your Discord account.
