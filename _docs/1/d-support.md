@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: e. Support
-permalink: /docs/1/e-support/
+title: d. Support
+permalink: /docs/1/d-support/
 ---
 If you're in need of support, we provide several resources for getting help.
 Before considering any of these options we recommend you try troubleshooting the issue.
