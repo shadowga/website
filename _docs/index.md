@@ -104,7 +104,7 @@ Our [GitHub](/github/) organization is great for the open-source development of 
 We'll often refer to our forum as the 'community' to keep things simple—a feature great for online collaboration and discourse.
 Getting started on the community is nice and simple, we don't ask for much; anyone can sign up through our database or GitHub—but please [enable](https://shadow.ga/docs/2/d-security/#activating-two-factor-login) two-factor auth.
 
-> **Note:** Account deletions can only be performed by an Executive or higher due to the action's severity. If you'd like your account deleted, please [contact us](https://shadow.ga/docs/1/e-support/#direct-support).
+> **Note:** Account deletions can only be performed by an Executive or higher due to the action's severity. If you'd like your account deleted, please [contact us](https://shadow.ga/docs/1/d-support/#direct-support).
 
 Discussions are thread-like posts that (when made) will show up on the community's front page.
 When a discussion is getting a lot of replies, it'll stay on the front for everyone to see.
