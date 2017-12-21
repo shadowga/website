@@ -87,10 +87,6 @@ Any art using the brand can be sent to us for approval.
 There are many ways to contribute to the server; including architecture, development, and innovation.
 Contributing is a great way to assist not just the server, but our community as a whole.
 
-### Propose and reveal
-As an open-source server with operations public to everyone, we try to make revealing issues and proposing suggestions fairly easy.
-For this reason we have the community, allowing members to share their take on an idea.
-
 ### Issues and suggestions
 An issue is an unintentional fault, exploit, or bug that shouldn't be there.
 Issues can vary from problems with features to obvious errors in our provided services.
@@ -100,7 +96,7 @@ A suggestion can be a feature or change you'd like to see implemented.
 You can even propose small changes; like something grammatical or cosmetic.
 Don't be afraid to propose what you have in mind, we won't discriminate.
 
-### Taking action
+#### Taking action
 To get started, you can create a discussion on our forum.
 If your discussion is about an issue, please use the 'development' tag paired with a sub-tag (server, forum, or resource pack).
 If it's about a suggestion, use the 'suggestions' tag instead.
