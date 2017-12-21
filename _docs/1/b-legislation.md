@@ -77,10 +77,10 @@ Reporting a member in-game is very simple and requires no additional information
 Online reports will ask the name of whoever's in question, what they did, and why you think they did it.
 Reporting helps administrators improve their activity and effectively handle the situation.
 
-> **Note:** If you're filing an admin report, please make note of it on the form. If you're reporting an Executive, please [directly contact](https://shadow.ga/docs/1/e-support/#direct-support) the server owner instead.
+> **Note:** If you're filing an admin report, please make note of it on the form. If you're reporting an Executive, please [directly contact](https://shadow.ga/docs/1/d-support/#direct-support) the server owner instead.
 
 You can file a report through the form [here](https://shadowga.typeform.com/to/On3kVf).
-It'll be read and we'll assign someone to deal with the problem; if nothing happens, [let us know](https://shadow.ga/docs/1/e-support/#direct-support).
+It'll be read and we'll assign someone to deal with the problem; if nothing happens, [let us know](https://shadow.ga/docs/1/d-support/#direct-support).
 
 ## Suspension
 The status of being suspended can be given to any member that breaks the rules to a point where banning them is ineffective.
