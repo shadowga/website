@@ -83,26 +83,22 @@ We have a press kit you can [download](https://shadow.ga/img/presskit.zip) for a
 If you're looking for something that isn't included in the press kit, you can send us a message and we'll do our best to get it for you.
 Any art using the brand can be sent to us for approval.
 
-## Propose and reveal
+## Contributing
+There are many ways to contribute to the server; including architecture, development, and innovation.
+Contributing is a great way to assist not just the server, but our community as a whole.
+
+### Propose and reveal
 As an open-source server with operations public to everyone, we try to make revealing issues and proposing suggestions fairly easy.
 For this reason we have the community, allowing members to share their take on an idea.
 
-### Issues
+### Issues and suggestions
 An issue is an unintentional fault, exploit, or bug that shouldn't be there.
-This isn't the same as a suggestion because you aren't proposing a feature.
 Issues can vary from problems with features to obvious errors in our provided services.
-
-If you see an issue, you shouldn't leave it alone!
-Getting bugs squashed is very important to the overall stability of our server and forum.
 It's best to file a report when you find one, and try to provide additional information.
 
-### Suggestions
 A suggestion can be a feature or change you'd like to see implemented.
 You can even propose small changes; like something grammatical or cosmetic.
-We encourage members to improve our documentation with suggestions as well.
-
 Don't be afraid to propose what you have in mind, we won't discriminate.
-Listening to the people is important to us; new and exciting features are often the result of a good suggestion.
 
 ### Taking action
 To get started, you can create a discussion on our forum.
@@ -114,7 +110,18 @@ If it's about a suggestion, use the 'suggestions' tag instead.
 After your post is voted on by our administrator team, a verdict can be reached by an Executive or above.
 Here's some tips for constructing a good post with all the facts:
 
-* Make sure you're original and check for identical discussions.
+* Maintain originality and prevent identical discussions.
 * Give a clear description of the problem or what you want to suggest.
-* Ensure that the problem is reproducible if you're revealing an issue.
-* Describe how your proposal would benefit us if you're proposing something.
+* Be descriptive; if it's a problem, make sure it can be reproduced.
+
+### Donating
+Although our server is a non-profit organisation, donating to the server helps our community thrive and pays the bills.
+Receiving (optional) donations helps soften the financial difficulty of keeping our community operational.
+
+#### How to donate
+Members can donate any amount they want (no matter how small) and pay using an account or with a credit card.
+You can donate to us through the PayPal service [here](https://paypal.me/shadowga).
+
+#### After donating
+Donations are processed manually and it usually takes us a few hours to check them.
+If you haven't received your role yet, contact the server owner with your transaction ID (from an account or confirmation message) and we'll get you fixed up.
