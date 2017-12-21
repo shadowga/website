@@ -16,18 +16,19 @@ We get a lot of questions, so here's what (we think) you should consider before 
 
 * Ensure that you have searched our docs, forum, and guild; it could've already been mentioned.
 * If it's a technical issue and you know how to fix it, make a suggestion instead.
-* For issues outside of our services (such as game crashes or web problems), consult an external source.
+* For issues outside of our services (such as game crashes, web problems), consult another source.
 
-If none of these seem to help, we're here for you.
-As mentioned previously, there are a few options at your arsenal to summon the support mob.
+If none of these seem to work, we're here for you.
+As mentioned previously, there are a few options at your arsenal to summon support.
 
 ### Platform support
 To receive support from the forum, all you need to do is make sure that you have a forum account—then ask a question on the forum paired with the ‘support’ tag.
-An administrator will make an attempt to assist you as soon as possible.
+We'll answer you as soon as possible.
 
-For guild-sourced support, you can get help through our guild's [#developer-chat](https://discord.gg/3fFF2V2).
+For guild-sourced support, you can get help through our guild's [#developer-chat](https://shadow.ga/docs/#channels).
 It's also possible to directly message an Executive using Discord if you prefer talking privately.
-Be respectful and don't annoy admins, they can block you.
+
+> **Tip:** A list of our administrator's (and Executive's) contact information can be found [here](https://f.shadow.ga/d/5-list-of-administrators-12-2017)—the list of admins.
 
 ### Direct support
 If you need the best of the best, we have official channels for Executive support.
