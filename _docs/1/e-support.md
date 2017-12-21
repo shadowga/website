@@ -28,7 +28,7 @@ We'll answer you as soon as possible.
 For guild-sourced support, you can get help through our guild's [#developer-chat](https://shadow.ga/docs/#channels).
 It's also possible to directly message an Executive using Discord if you prefer talking privately.
 
-> **Tip:** A list of our administrator's (and Executive's) contact information can be found [here](https://f.shadow.ga/d/5-list-of-administrators-12-2017)—the list of admins.
+> **Tip:** A list of our administrator's (and Executive's) contact information can be found [here](https://f.shadow.ga/d/5-list-of-administrators-12-2017)—the list of admins. Alternatively, [just ask them](https://shadow.ga/docs/#connection).
 
 ### Direct support
 If you need the best of the best, we have official channels for Executive support.
