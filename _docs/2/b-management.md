@@ -126,7 +126,7 @@ They're given labels for identification.
  * `/protectarea` - Provides a list of functions when ran without arguments.
  
 #### Command usage
- * `/protectarea add <label> <radius>` - Creates a protected area with label. Highest radius is fifty.
+ * `/protectarea add <label> <radius>` - Creates a protected area with label. Max radius is fifty.
  * `/protectarea remove <label>` - Removes a protected area.
  * `/protectarea list` - Lists all protected areas by their label names.
  
