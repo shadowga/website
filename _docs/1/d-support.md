@@ -114,7 +114,6 @@ Here's some tips for constructing a good post with all the facts:
 Although our server is a non-profit organisation, donating to the server helps our community thrive and pays the bills.
 Receiving (optional) donations helps soften the financial difficulty of keeping our community operational.
 
-#### How to donate
 Members can donate any amount they want (no matter how small) and pay using an account or with a credit card.
 You can donate to us through the PayPal service [here](https://paypal.me/shadowga).
 
