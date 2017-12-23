@@ -91,6 +91,8 @@ We provide a quick and easy way to file a ban appeal; you can appeal a ban if at
 * You have been framed by another member, were range banned, or unreasonably banned.
 * An administrator has told you to file an appeal.
 
+> **Note:** Suspended members cannot file an appeal; appeals made by those suspended will be denied. All of our suspended members can be viewed on the [roster](https://f.shadow.ga/d/77-suspensions-roster-11-2017).
+
 ### Filing an appeal
 You may not appeal a temporary ban if you have been banned for the same reason over two times in a row.
 If your ban message does not state that the ban was temporary, you may be suspended. You cannot appeal a suspension.
