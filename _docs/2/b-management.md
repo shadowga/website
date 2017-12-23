@@ -121,6 +121,8 @@ Natural damage such as explosions are not logged and the logs will wipe under a 
 Administrators can protect land, however operators won't be able to modify that protected land afterwards.
 They're given labels for identification.
 
+> **Note:** WorldEdit and other tools can still bypass this filter, so you'll still need to administrate; although protected land will not interfere with any CoreProtect services.
+
  * `/protectarea` - Provides a list of functions when ran without arguments.
  
 #### Command usage
