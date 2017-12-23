@@ -117,6 +117,21 @@ The logstick serves as a crude backup and logs block placements and deletions, b
 After obtaining a wooden stick as an administrator, you can click any block and view logs.
 Natural damage such as explosions are not logged and the logs will wipe under a server restart.
 
+### Protecting land
+Administrators can protect land, however operators won't be able to modify that protected land afterwards.
+They're given labels for identification.
+
+ * `/protectarea` - Provides a list of functions when ran without arguments.
+ 
+#### Command usage
+ * `/protectarea add <label> <radius>` - Creates a protected area with label. Highest radius is fifty.
+ * `/protectarea remove <label>` - Removes a protected area.
+ * `/protectarea list` - Lists all protected areas by their label names.
+ 
+> **Note:** Similar to schematic names, a protected area created with an identical label will overwrite the pre-existing area. Because of this, use unique label names.
+
+ * `/protectarea clear` - Clears all protected areas; console-only function.
+
 ## Wiping the flatlands
 While the flatlands are usually wiped on a monthly basis, Telnet Administrators and above are given the ability to wipe the main world in case of corruption or heavy lag.
 This command is only intended for emergency situations where the issue cannot be detected or the server is becoming unresponsive.
