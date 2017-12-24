@@ -12,7 +12,7 @@ Knowing our various ranks allows members to identify and communicate with admini
 
 ---
 
-<div style="text-align:center"><img src="https://shadow.ga/img/svg/admins.svg"></div>
+<div style="text-align:center; margin-top=15px"><img src="https://shadow.ga/img/svg/admins.svg"></div>
 
 ---
 
