@@ -63,7 +63,7 @@ The red flame shouldn't be warped, disfigured, or recoloured when used in associ
 
 ---
 
-<div style="text-align:center"><img src="https://shadow.ga/img/logo-small.svg"></div>
+<div style="text-align: center; margin-top: 15px;"><img src="https://shadow.ga/img/logo-small.svg"></div>
 
 ---
 
@@ -98,8 +98,8 @@ Don't be afraid to propose what you have in mind, we won't discriminate.
 
 #### Taking action
 To get started, you can create a discussion on our forum.
-If your discussion is about an issue, please use the 'development' tag paired with a sub-tag (server, forum, or resource pack).
-If it's about a suggestion, use the 'suggestions' tag instead.
+If your discussion is about an issue, please use the [development](https://f.shadow.ga/t/dev) tag paired with a sub-tag ([server](https://f.shadow.ga/t/dev-server), [forum](https://f.shadow.ga/t/dev-forum), or [resource pack](https://f.shadow.ga/t/dev-rp)).
+If it's about a suggestion, use the [suggestions](https://f.shadow.ga/t/sugg) tag instead.
 
 > **Note:** Since this is a fairly democratic process, we need some replies before closing the discussion—this may take a while. Patience is key.
 
