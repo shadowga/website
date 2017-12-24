@@ -10,7 +10,11 @@ Some admins manage more than others depending on their ability; a ranking system
 Having a hierarchy of ranks is a great way of classifying our community, although the two should not be confused as they carry important differences.
 Knowing our various ranks allows members to identify and communicate with administrators easily.
 
+---
+
 <div style="text-align:center"><img src="https://shadow.ga/img/svg/admins.svg"></div>
+
+---
 
 ### Super Admins
 Super Admins are the basic administrators. They are given banning and smiting abilities, and full access to grief logging plugins. Super Admins are allowed to use some commands that are blocked for operators such as `/tpo` and `/say`.
