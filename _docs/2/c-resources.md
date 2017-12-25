@@ -34,15 +34,6 @@ The schematic [uploader](http://b.shadow.ga:27579/schematic/list) can only be us
 This interface allows you to directly upload a file from your computer.
 Files with a size above sixty-four kilobytes will not upload; abuse of this feature is prohibited.
 
-### Archives and backups
-Preventing data loss is very important, so we take several measures to prevent that from happening.
-If we lose any data, backups of the server and website are handled by the server owner.
-[DigitalOcean](https://m.do.co/c/7438217b1bcd) handles our forum and other VPS-related backups.
-
-We periodicially update our archive [repository](https://git.io/v7PUB).
-Anyone can download public archives and they currently include our schematics and in-game worlds.
-If the repository gets too big, older releases may be deleted but we'll keep private copies of them.
-
 ## Telnet server
 Telnet Admins and higher can use the server's command-line interface for administrating without direct access to the game.
 Upon logging in through the telnet service, admins can send commands and view server statistics through a client.
