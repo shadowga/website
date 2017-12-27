@@ -20,7 +20,7 @@ These guidelines reflect the optimal behaviour practiced by example members.
 
  * **Don't harm others.** Respect the wishes of other people and their privacy without circumstance. If you think you're annoying someone, it's best to stay away from them and respect their intent. Destroying the builds of others, called griefing, isn't allowed.
 
-   Administrators are capable of rolling back any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intented to offend. Don't use hacks or exploits that can annoy others, such as potions or mobs.
+   Administrators are capable of rolling back any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intended to offend. Don't use hacks or exploits that can annoy others, such as potions or mobs.
 
  * **Don't be malicious.** Hacked clients are allowed, but they can't be harmful. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to malicious, pornographic, or hateful content in chat; and don't solicit illegality.
 
