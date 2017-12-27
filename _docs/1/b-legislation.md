@@ -42,7 +42,7 @@ These guidelines also apply to the guild and other resources.
 
    If you are going to make a post, compliment it with a good, meaningful sentence that is easy to understand and worth somebody's time reading. Always make sure the tags you add to your discussion are relevant; irrelevant tags will be removed.
 
- * **Don't hijack threads.** Thread hijacking is replying to an existing discussion on a seprate topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has tags.
+ * **Don't hijack threads.** Thread hijacking is replying to an existing discussion on a separate topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has tags.
 
    Only create discussions with a unique topic and always make sure somebody hasn't already discussed what you are posting. Don't use misleading information to catch the attention of our members. Advertising anywhere is prohibited.
 
