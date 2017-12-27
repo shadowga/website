@@ -42,7 +42,7 @@ These guidelines also apply to the guild and other resources.
 
    If you are going to make a post, compliment it with a good, meaningful sentence that is easy to understand and worth somebody's time reading. Always make sure the tags you add to your discussion are relevant; irrelevant tags will be removed.
 
- * **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has tags.
+ * **Don't hijack threads.** Thread hijacking is replying to an existing discussion on a separate topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has tags.
 
    Only create discussions with a unique topic and always make sure somebody hasn't already discussed what you are posting. Don't use misleading information to catch the attention of our members. Advertising anywhere is prohibited.
 
@@ -62,7 +62,7 @@ Other members that have visibly broken the guidelines can be reported.
 There are different ways to report a member; one may be quicker for you than the other.
 
 ### In-game reports
-Reporting a member in-game is very simple and requires no additional information than the name of who you're reporting; but you should still be careful with the tool and know what you're doing before filing a report.
+Reporting a member in-game is very simple and requires no additional information than the name of who you're reporting but you should still be careful with the tool and know what you're doing before filing a report.
 
  * `/help` - Provides a quick link to the guidelines (this page); helpful for new members.
  * `/report` - Reports a specified user and relays the message to administrators.
