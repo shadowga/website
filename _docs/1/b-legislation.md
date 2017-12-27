@@ -16,7 +16,7 @@ These guidelines reflect the optimal behaviour practiced by example members.
 
  * **Don't harm the server.** Refrain from deliberately lagging or crashing the server. While we have plugins to prevent downtime, massive edits should only be performed with the permission of an administrator. Exploiting said plugins is forbidden.
 
-   Lag machines will be removed and don't corrupt the game by using exploits such as chests and other various blocks. Flooding the chat with messages using text, commands, or hacks aren't allowed; spambots will be banned. Advertising isn't allowed in the main chat.
+   Lag machines will be removed and don't corrupt the game by using exploits such as chests and other various blocks. Flooding the chat with messages using text, commands, or hacks isn't allowed; spambots will be banned. Advertising isn't allowed in the main chat.
 
  * **Don't harm others.** Respect the wishes of other people and their privacy without circumstance. If you think you're annoying someone, it's best to stay away from them and respect their intent. Destroying the builds of others, called griefing, isn't allowed.
 
