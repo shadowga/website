@@ -16,11 +16,11 @@ These guidelines reflect the optimal behaviour practiced by example members.
 
  * **Don't harm the server.** Refrain from deliberately lagging or crashing the server. While we have plugins to prevent downtime, massive edits should only be performed with the permission of an administrator. Exploiting said plugins is forbidden.
 
-   Lag machines will be removed and don't corrupt the game by using exploits such as chests and other various blocks. Flooding the chat with messages using text, commands, or hacks isn't allowed; spambots will be banned. Advertising isn't allowed in the main chat.
+   Lag machines will be removed and don't corrupt the game by using exploits such as chests and other various blocks. Flooding the chat with messages using text, commands, or hacks aren't allowed; spambots will be banned. Advertising isn't allowed in the main chat.
 
  * **Don't harm others.** Respect the wishes of other people and their privacy without circumstance. If you think you're annoying someone, it's best to stay away from them and respect their intent. Destroying the builds of others, called griefing, isn't allowed.
 
-   Administrators are capable of rolling back any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intented to offend. Don't use hacks or exploits that can annoy others, such as potions or mobs.
+   Administrators are capable of rolling back any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intended to offend. Don't use hacks or exploits that can annoy others, such as potions or mobs.
 
  * **Don't be malicious.** Hacked clients are allowed, but they can't be harmful. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to malicious, pornographic, or hateful content in chat; and don't solicit illegality.
 
@@ -42,7 +42,7 @@ These guidelines also apply to the guild and other resources.
 
    If you are going to make a post, compliment it with a good, meaningful sentence that is easy to understand and worth somebody's time reading. Always make sure the tags you add to your discussion are relevant; irrelevant tags will be removed.
 
- * **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has tags.
+ * **Don't hijack threads.** Thread hijacking is replying to an existing discussion on a seprate topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has tags.
 
    Only create discussions with a unique topic and always make sure somebody hasn't already discussed what you are posting. Don't use misleading information to catch the attention of our members. Advertising anywhere is prohibited.
 
@@ -62,7 +62,7 @@ Other members that have visibly broken the guidelines can be reported.
 There are different ways to report a member; one may be quicker for you than the other.
 
 ### In-game reports
-Reporting a member in-game is very simple and requires no additional information than the name of who you're reporting; but you should still be careful with the tool and know what you're doing before filing a report.
+Reporting a member in-game is very simple and requires no additional information than the name of who you're reporting but you should still be careful with the tool and know what you're doing before filing a report.
 
  * `/help` - Provides a quick link to the guidelines (this page); helpful for new members.
  * `/report` - Reports a specified user and relays the message to administrators.
