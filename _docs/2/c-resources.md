@@ -30,7 +30,7 @@ New entries to the list can be uploaded with a page refresh.
 
 > **Note:** Don't download the schematics of other people without their permission. Administrators must be added in-game for some transfer features to work properly.
 
-The schematic [uploader](http://b.shadow.ga:27579/schematic/list) can only be used by administrators.
+The schematic [uploader](http://b.shadow.ga:27579/schematic/upload) can only be used by administrators.
 This interface allows you to directly upload a file from your computer.
 Files with a size above sixty-four kilobytes will not upload; abuse of this feature is prohibited.
 
