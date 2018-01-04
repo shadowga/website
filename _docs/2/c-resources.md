@@ -47,7 +47,6 @@ If you'd rather use something else, Windows has a built-in client you can [enabl
 
 After you have chose and installed a client, you must use the address and port `b.shadow.ga:26579` to connect.
 Keep in mind that the five-digit port can change over time, so check back with this page if it suddenly stops working.
-If you can't get another client to work, consult the software's publisher or developer.
 
 ### Telnet commands
 The telnet server provides some built-in commands that can manage the server and your connection.
