@@ -51,7 +51,7 @@ On occasion, an admin can invite someone as a "guest", allowing them to join the
 As mentioned above, guests can be invited to the adminworld by administrators.
 They can also be revoked and reset as specified by the `/adminworld` command.
 
-> **Note:** Guests, once added, are capable of modifying the adminworld (placing and breaking blocks) in-game. Because of this, admins should never add guests on demand and carefully watch added members.
+> **Note:** Guests, once added, are capable of modifying the adminworld (placing and breaking blocks) in-game. Because of this, admins should **never add guests on-demand** and carefully watch added members.
 
  * `/adminworld guest list` - Lists any members added to the guest list.
  * `/adminworld guest purge` - Purges the guest list, removing any added member.
