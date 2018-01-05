@@ -20,7 +20,7 @@ These guidelines reflect the optimal behaviour practiced by example members.
 
  * **Don't harm others.** Respect the wishes of other people and their privacy without circumstance. If you think you're annoying someone, it's best to stay away from them and respect their intent. Destroying the builds of others, called griefing, isn't allowed.
 
-   Administrators are capable of rolling back any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intended to offend. Don't use hacks or exploits that can annoy others, such as potions or mobs.
+   Administrators are capable of [rolling back](https://shadow.ga/docs/2/b-management/#rolling-back-a-member) any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intended to offend. Don't use hacks or exploits that can annoy others, such as potions or mobs.
 
  * **Don't be malicious.** Hacked clients are allowed, but they can't be harmful. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to malicious, pornographic, or hateful content in chat; and don't solicit illegality.
 
@@ -42,7 +42,7 @@ These guidelines also apply to the guild and other resources.
 
    If you are going to make a post, compliment it with a good, meaningful sentence that is easy to understand and worth somebody's time reading. Always make sure the tags you add to your discussion are relevant; irrelevant tags will be removed.
 
- * **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has tags.
+ * **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has [tags](https://f.shadow.ga/tags).
 
    Only create discussions with a unique topic and always make sure somebody hasn't already discussed what you are posting. Don't use misleading information to catch the attention of our members. Advertising anywhere is prohibited.
 
