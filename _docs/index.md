@@ -41,7 +41,7 @@ Besidies the chat, other forms of in-game communication can be utilised with a v
 We use the [Essentials](https://wiki.mc-ess.net) features library along with several other plugins.
 
  * `/me <text>` - Globally announces the specified text for all to see.
- * `/msg <user> <text>` - Privately messages the specified text to another member.
+ * `/msg <user> <text>` - Privately sends a message (`<text>`) to another member (`<user>`).
  * `/mail` - Serves as an in-game mailbox. Messages can be sent to other members.
  
 #### Mail usage
@@ -50,9 +50,9 @@ Keep in mind that all messages must comply with our guidelines or they'll be rem
 
 > **Note:** Mailed messages, unlike `/msg`, can be sent to offline members—or members that aren't currently on the server during command execution. `/mail sendall` cannot be used by members.
 
- * `/mail send <to> <message>` - Mails a message to another member.
- * `/mail read` - Functions as an inbox; displays any and all messages sent to you.
- * `/mail clear` - Clears your inbox; deletes any and all messages sent to you.
+ * `/mail send <user> <message>` - Mails a message to another member (`<user>`).
+ * `/mail read` - Functions as an inbox; displays all (if any) messages sent to you.
+ * `/mail clear` - Clears your inbox; deletes all (if any) messages sent to you.
 
 ### Economy
 With an economy, members are capable of making transactions for shop items and developing their own wealth.
@@ -144,7 +144,7 @@ The following positions can only be granted to administrators.
  
 ### Automation
 We use bots to emulate a personal assistant for every member.
-Bots have a wide variety of command and may cover customisation to specification.
+Bots have a wide variety of control and may cover customisation to specification.
 They can't be used in-game.
 
  * `/` - Triggers a pop-up menu listing the built-in commands of our Discord guild.
