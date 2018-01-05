@@ -22,11 +22,13 @@ Super Admins are the basic administrators. They are given banning and smiting ab
 #### Rank management
 Telnets and above can add members to administrator through any console; Seniors and above are capable of adding and removing administrators, but they should do it legally.
 
+ * `/saconfig list` - Lists (already added) administrators by username.
+ * `/saconfig info <user>` - Provides additional information on an admin (`<user>`).
+
 > **Note:** Adding members that aren't listed on the admin [roster](https://f.shadow.ga/d/5-list-of-administrators-11-2017) is considered rogue activity. Administrators should learn this command before attempting to use it.
 
  * `/saconfig add <user>` - Adds a member to administrator, default appointment is Super Admin. For Telnets and above.
  * `/saconfig remove <user>` - Removes a member from administator. For Seniors and above.
- 
 
 ### Telnet Admins
 Telnet Admins are given the same commands as Super Admins except they can use [telnet](https://shadow.ga/docs/2/c-resources/#telnet-server). Our telnet server allows members with the rank to administrate even when they are not on Minecraft.
