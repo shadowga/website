@@ -4,17 +4,17 @@ title: c. Navigation
 permalink: /docs/1/c-navigation/
 ---
 We have different types of worlds so members may choose any environment they like.
-While every world shares the same set of guidelines, they can help distinguish the atmosphere and design of builds.
-Different worlds are also great for activities such as melee or architect competitions.
+While every world shares the same set of guidelines, they can help distinguish the atmosphere of builds.
 
 ## Switching worlds
 Worlds can be switched by any member.
 To do this, we have the command `/world`, which allows you to specify different types of worlds to visit.
-Most worlds have a custom alias command that teleports you there. Different types of worlds can be accessed by different types of members.
+Most to-world commands will have an alias, listed below.
 
 ### Default world
 The default world (flatlands) is where you spawn in upon death or as a new player.
 You can build anything anywhere in this world; it only wipes if the map gets too big, is corrupted, or has been ruined.
+
  * `/spawn` - Teleports a player to the spawn (in the flatlands).
  * `/flatlands` - Teleports a player to the flatlands.
 
@@ -22,11 +22,7 @@ You can build anything anywhere in this world; it only wipes if the map gets too
 Primary worlds (roughlands, netherlands, enderlands) are places you don't naturally spawn in, but can access using commands.
 These worlds will only wipe if they're corrupted and members can build here, just like the flatlands.
 
-The roughlands includes natural biomes—such as deserts, prairies, and jungles; rough areas are great for constructing landscapes or cities.
-The netherlands (or nether world) contains an endless set of red platforms, with fire and lakes of lava.
-
-The enderlands (or end world) is comprised of little to big islands made out of a light material, with several naturally-occuring platforms.
-This place is great for strategy puzzles, mazes, and machinery; you'll find a consistent pale black sky.
+The roughlands includes natural biomes—such as deserts, prairies, and jungles; the netherlands (or [nether world](https://minecraft.gamepedia.com/The_Nether)) and the enderlands (or [end world](https://minecraft.gamepedia.com/The_End)) are also maintained, including the distinctive features of each realm.
 
 #### Command usage
  * `/world <number>` - Teleports a player to the world they specify.
@@ -47,10 +43,23 @@ Here's each number and the world it corresponds to.
 ### Adminworld
 The adminworld is a private world that only Super Admins and above can go in.
 On occasion, an admin can invite someone as a "guest", allowing them to join the adminworld for a small amount of time until the server restarts.
-When operators are not invited as guests, they can't enter.
 
  * `/adminworld` - Teleports an administrator to the adminworld.
  * `/aw` - An alias of the previous command and serves the same function.
+ 
+#### Guest management
+As mentioned above, guests can be invited to the adminworld by administrators.
+They can also be revoked and reset as specified by the `/adminworld` command.
+
+> **Note:** The guest list cannot include administrators as they already have access to the adminworld, therefore purging the guest list will not remove admins. Only admins are able to manage guests.
+
+ * `/adminworld guest list` - Lists any members added to the guest list.
+ * `/adminworld guest purge` - Purges the guest list, removing any added member.
+
+You can directly add and remove members to/from the guest list with the below commands.
+
+ * `/adminworld guest add <user>` - Adds a member to the guest list.
+ * `/adminworld guest remove <user>` - Removes a member from the guest list.
 
 ## Location
 Our server uses the basic Essentials kit of commands.
