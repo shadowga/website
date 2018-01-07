@@ -142,6 +142,7 @@ These are called 'titles' because they carry no permissions (unlike ranks).
 
  * **Developer** - Provided to those who make code contribution to our [organisation](https://github.com/shadowga).
  * **Architect** - Awarded to the prolific builders of our in-game atmosphere.
+ * **Suspended** - Provided to users who have been permanently restricted from the server, forum or admin status.
  
 The following positions can only be granted to administrators.
 
