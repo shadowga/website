@@ -60,6 +60,7 @@ These branding rules can help members make their own contributions and allow oth
 #### Using the logo
 Our vector logo is an octicon, making it one of many free and open-source images.
 The red flame shouldn't be warped, disfigured, or recoloured when used in association with our server and forum.
+We have a press kit you can [download](https://shadow.ga/img/presskit.zip) for a sample of our logos, fonts, and colours.
 
 ---
 
@@ -77,11 +78,6 @@ Having a theme helps to keep everything clean around here.
 
 For highlights, we will use the same type of red but dark blues use `#3c5675` (hsl: `212,32,34` and rgb: `60,86,117`) while light blues use `#88a6c5` (hsl: `210,34,65` and rgb: `136,166,197`) instead.
 Black text isn't entirely black either, it's actually `#444444` (hsl: `0,0,26` and rgb: `68,68,68`).
-
-#### Press kit
-We have a press kit you can [download](https://shadow.ga/img/presskit.zip) for a sample of our logos, fonts, and colours.
-If you're looking for something that isn't included in the press kit, you can send us a message and we'll do our best to get it for you.
-Any art using the brand can be sent to us for approval.
 
 ## Contributing
 There are many ways to contribute to the server; including architecture, development, and innovation.
