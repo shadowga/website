@@ -58,7 +58,7 @@ To assure quality and consistency, we have some guidelines for the usage of our 
 These branding rules can help members make their own contributions and allow others to incorporate the design into their service.
 
 #### Using the logo
-Our vector logo is brought to you by the folks who made GitHub Octicons, a free and open-source set of icons.
+Our vector logo is an octicon, making it one of many free and open-source images.
 The red flame shouldn't be warped, disfigured, or recoloured when used in association with our server and forum.
 
 ---
