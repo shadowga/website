@@ -72,6 +72,10 @@ Warps are public and can be viewed by anyone, and they can also be overridden.
  * `/warps` - Provides a list of existing warps.
  * `/warp <warp>` - Allows you to... warp to a warp. (Sounds weird, right?)
  
+Warps can only be deleted by an Executive or higher through the control panel.
+
+ * `/delwarp <warp>` - Deletes an existing warp; console-only. Will not remove the build.
+ 
 ### Using homes
 Members can set their own home, which is just like a private warp.
 Homes won't appear in the public list of warps and they're good for referencing locations.
@@ -80,6 +84,7 @@ Homes won't appear in the public list of warps and they're good for referencing 
 
  * `/homes` - Provides a list of your homes.
  * `/home <home>` - Takes you home to a home. (Slightly less weird.)
+ * `/delhome <home` - Deletes an existing home. Will not remove the build.
  
 ### Teleportation
 Anyone can use basic commands if they'd like to teleport to other players, but we require their content.
