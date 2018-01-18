@@ -64,6 +64,12 @@ They shouldn't be prefixed with a slash (`/`) like conventional in-game commands
 * `telnet.log` - Toggles between three filters - all logs, only chat logs, and only non-chat logs.
 * `telnet.exit` - Terminates your connection to the telnet server.
 
+## Control panel
+Providing a similar service to Telnet, Executive administrators utilise the [Pterodactyl game management panel](https://pterodactyl.io/) to manage the state of the server or execute console-level commands. The control panel also offers a file-transfer option, to manage files running on the server.
+
+### Usage and access
+To access the panel, navigate to [c.shadow.ga](https://c.shadow.ga) and sign-in using the credientials given. Once signed-in, users should select "shadow.ga" in order to manage the server. 
+
 ## Cosmetics
 Several cosmetic plugins are installed to provide features that accompany building, texture, and overall experience.
 Many of these tools can have an extensive amount of functions, so mastering them may take some time.
