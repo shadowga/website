@@ -12,7 +12,7 @@ We provide operator permissions for anyone without hassle, an assortment of plug
 ### Connection
 It's easy to join the server.
 You can connect by typing the domain `shadow.ga` as a server address using the direct connect box or by adding us to your in-game list.
-Using a port isn't required but if you need one there's `25599`.
+Using a port isn't required but if you need one there's `25565`, the default.
 
  * `/status` - Displays the server's current state and loaded worlds.
  * `/memory` - Projects memory statistics, loaded worlds, and ticks per second (TPS).
