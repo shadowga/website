@@ -195,6 +195,6 @@ With Async disabled, edits will be performed without lag prevention.
  * `/awe toggle` - Disables or enables the AsyncWorldEdit service.
  
 #### Command usage
- * `/awe toggle` - Without any other arguments, toggles Async on/off depending on the current state.
+ * `/awe toggle` - Without any other arguments, toggles the service on or off.
  * `/awe toggle on` - Enables the Async service.
  * `/awe toggle off` - Disables the Async service.
