@@ -64,6 +64,14 @@ They shouldn't be prefixed with a slash (`/`) like conventional in-game commands
 * `telnet.log` - Toggles between three filters - all logs, only chat logs, and only non-chat logs.
 * `telnet.exit` - Terminates your connection to the telnet server.
 
+## Control panel
+Our in-game server is contained within the [pufferd](https://pufferd.pufferpanel.com/) daemon; Executives and higher are capable of total server management using the [PufferPanel](https://www.pufferpanel.com/docs/what-is-pufferpanel) software. This allows for actual file modification and deletion; while providing updated statistics.
+
+> **This is a stub.** Our control panel is currently work-in-progress, therefore some information may not be present right now.
+
+Executive Admins are given their own account, and [two-factor](https://shadow.ga/docs/2/d-security/#two-factor-authentication) is a necessity.
+Non-Executives may not create an account at this time.
+
 ## Cosmetics
 Several cosmetic plugins are installed to provide features that accompany building, texture, and overall experience.
 Many of these tools can have an extensive amount of functions, so mastering them may take some time.
