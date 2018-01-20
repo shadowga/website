@@ -5,7 +5,7 @@ permalink: /docs/
 ---
 We're a modern creative environment; we give members every command they need to powerfully build and enjoy our server without meeting any requirements.
 
-## Server
+## In-game server
 Our Minecraft server is what we're built around.
 We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
 
