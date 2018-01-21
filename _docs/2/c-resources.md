@@ -68,7 +68,7 @@ They shouldn't be prefixed with a slash (`/`) like conventional in-game commands
 Our in-game server is contained within the [pufferd](https://pufferd.pufferpanel.com/) daemon; Executives and higher are capable of total server management using the [PufferPanel](https://www.pufferpanel.com/docs/what-is-pufferpanel) software.
 This allows for actual file modification and deletion; while providing updated statistics.
 
-> **This is a stub.** Our control panel is currently work-in-progress, therefore some information may not be present right now.
+> **Upcoming:** We're in the process of expanding panel-related information, therefore some features may not be present (or documented) at the moment.
 
 The panel is located [here](http://p.shadow.ga/) (`p.shadow.ga`), however we are not accepting new (non-Executive) accounts at this time.
 Executive Admins are given their own account, and [two-factor](https://shadow.ga/docs/2/d-security/#two-factor-authentication) is a necessity.
