@@ -10,7 +10,7 @@ If a service hasn't been mentioned anywhere else in the documentation; it's list
 Our server for file uploads and downloads (HTTPD) can be used for quick access to certain in-game files.
 You can directly access the online file transfer server by manually entering an address and port (`b.shadow.ga:27579`) or through [this link](http://b.shadow.ga:27579).
 
-> **Note:** That address alone will produce an error because you aren't requesting anything yet. You'll need to get somewhere by navigating through the server.
+> **Note:** That address alone will produce an internal error because you aren't requesting anything yet. For nagivation links and instructions, please read on.
 
 ### Navigation
 Navigating through the server is fairly easy as each feature can be located using a trailing slash.
@@ -65,12 +65,13 @@ They shouldn't be prefixed with a slash (`/`) like conventional in-game commands
 * `telnet.exit` - Terminates your connection to the telnet server.
 
 ## Control panel
-Our in-game server is contained within the [pufferd](https://pufferd.pufferpanel.com/) daemon; Executives and higher are capable of total server management using the [PufferPanel](https://www.pufferpanel.com/docs/what-is-pufferpanel) software. This allows for actual file modification and deletion; while providing updated statistics.
+Our in-game server is contained within the [pufferd](https://pufferd.pufferpanel.com/) daemon; Executives and higher are capable of total server management using the [PufferPanel](https://www.pufferpanel.com/docs/what-is-pufferpanel) software.
+This allows for actual file modification and deletion; while providing updated statistics.
 
 > **This is a stub.** Our control panel is currently work-in-progress, therefore some information may not be present right now.
 
+The panel is located [here](http://p.shadow.ga/) (`p.shadow.ga`), however we are not accepting new (non-Executive) accounts at this time.
 Executive Admins are given their own account, and [two-factor](https://shadow.ga/docs/2/d-security/#two-factor-authentication) is a necessity.
-Non-Executives may not create an account at this time.
 
 ## Cosmetics
 Several cosmetic plugins are installed to provide features that accompany building, texture, and overall experience.
