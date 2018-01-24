@@ -129,6 +129,30 @@ They're stationary and operate vertically, making them more suitable for firepla
    <br>
    The `tgt` option will create an array where you're aiming; `std` will create an array where you're standing.
 
+### Alternate skins
+Members can use another username's skin (in-game appearance) and apply it to their character.
+Please don't use other (online) member's skins without their permission.
+
+ * `/skin help` - The default and longest command; lists options.
+ 
+#### Command usage
+Keep in mind that `<user>` is used to specify the username of the skin you're applying.
+To reapply your own skin, use your username as `<user>`; or clear it.
+
+ * `/skin set <user>` - Changes your skin, client relog is necessary to update.
+ * `/skin clear <user>` - Resets your skin (to yourself), relog is necessary.
+ 
+#### Admin tools
+Administrators can use advanced settings to clear and specify another user's currently-applied skin settings.
+
+ * `/skinsrestorer help` - The default and longest command, only admins can use it.
+ * `/sr help` - An alias of the default command, only admins can use it.
+
+Usage for this set of tools is described below.
+
+ * `/sr set <user1> <user>` - Functions like `/skin set`, but `<user1>` specifies a member.
+ * `/sr drop <user>` - Resets a user's skin, `<user>` specifies an online member.
+
 ### Spawning mobs
 Anyone can spawn mobs in using a set of commands.
 Spawning too many mobs can lag or crash the server; that can lead to a ban.
