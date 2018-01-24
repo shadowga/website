@@ -83,7 +83,7 @@ Black text isn't entirely black either, it's actually `#444444` (hsl: `0,0,26` a
 There are many ways to contribute to the server; including architecture, development, and innovation.
 Contributing is a great way to assist not just the server, but our community as a whole.
 
-### Filing in-game suggestions
+### In-game suggestions
 A suggestion is a feature or change you'd like to see implemented.
 As an alternative to contacting support (or an admin), members may file suggestions in-game.
 
