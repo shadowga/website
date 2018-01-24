@@ -83,16 +83,15 @@ Black text isn't entirely black either, it's actually `#444444` (hsl: `0,0,26` a
 There are many ways to contribute to the server; including architecture, development, and innovation.
 Contributing is a great way to assist not just the server, but our community as a whole.
 
-### Issues and suggestions
-An issue is an unintentional fault, exploit, or bug that shouldn't be there.
-Issues can vary from problems with features to obvious errors in our provided services.
-It's best to file a report when you find one, and try to provide additional information.
+### Filing in-game suggestions
+A suggestion is a feature or change you'd like to see implemented.
+As an alternative to contacting support (or an admin), members may file suggestions in-game.
 
-A suggestion can be a feature or change you'd like to see implemented.
-You can even propose small changes; like something grammatical or cosmetic.
-Don't be afraid to propose what you have in mind, we won't discriminate.
+ * `/suggest <text>` - Sends a message (hopefully a suggestion) to the server owner.
 
-#### Taking action
+This is a very basic messaging system; if you have an intricate suggestion, we recommend you file it, as shown below.
+
+### Reporting and filing
 To get started, you can create a discussion on our forum.
 If your discussion is about an issue, please use the [development](https://f.shadow.ga/t/dev) tag paired with a sub-tag ([server](https://f.shadow.ga/t/dev-server), [forum](https://f.shadow.ga/t/dev-forum), or [resource pack](https://f.shadow.ga/t/dev-rp)).
 If it's about a suggestion, use the [suggestions](https://f.shadow.ga/t/sugg) tag instead.
