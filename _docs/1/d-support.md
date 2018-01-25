@@ -16,7 +16,7 @@ We get a lot of questions, so here's what (we think) you should consider before 
 
 * Ensure that you have searched our docs, forum, and guild; it could've already been mentioned.
 * If it's a technical issue and you know how to fix it, make a suggestion instead.
-* For issues outside of our services (such as game crashes, web problems), consult another source.
+* Attempt to consult [community tutorials](https://f.shadow.ga/t/tut) or (if service-unrelated) external sources.
 
 If none of these seem to work, we're here for you.
 As mentioned previously, there are a few options at your arsenal to summon support.
