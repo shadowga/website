@@ -22,7 +22,7 @@ If none of these seem to work, we're here for you.
 As mentioned previously, there are a few options at your arsenal to summon support.
 
 ### Platform support
-To receive support from the forum, all you need to do is make sure that you have a forum account—then ask a question on the forum paired with the ‘support’ tag.
+To receive support from the forum, all you need to do is make sure that you have a forum account—then ask a question on the forum paired with the [support](https://f.shadow.ga/t/sup) tag (paired with a sub-tag).
 We'll answer you as soon as possible.
 
 For guild-sourced support, you can get help through our guild's [#developer-chat](https://shadow.ga/docs/#channels).
