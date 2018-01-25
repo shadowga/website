@@ -23,7 +23,6 @@ As mentioned previously, there are a few options at your arsenal to summon suppo
 
 ### Platform support
 To receive support from the forum, all you need to do is make sure that you have a forum account—then ask a question on the forum paired with the [support](https://f.shadow.ga/t/sup) tag (paired with a sub-tag).
-We'll answer you as soon as possible.
 
 For guild-sourced support, you can get help through our guild's [#developer-chat](https://shadow.ga/docs/#channels).
 It's also possible to directly message an Executive using Discord if you prefer talking privately.
