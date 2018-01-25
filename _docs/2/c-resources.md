@@ -186,7 +186,8 @@ Cosmetic features with narrow functionality are listed here.
 
 * `/chairs <on | off>` - Enables or disables client-side chairs; it's on by default.
 * `/firework <user>` - Ignites a firework at the specified member's location.
-* `/spawncorpse [user]` - Spawns a corpse at your location, your skin by default; if specified, can be the skin of another member.
+* `/spawncorpse [user]` - Spawns a corpse at your location, your skin by default; if specified, can be another's skin.
+* `/skull [user]` - Places a skull in your inventory, your skull by default; if specified, can be another's skull.
  
 Don't spawn too many corpses because they won't disppear soon.
 If a member is killed or dies for some other reason, their corpse will automatically spawn at that point.
