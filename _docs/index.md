@@ -112,7 +112,7 @@ You can talk about anything on the community, but we have tags for organisation;
 
 ## Guild
 The guild is our Discord server where anyone can talk to each other in real time.
-This service is great for sharing content, collaboration, and quick support; you can either join by clicking the 'guild' button on our navigation bar or through [this link](/guild/).
+This service is great for sharing content, collaboration, and quick support; anyone can [guild](/guild/) it, and it's linked to in the navigation bar.
 
 ### Channels
 Text channels are the focus of our guild, along with voice channels.
