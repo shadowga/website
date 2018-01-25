@@ -16,11 +16,11 @@ These guidelines reflect the optimal behaviour practiced by example members.
 
  * **Don't harm the server.** Refrain from deliberately lagging or crashing the server. While we have plugins to prevent downtime, massive edits should only be performed with the permission of an administrator. Exploiting said plugins is forbidden.
 
-   Lag machines will be removed and don't corrupt the game by using exploits such as chests and other various blocks. Flooding the chat with messages using text, commands, or hacks isn't allowed; spambots will be banned. Advertising isn't allowed in the main chat.
+   Lag machines will be removed; don't corrupt the game and be distanced from exploitation. Flooding the chat with messages using text, commands, or hacks isn't allowed; spambots will be banned. Advertising isn't allowed in the main chat.
 
  * **Don't harm others.** Respect the wishes of other people and their privacy without circumstance. If you think you're annoying someone, it's best to stay away from them and respect their intent. Destroying the builds of others, called griefing, isn't allowed.
 
-   Administrators are capable of [rolling back](https://shadow.ga/docs/2/b-management/#rolling-back-a-member) any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intended to offend. Don't use hacks or exploits that can annoy others, such as potions or mobs.
+   Administrators are capable of [rolling back](https://shadow.ga/docs/2/b-management/#rolling-back-a-member) any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intended to offend. Don't use features with the sole purpose of annoying other members.
 
  * **Don't be malicious.** Hacked clients are allowed, but they can't be harmful. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to malicious, pornographic, or hateful content in chat; and don't solicit illegality.
 
@@ -36,7 +36,7 @@ These guidelines also apply to the guild and other resources.
 
  * **Be respectful.** If someone is irritated, you're permitted to block other members; but don't block administrators. Inappropriate or offensive content on our forum and guild will be deleted and may result in a ban.
 
-   Discussions made for the purpose of ranting will be removed. Members should only dispute in categories intended for formal debate. Being an annoyance on any of our platforms is unacceptable and therefore equals termination.
+   Discussions made for the purpose of ranting will be removed. Members should only dispute in categories intended for formal debate. Being an annoyance on any of our platforms is unacceptable and warrants termination.
 
  * **Community etiquette.** Power-posting is usually defined as posting nonsensical messages or over-posting the same thing for no reason; don't do this. Instead, use the edit feature to make corrections when you can and don't make posts for short responses.
 
