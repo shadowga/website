@@ -11,7 +11,7 @@ Maybe you need a hand, and in that case, we can help you out.
 Our community has multiple layers of direct support if you're stumped on something.
 
 ### Before you ask
-Different portions of our team are primarily knowledgable at different subjects.
+Different portions of our team are primarily knowledgable in different subjects.
 We get a lot of questions, so here's what (we think) you should consider before contacting us:
 
 * Ensure that you have searched our docs, forum, and guild; it could've already been mentioned.
