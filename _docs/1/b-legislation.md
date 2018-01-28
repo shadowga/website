@@ -11,7 +11,7 @@ Guidelines give the community a direct and consistent set of rules.
 If you are caught violating the guidelines, an administrator can take the action they deem necessary—such as banning your account.
 
 ### General policy
-This potion of our rules focuses on in-game conduct and gameplay etiquette.
+This portion of our rules focuses on in-game conduct and gameplay etiquette.
 These guidelines reflect the optimal behaviour practiced by example members.
 
  * **Don't harm the server.** Refrain from deliberately lagging or crashing the server. While we have plugins to prevent downtime, massive edits should only be performed with the permission of an administrator. Exploiting said plugins is forbidden.
