@@ -104,6 +104,33 @@ Telnets can be appointed to the Senior rank using the same method. Unless they w
 
  * `/saconfig setrank <user> senior_admin` - Appoints an administrator to Senior Admin.
  * `/saconfig setrank <user> <telnet_admin | super_admin>` - Appoints an administrator back to Telnet or Super.
+ 
+---
+
+<div class="Team" style="padding: 0; margin-top: -20px; margin-bottom: -20px;">
+  <div class="Team-members">
+    <div class="Team-member">
+      <h3>
+        <a href="https://f.shadow.ga/u/untuned" target="_blank">
+          <img src="https://crafatar.com/renders/head/e628c2b00e1941d9bb9eaf604fcb159a?&amp;overlay" alt="oxlemonxo" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://f.shadow.ga/u/lightwarp" target="_blank">
+          <img src="https://crafatar.com/renders/head/9f0cadcf628d4e2085bde736799c3eb3?&amp;overlay" alt="amougies" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://f.shadow.ga/u/thehour" target="_blank">
+          <img src="https://crafatar.com/renders/head/ab3646ace2df418eafc45d95c6493218?&amp;overlay" alt="jwmphall" width="108"></a>
+      </h3>
+    </div>
+  </div>
+</div>
+
+---
 
 ### Executive Admins
 Executives are in charge of all lower positions; they have the ability to suspend administrators and market the service. You probably won't see these admins in-game as often because they also take care of platforms like the forum.
