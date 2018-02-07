@@ -20,6 +20,32 @@ Knowing our various ranks allows members to identify and communicate with admini
 ### Super Admins
 Super Admins are the basic administrators. They are given banning and smiting abilities, and full access to grief logging plugins. Super Admins are allowed to use some commands that are blocked for operators such as `/tpo` and `/say`.
 
+---
+
+<div class="Team">
+  <div class="Team-members">
+    <div class="Team-member">
+      <h3>
+        <a href="https://twitter.com/tobscure" target="_blank">
+          <img src="{{ site.baseurl }}/img/toby.png" alt="" width="108" height="108">
+          Toby Zerner
+        </a>
+      </h3>
+      <h4><a href="http://esotalk.org" target="_blank">esoTalk</a> Developer</h4>
+    </div>
+
+    <div class="Team-member">
+      <h3>
+        <a href="https://twitter.com/tobscure" target="_blank">
+          <img src="{{ site.baseurl }}/img/toby.png" alt="" width="108" height="108">
+          Toby Zerner
+        </a>
+      </h3>
+      <h4><a href="http://esotalk.org" target="_blank">esoTalk</a> Developer</h4>
+    </div>
+  </div>
+</div>
+
 #### Rank management
 Telnets and above can add members to administrator through any console; Seniors and above are capable of adding and removing administrators, but they should do it legally.
 
