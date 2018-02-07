@@ -36,7 +36,7 @@ Telnets and above can add members to administrator through any console; Seniors 
   <div class="Team-members">
     <div class="Team-member">
       <h3>
-        <a href="https://twitter.com/tobscure" target="_blank">
+        <a href="https://twitter.com/untunedmc" target="_blank">
           <img src="https://crafatar.com/renders/head/db8e5b84c67041f69a2b1ad9a8c7e104?&amp;overlay" alt="untuned" width="108"></a>
       </h3>
     </div>
@@ -66,6 +66,33 @@ When a member is officially listed for promotion, Seniors and above can set thei
  * `/saconfig setrank <user> telnet_admin` - Appoints an administrator to Telnet Admin.
  * `/saconfig setrank <user> super_admin` - Appoints an administrator back to Super Admin.
  * `/saconfig reload` - Reloads the administrator registry, don't run this too often.
+
+---
+
+<div class="Team" style="padding: 0; margin-top: -20px; margin-bottom: -20px;">
+  <div class="Team-members">
+    <div class="Team-member">
+      <h3>
+        <a href="https://twitter.com/tobscure" target="_blank">
+          <img src="https://crafatar.com/renders/head/19e65ceed1d0440bb8d5fbf14cb33050?&amp;overlay" alt="oiiiiiii" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://twitter.com/tobscure" target="_blank">
+          <img src="https://crafatar.com/renders/head/184cd1cc410d471a93a0e00ccebaed9b?&amp;overlay" alt="spqce" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://twitter.com/tobscure" target="_blank">
+          <img src="https://crafatar.com/renders/head/6ea8bbd124964389a12fa3e1fc74372c?&amp;overlay" alt="pramire" width="108"></a>
+      </h3>
+    </div>
+  </div>
+</div>
+
+---
 
 ### Senior Admins
 Senior Admins have all the abilities as the above ranks. They're also given extra commands that are blocked to lower ranks; like `/summon` and `/socialspy`. The Senior Admin rank is also required for non-applicable ranks, such as Executive and Developer.
