@@ -33,7 +33,6 @@ Super Admins are the basic administrators. They are given banning and smiting ab
       </h3>
       <h4><a href="http://esotalk.org" target="_blank">esoTalk</a> Developer</h4>
     </div>
-
     <div class="Team-member">
       <h3>
         <a href="https://twitter.com/tobscure" target="_blank">
