@@ -20,14 +20,19 @@ Knowing our various ranks allows members to identify and communicate with admini
 ### Super Admins
 Super Admins are the basic administrators. They are given banning and smiting abilities, and full access to grief logging plugins. Super Admins are allowed to use some commands that are blocked for operators such as `/tpo` and `/say`.
 
-<div class="Team">
+<div class="Team" style="padding: 0;">
   <div class="Team-members" style="margin-top: -20px;">
     <div class="Team-member">
       <h3>
         <a href="https://twitter.com/tobscure" target="_blank">
-          <img src="https://crafatar.com/renders/head/irix?&amp;overlay" alt="" width="108"></a>
+          <img src="https://crafatar.com/renders/head/untuned?&amp;overlay" alt="" width="108"></a>
       </h3>
-      <h4 style="font-size: 16px; color: #7E96B3;">@irix#5973</h4>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://twitter.com/tobscure" target="_blank">
+          <img src="https://crafatar.com/renders/head/LightWarp?&amp;overlay" alt="" width="108"></a>
+      </h3>
     </div>
   </div>
 </div>
