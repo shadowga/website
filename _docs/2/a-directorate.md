@@ -30,7 +30,9 @@ Telnets and above can add members to administrator through any console; Seniors 
  * `/saconfig add <user>` - Adds a member to administrator, default appointment is Super Admin. For Telnets and above.
  * `/saconfig remove <user>` - Removes a member from administator. For Seniors and above.
 
-<div class="Team" style="padding: 0; margin-top: -20px;">
+---
+
+<div class="Team" style="padding: 0; margin-top: -20px; margin-bottom: -20px;">
   <div class="Team-members">
     <div class="Team-member">
       <h3>
@@ -52,6 +54,8 @@ Telnets and above can add members to administrator through any console; Seniors 
     </div>
   </div>
 </div>
+
+---
 
 ### Telnet Admins
 Telnet Admins are given the same commands as Super Admins except they can use [telnet](https://shadow.ga/docs/2/c-resources/#telnet-server). Our telnet server allows members with the rank to administrate even when they are not on Minecraft.
