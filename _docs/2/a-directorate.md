@@ -111,19 +111,19 @@ Telnets can be appointed to the Senior rank using the same method. Unless they w
   <div class="Team-members">
     <div class="Team-member">
       <h3>
-        <a href="https://f.shadow.ga/u/untuned" target="_blank">
+        <a href="https://f.shadow.ga/u/oxlemonxo" target="_blank">
           <img src="https://crafatar.com/renders/head/e628c2b00e1941d9bb9eaf604fcb159a?&amp;overlay" alt="oxlemonxo" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
-        <a href="https://f.shadow.ga/u/lightwarp" target="_blank">
+        <a href="https://f.shadow.ga/u/shamrock" target="_blank">
           <img src="https://crafatar.com/renders/head/9f0cadcf628d4e2085bde736799c3eb3?&amp;overlay" alt="amougies" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
-        <a href="https://f.shadow.ga/u/thehour" target="_blank">
+        <a href="https://f.shadow.ga/u/jwmphall" target="_blank">
           <img src="https://crafatar.com/renders/head/ab3646ace2df418eafc45d95c6493218?&amp;overlay" alt="jwmphall" width="108"></a>
       </h3>
     </div>
