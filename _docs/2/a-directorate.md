@@ -25,13 +25,19 @@ Super Admins are the basic administrators. They are given banning and smiting ab
     <div class="Team-member">
       <h3>
         <a href="https://twitter.com/tobscure" target="_blank">
-          <img src="https://crafatar.com/renders/head/untuned?&amp;overlay" alt="" width="108"></a>
+          <img src="https://crafatar.com/renders/head/db8e5b84c67041f69a2b1ad9a8c7e104?&amp;overlay" alt="untuned" width="108"></a>
       </h3>
     </div>
     <div class="Team-member">
       <h3>
         <a href="https://twitter.com/tobscure" target="_blank">
-          <img src="https://crafatar.com/renders/head/LightWarp?&amp;overlay" alt="" width="108"></a>
+          <img src="https://crafatar.com/renders/head/2a9f4eb4996342ffb9d3b743dc4d2485?&amp;overlay" alt="lightwarp" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://twitter.com/tobscure" target="_blank">
+          <img src="https://crafatar.com/renders/head/ced197edb77a4f71aee2a2b5bc4f5b37?&amp;overlay" alt="thehour" width="108"></a>
       </h3>
     </div>
   </div>
