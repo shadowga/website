@@ -20,8 +20,6 @@ Knowing our various ranks allows members to identify and communicate with admini
 ### Super Admins
 Super Admins are the basic administrators. They are given banning and smiting abilities, and full access to grief logging plugins. Super Admins are allowed to use some commands that are blocked for operators such as `/tpo` and `/say`.
 
----
-
 <div class="Team">
   <div class="Team-members" style="margin-top: -20px;">
     <div class="Team-member">
