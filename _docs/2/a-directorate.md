@@ -23,24 +23,13 @@ Super Admins are the basic administrators. They are given banning and smiting ab
 ---
 
 <div class="Team">
-  <div class="Team-members">
+  <div class="Team-members" style="margin-top: -20px;">
     <div class="Team-member">
       <h3>
         <a href="https://twitter.com/tobscure" target="_blank">
-          <img src="{{ site.baseurl }}/img/toby.png" alt="" width="108" height="108">
-          Toby Zerner
-        </a>
+          <img src="https://crafatar.com/renders/head/irix?&amp;overlay" alt="" width="108"></a>
       </h3>
-      <h4><a href="http://esotalk.org" target="_blank">esoTalk</a> Developer</h4>
-    </div>
-    <div class="Team-member">
-      <h3>
-        <a href="https://twitter.com/tobscure" target="_blank">
-          <img src="{{ site.baseurl }}/img/toby.png" alt="" width="108" height="108">
-          Toby Zerner
-        </a>
-      </h3>
-      <h4><a href="http://esotalk.org" target="_blank">esoTalk</a> Developer</h4>
+      <h4 style="font-size: 16px; color: #7E96B3;">@irix#5973</h4>
     </div>
   </div>
 </div>
