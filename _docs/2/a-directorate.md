@@ -1,6 +1,5 @@
 ---
 layout: docs
-class: home
 title: a. Directorate
 permalink: /docs/2/a-directorate/
 ---
