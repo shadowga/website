@@ -135,6 +135,40 @@ Telnets can be appointed to the Senior rank using the same method. Unless they w
 ### Executive Admins
 Executives are in charge of all lower positions; they have the ability to suspend administrators and market the service. You probably won't see these admins in-game as often because they also take care of platforms like the forum.
 
+#### In-game identification
+Administrators with an Executive position are permitted to identify their status using a custom login (msg). While non-Executives are still capable of using custom login messages, Executives can automatically include their position.
+
+ * `/exectitle` - Applies an Executive login message.
+
+Keep in mind that misrepresenting your position or authority is considered to be administrator abuse. Non-Executives shouldn't include the Executive position in their login message.
+
+---
+
+<div class="Team" style="padding: 0; margin-top: -20px; margin-bottom: -20px;">
+  <div class="Team-members">
+    <div class="Team-member">
+      <h3>
+        <a href="https://f.shadow.ga/u/robingall2910" target="_blank">
+          <img src="https://crafatar.com/renders/head/8867d29697e94af6bf84e87cb3df5eba?&amp;overlay" alt="robingall2910" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://f.shadow.ga/u/riley" target="_blank">
+          <img src="https://crafatar.com/renders/head/eca5074c25da49bd8a8529ce598ccdf4?&amp;overlay" alt="riley" width="108"></a>
+      </h3>
+    </div>
+    <div class="Team-member">
+      <h3>
+        <a href="https://f.shadow.ga/u/cat" target="_blank">
+          <img src="https://crafatar.com/renders/head/f81c3a74021e449e92af855d011bc82d?&amp;overlay" alt="cat" width="108"></a>
+      </h3>
+    </div>
+  </div>
+</div>
+
+---
+
 ## Appointment
 We always keep an eye out for potential administrators as the server grows.
 While there are different ranks of admin, they all have one thing in common and that is to be reliable and helpful.
