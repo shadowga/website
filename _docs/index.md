@@ -11,7 +11,7 @@ We provide operator permissions for anyone without hassle, an assortment of plug
 
 ### Connection
 It's easy to join the server.
-You can connect by typing the domain `shadow.ga` (SRV, default) or `a.shadow.ga` (A) as a server address using the direct connect box; or by adding us to your in-game list.
+You can connect using the domain `shadow.ga` (SRV, default) or `a.shadow.ga` (A) as a server address using the direct connect box; or by adding us to your in-game list.
 Using a port isn't required but if you need one there's `25565`.
 
  * `/status` - Displays the server's current state and loaded worlds.
