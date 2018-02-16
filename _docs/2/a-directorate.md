@@ -180,7 +180,7 @@ From here, admins can update information on-the-fly and make vital changes to th
  * `/myadmin [-o <admin>]` - Provides a list of functions. We discourage usage of `[-o]`, a member-emulation ([sudo](https://en.wikipedia.org/wiki/Sudo)) option.
  
 #### Command usage
-> **Note:** Keep in mind that running arguments involving [IP addresses](https://en.wikipedia.org/wiki/IP_address) can cause damage to a member's account, if used improperly. Always proofread sensitive commands before executing them.
+> **Note:** Keep in mind that running arguments involving [IP addresses](https://en.wikipedia.org/wiki/IP_address) can cause damage to a member's account, if used improperly. Always proofread sensitive commands prior to execution.
 
  * `/myadmin clearips` - Clears any unused addresses (associated with your name) from your account.
  * `/myadmin clearip <ip>` - Clears a specific address from your account.
