@@ -169,6 +169,27 @@ Keep in mind that misrepresenting your position or authority is considered to be
 
 ---
 
+## Preferences
+Both in-game and on the forum, administrators are given extended preferences; to customise and make optimal their working environment.
+Admin preferences also play a role in the unique identification of our admins.
+
+### In-game customisation
+On the server, a singular range of account-based changes are in the hands of administrators.
+From here, admins can update information on-the-fly and make vital changes to their account ([UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)).
+
+ * `/myadmin [-o <admin>]` - Provides a list of functions. We discourage usage of `[-o]`, a member-emulation ([sudo](https://en.wikipedia.org/wiki/Sudo)) option.
+ 
+#### Command usage
+Keep in mind that running arguments involving [IP addresses](https://en.wikipedia.org/wiki/IP_address) can cause damage to a member's account, if used improperly.
+
+ * `/myadmin clearips` - Clears any unused addresses (associated with your name) from your account.
+ * `/myadmin clearip <ip>` - Clears a specific address from your account.
+
+The following commands utilise [colour codes](https://minecraft.gamepedia.com/Formatting_codes#Color_codes) and are heavily dependant on in-game [formatting](https://minecraft.gamepedia.com/Formatting_codes).
+
+* `/myadmin setlogin <message>` - Applies a custom login message to your account's username.
+* `/myadmin clearlogin` - Restores your username's login message to default.
+
 ## Appointment
 We always keep an eye out for potential administrators as the server grows.
 While there are different ranks of admin, they all have one thing in common and that is to be reliable and helpful.
