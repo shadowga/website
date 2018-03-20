@@ -3,6 +3,8 @@
 }
 .Docs-nav {
   float: left;
+  position: sticky;
+  top: 30px;
   width: 275px;
 }
 .Docs-nav h4 {
