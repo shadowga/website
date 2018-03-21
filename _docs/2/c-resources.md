@@ -133,7 +133,7 @@ They're stationary and operate vertically, making them more suitable for firepla
 
 * `/chimney <tgt | std>` - Creates a chimney particle array.
    <br>
-   The `tgt` option will create an array where you're aiming; `std` will create an array where you're standing.
+   `tgt` creates an array where you're aiming; `std` creates an array where you're standing.
 
 ### Alternate skins
 Members can use another username's skin (in-game appearance) and apply it to their character.
