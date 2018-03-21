@@ -79,6 +79,7 @@
 @include respond-to(handhelds) {
   .Docs-nav {
     float: none;
+    position: static;
     width: auto;
   }
   .Docs article {
