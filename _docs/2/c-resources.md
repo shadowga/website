@@ -18,6 +18,7 @@ Here's a list of trailing slashes you can use:
 
 - [`/schematic/list`](http://b.shadow.ga:27579/schematic/list) - Views a dynamic list of saved WorldEdit schematics.
 - [`/schematic/upload`](http://b.shadow.ga:27579/schematic/upload) - Loads an interface for uploading schematics.
+
 - [`/permbans`](http://b.shadow.ga:27579/permbans) - Views a plain text copy of our `permbans.yml` list. This includes suspended users.
 - [`/players`](http://b.shadow.ga:27579/players) - Views a plain text list of our currently added administrators; sorted by their rank.
 - [`/help`](http://b.shadow.ga:27579/help) - Views a plain text list of every server command, proper usage, and description.
