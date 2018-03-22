@@ -40,11 +40,13 @@ The first three perimeters should be used at all times.
  * `u:<user>` - Specifies a member by their username to rollback.
    <br>
    Instead of a member, you can specify blocks such as water (`u:#water`), lava (`u:#lava`), sand (`u#sand`), or an explosion (`u:#tnt`).
+   
  * `t:<time>` - Specifies the amount of time to roll a person back.
    <br>
    You can specify weeks (example, `t:1w`), days (`t:2d`), hours (`t:4h`), minutes (`t:10m`), or seconds (`t:5s`).
    <br>
    To be even more specific, you can pick time amounts (example, `t:1d4h`) and use decimals (`t:2.50h`).
+   
  * `r:<radius>` - Specifies a radius, used to only rollback blocks near your location.
    <br>
    You can specify a number (example, `r:5`), a world (`r:#flatlands`), or a global rollback (`r:#global`).
@@ -55,11 +57,13 @@ If you want, you can use the latter perimeters to be more specific.
  * `a:[action]` - Restricts the rollback to a certain action.
    <br>
    For example, if you only want to rollback placements, you can use `a:+block`.
+   
  * `b:[blocks]` - Restricts the rollback to certain block types.
    <br>
    For example, if you only want to rollback stone, you can use `b:1`.
    <br>
    You can even specify multiple items, such as `b:1,5,7`.
+   
  * `e:[exclude]` - Excludes certain block types from the rollback.
    <br>
    For example, if you don't want any TNT to come back during a rollback, you can use `e:46`.
@@ -128,6 +132,7 @@ They're given labels for identification.
 #### Command usage
  * `/protectarea add <label> <radius>` - Creates a protected area with label. Max radius is fifty.
  * `/protectarea remove <label>` - Removes a protected area.
+ 
  * `/protectarea list` - Lists all protected areas by their label names.
  
 > **Note:** Similar to schematic names, a protected area created with an identical label will overwrite the pre-existing area. Because of this, use unique label names.
@@ -196,5 +201,6 @@ With Async disabled, edits will be performed without lag prevention.
  
 #### Command usage
  * `/awe toggle` - Without any other arguments, toggles the service on or off.
+ 
  * `/awe toggle on` - Enables the Async service.
  * `/awe toggle off` - Disables the Async service.
