@@ -123,6 +123,7 @@ They're capable of creating and removing sets of stationary particles.
    This command relies on coordinates to determine the location you'd like.
    <br>
    If you'd like the set created at your present location, use `~` to replace `<x>`, `<y>`, and `<z>`.
+
 * `/pp fixed remove <id>` - Removes a set of stationary particles by identification.
    <br>
    You can only remove sets of particles created under your username.
@@ -165,10 +166,14 @@ Spawning too many mobs can lag or crash the server; that can lead to a ban.
 
 > **Note:** Mobs can only be removed from the console, so the only other way to get rid of a mob you've spawned is by killing it.
 
- * `/smob` - With the correct arguments, spawns mobs.
- * `/sm` - An alias of the previous command and serves the same function.
- * `/smob help` - Provides help for functions related to spawning mobs.
- * `/smob list` - Provides a list of mobs you can spawn.
+<ul>
+  <li><code class="highlighter-rouge">/smob</code> - With the correct arguments, spawns mobs.</li>
+  <li><code class="highlighter-rouge">/sm</code> - An alias of the previous command and serves the same function.</li>
+</ul>
+<ul>
+  <li><code class="highlighter-rouge">/smob help</code> - Provides help for functions related to spawning mobs.</li>
+  <li><code class="highlighter-rouge">/smob list</code> - Provides a list of mobs you can spawn.</li>
+</ul>
 
 #### Command usage
 With the proper arguments, you can customise the mobs spawned.
