@@ -130,9 +130,13 @@ They're given labels for identification.
  * `/protectarea` - Provides a list of functions when ran without arguments.
  
 #### Command usage
- * `/protectarea add <label> <radius>` - Creates a protected area with label. Max radius is fifty.
- * `/protectarea remove <label>` - Removes a protected area.
- * `/protectarea list` - Lists all protected areas by their label names.
+<ul>
+  <li><code class="highlighter-rouge">/protectarea add &lt;label&gt; &lt;radius&gt;</code> - Creates a protected area with label. Max radius is fifty.</li>
+  <li><code class="highlighter-rouge">/protectarea remove &lt;label&gt;</code> - Removes a protected area.</li>
+</ul>
+<ul>
+  <li><code class="highlighter-rouge">/protectarea list</code> - Lists all protected areas by their label names.</li>
+</ul>
  
 > **Note:** Similar to schematic names, a protected area created with an identical label will overwrite the pre-existing area. Because of this, use unique label names.
 
