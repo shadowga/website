@@ -20,7 +20,7 @@ We will demonstrate command usage with the alias `/co`, as it is the shortest an
 The inspection tool is a toggleable feature that allows you to click any block and view all previous changes made to that specific location.
 It will show WorldEdit selections, placements, deletions, and even natural changes such as water or an explosion.
 
- * `/co inspect` - Toggles the inspector and can be disabled by typing the command a second time.
+ * `/co inspect` - Toggles the inspector, can be disabled by typing the command a second time.
  * `/co i` - An alias of the previous command and serves the same function.
 
 This tool is mostly used to quickly check for damage such as a deleted build and also displays how long ago a change was made.
@@ -132,7 +132,6 @@ They're given labels for identification.
 #### Command usage
  * `/protectarea add <label> <radius>` - Creates a protected area with label. Max radius is fifty.
  * `/protectarea remove <label>` - Removes a protected area.
- 
  * `/protectarea list` - Lists all protected areas by their label names.
  
 > **Note:** Similar to schematic names, a protected area created with an identical label will overwrite the pre-existing area. Because of this, use unique label names.
