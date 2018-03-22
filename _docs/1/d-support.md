@@ -36,9 +36,9 @@ When given the right information, our Executives can modify accounts and make ch
  * ✉️ [`help@shadow.ga`](mailto:help@shadow.ga) - For general questions and account changes.
  * ✉️ [`urgent@shadow.ga`](mailto:urgent@shadow.ga) - For really important stuff. Please don't abuse this!
 
-If you need to contact the server owner; my Discord (`@irix#5973`) will oblige, or e-mail me.
+If you need to contact the server owner; their Discord (`@irix#5973`) will oblige, or e-mail.
 
- * ✉️ [`ir1x@pm.me`](mailto:ir1x@pm.me) - My own, personal e-mail address.
+ * ✉️ [`ir1x@pm.me`](mailto:ir1x@pm.me) - The owner's personal e-mail address.
 
 Please don't use in-game messaging (`/msg` or `/whisper`) to send confidential content.
 
