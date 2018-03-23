@@ -25,20 +25,28 @@ These worlds will only wipe if they're corrupted and members can build here, jus
 The roughlands includes natural biomes—such as deserts, prairies, and jungles; the netherlands (or [nether world](https://minecraft.gamepedia.com/The_Nether)) and the enderlands (or [end world](https://minecraft.gamepedia.com/The_End)) are also maintained, including the distinctive features of each realm.
 
 #### Command usage
- * `/world <number>` - Teleports a player to the world they specify.
- * `/roughlands` - Teleports a player to the roughlands.
- * `/nether` - Teleports a player to the netherlands.
- * `/ender` - Teleports a player to the enderlands.
+<ul>
+  <li><code class="highlighter-rouge">/world &lt;number&gt;</code> - Teleports a player to the world they specify.</li>
+</ul>
+<ul>
+  <li><code class="highlighter-rouge">/roughlands</code> - Teleports a player to the roughlands.</li>
+  <li><code class="highlighter-rouge">/nether</code> - Teleports a player to the netherlands.</li>
+  <li><code class="highlighter-rouge">/ender</code> - Teleports a player to the enderlands.</li>
+</ul>
  
 The `/world` command's perimeter is required.
  * `<number>` - Specifies a world number. Each number (`0` to `4`) takes you somewhere else.
 
 Here's each number and the world it corresponds to.
- * `0` - To the roughlands. Direct is `/roughlands`.
- * `1` - To the netherlands. Direct is `/nether`.
- * `2` - To the enderlands. Direct is `/ender`.
- * `3` - To the flatlands. Direct is `/flatlands` or `/spawn`.
- * `4` - To the adminworld. Only admins can do this. Direct is `/adminworld` or `/aw`.
+<ul>
+  <li><code class="highlighter-rouge">0</code> - To the roughlands. Direct is <code class="highlighter-rouge">/roughlands</code>.</li>
+  <li><code class="highlighter-rouge">1</code> - To the netherlands. Direct is <code class="highlighter-rouge">/nether</code>.</li>
+  <li><code class="highlighter-rouge">2</code> - To the enderlands. Direct is <code class="highlighter-rouge">/ender</code>.</li>
+</ul>
+<ul>
+  <li><code class="highlighter-rouge">3</code> - To the flatlands. Direct is <code class="highlighter-rouge">/flatlands</code> or <code class="highlighter-rouge">/spawn</code>.</li>
+  <li><code class="highlighter-rouge">4</code> - To the adminworld. Only admins can do this. Direct is <code class="highlighter-rouge">/adminworld</code> or <code class="highlighter-rouge">/aw</code>.</li>
+</ul>
 
 ### Adminworld
 The adminworld is a private world that only Super Admins and above can go in.
@@ -100,10 +108,14 @@ All `/tpa` commands require approval from the second member for your relocation.
  
 The request, sent to another member, can be easily approved or denied with a short response command.
 
- * `/tpaccept` - Accepts an incoming teleportation request.
- * `/tpyes` - An alias of the previous command and serves the same function.
- * `/tpdeny` - Denies an incoming teleportation request.
- * `/tpno` - An alias of the previous command and serves the same function.
+<ul>
+  <li><code class="highlighter-rouge">/tpaccept</code> - Accepts an incoming teleportation request.</li>
+  <li><code class="highlighter-rouge">/tpyes</code> - An alias of the previous command and serves the same function.</li>
+</ul>
+<ul>
+  <li><code class="highlighter-rouge">/tpdeny</code> - Denies an incoming teleportation request.</li>
+  <li><code class="highlighter-rouge">/tpno</code> - An alias of the previous command and serves the same function.</li>
+</ul>
  
 If you'd like to prevent any member from teleporting to you, incoming requests can be disabled.
 
