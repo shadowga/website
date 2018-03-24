@@ -83,8 +83,7 @@ Members can manage settings directly pertinent to their character; such as gamem
 > **Note:** Currently, spectator mode is only available to administrators. This restriction is in place to maintain privacy and prevent unwanted activity.
 
  * `/gamemode <creative | survival | adventure | spectator>` - Sets your gamemode.
- * `/gmc` `/gms` `/gma` `/gmsp` - An alias; sets your gamemode, specifically.
- 
+ * `/gmc` `/gms` `/gma` `/gmsp` - Alias(es); they set your gamemode, specifically.
  * `/heal` - If affected by damage, resets your health and hunger.
  * `/god [on | off]` - Without arguments, toggles damage immunity.
 
