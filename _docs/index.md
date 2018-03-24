@@ -77,6 +77,21 @@ Shop management allows for economy modification and the addition of new coins.
  
 The `all` function will only apply to members that are online; `set` will override pre-existing coins.
 
+### Other commands
+Members can manage settings directly pertinent to their character; such as gamemode and immunity to health-based damage.
+
+> **Note:** Currently, spectator mode is only available to administrators. This restriction is in place to maintain privacy and prevent unwanted activity.
+
+ * `/gamemode <creative | survival | adventure | spectator>` - Sets your gamemode.
+
+ * `/gmc` - Sets your gamemode to creative, specifically.
+ * `/gms` - Sets your gamemode to survival, specifically.
+ * `/gma` - Sets your gamemode to adventure, specifically.
+ * `/gmsp` - Sets your gamemode to spectator, specifically.
+ 
+ * `/heal` - If affected by damage, resets your health and hunger.
+ * `/god [on | off]` - Without arguments, toggles damage immunity.
+
 ## Website
 The website provides fundamentals; such as information, referrals, and resources.
 It's also great to master these tools, and you can start by learning how we commit different sections.
