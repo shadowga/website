@@ -24,7 +24,7 @@ These guidelines reflect the optimal behaviour practiced by example members.
 
  * **Don't be malicious.** [Hacked clients](http://wiki.vg/Client_List) are allowed, but they can't be harmful. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to [malicious](https://en.wikipedia.org/wiki/Malware), pornographic, or [hateful](https://en.wikipedia.org/wiki/Hate_speech) content in chat; and don't solicit illegality.
 
-   Committing rogue activity as an administrator (such as abuse or intently violating the guidelines) will result in a suspension. Don't modify the inventory of others or their `tptoggle` without consent from that member. Attempting to frame people is forbidden. No plagiarism.
+   Committing [rogue](https://www.merriam-webster.com/words-at-play/were-going-rogue) activity as an administrator (such as abuse or intently violating the guidelines) will result in a suspension. Don't modify the inventory of others or their preferences without consent from that member. Attempting to [frame](https://en.wikipedia.org/wiki/Frameup) people is forbidden. No [plagiarism](https://en.wikipedia.org/wiki/Plagiarism).
 
  * **Comply with staff.** You shouldn't try logging in with an alternate account when banned. Evading your ban by using a proxy or virtual private network isn't allowed and can result in a suspension. Don't attempt to undermine administrators.
 
