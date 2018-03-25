@@ -76,7 +76,7 @@ This allows for actual file modification and deletion; while providing updated s
 
 > **Upcoming:** We're in the process of expanding panel-related information, therefore some features may not be present (or documented) at the moment.
 
-The panel is located [here](https://p.shadow.ga/auth/login) (`p.shadow.ga`), however we are not accepting new (non-Executive) accounts at this time.
+The panel is located [here](https://c.shadow.ga/) (`c.shadow.ga`), however we are not accepting new (non-Executive) accounts at this time.
 Executive Admins are given their own account, and [two-factor](https://shadow.ga/docs/2/d-security/#two-factor-authentication) is a necessity.
 
 ## Cosmetics
