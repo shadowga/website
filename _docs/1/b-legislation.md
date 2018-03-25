@@ -14,15 +14,15 @@ If you are caught violating the guidelines, an administrator can take the action
 This portion of our rules focuses on in-game conduct and gameplay etiquette.
 These guidelines reflect the optimal behaviour practiced by example members.
 
- * **Don't harm the server.** Refrain from deliberately lagging or crashing the server. While we have plugins to prevent downtime, massive edits should only be performed with the permission of an administrator. Exploiting said plugins is forbidden.
+ * **Don't harm the server.** Refrain from deliberately [lagging](https://www.spigotmc.org/wiki/lag-types-and-how-to-fix-them/) or [crashing](https://minecraft.gamepedia.com/Crash) the server. While we have plugins to prevent downtime, [massive edits](http://wiki.sk89q.com/wiki/WorldEdit/Region_operations) should only be performed with the permission of an administrator. Exploiting said plugins is forbidden.
 
-   Lag machines will be removed; don't corrupt the game and be distanced from exploitation. Flooding the chat with messages using text, commands, or hacks isn't allowed; spambots will be banned. Advertising isn't allowed in the main chat.
+   Lag machines will be removed; don't [corrupt](https://en.wikipedia.org/wiki/Data_corruption) the game and be distanced from exploitation. [Flooding](https://en.wikipedia.org/wiki/IRC_flood) the chat with messages using text, commands, or hacks isn't allowed; [spambots](https://en.wikipedia.org/wiki/Spambot) will be banned. [Advertising](https://en.wikipedia.org/wiki/Advertising) isn't allowed in the main chat.
 
  * **Don't harm others.** Respect the wishes of other people and their privacy without circumstance. If you think you're annoying someone, it's best to stay away from them and respect their intent. Destroying the builds of others, called griefing, isn't allowed.
 
    Administrators are capable of [rolling back](https://shadow.ga/docs/2/b-management/#rolling-back-a-member) any grief using a block logging tool. Avoid derogatory remarks—comments that are potentially sexist, racist, or intended to offend. Don't use features with the sole purpose of annoying other members.
 
- * **Don't be malicious.** Hacked clients are allowed, but they can't be harmful. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to malicious, pornographic, or hateful content in chat; and don't solicit illegality.
+ * **Don't be malicious.** [Hacked clients](http://wiki.vg/Client_List) are allowed, but they can't be harmful. Using hacks to unfairly fight, compete, or break other rules isn't allowed. Don't refer to [malicious](https://en.wikipedia.org/wiki/Malware), pornographic, or [hateful](https://en.wikipedia.org/wiki/Hate_speech) content in chat; and don't solicit illegality.
 
    Committing rogue activity as an administrator (such as abuse or intently violating the guidelines) will result in a suspension. Don't modify the inventory of others or their `tptoggle` without consent from that member. Attempting to frame people is forbidden. No plagiarism.
 
