@@ -71,7 +71,7 @@ Reporting a member in-game is very simple and requires no additional information
 
 > **Note:** You can't report administrators in-game or members that aren't online; you must know the username of who you're reporting. If this won't do, file an online report instead.
 
- * `/report <user> <reason>` - Files a report. Specifying a username and reason are both required.
+ * `/report <user> <reason>` - Files a report. Specifying a username and reason are required.
 
 ### Online reports
 Online reports will ask the name of whoever's in question, what they did, and why you think they did it.
