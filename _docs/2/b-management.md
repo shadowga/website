@@ -204,6 +204,7 @@ With Async disabled, edits will be performed without lag prevention.
  
 #### Command usage
  * `/awe toggle` - Without any other arguments, toggles the service on or off.
+ * `/awe toggle u:<user>` - Toggles the service (on or off) for a specific member.
  
  * `/awe toggle on` - Enables the Async service.
  * `/awe toggle off` - Disables the Async service.
