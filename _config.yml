@@ -2,8 +2,8 @@ markdown: kramdown
 title: shadow.ga
 email: admin@shadow.ga
 description: "We're an architecture server where everyone gets operator."
-baseurl: "https://shadow.ga"
-url: "https://shadow.ga"
+baseurl: "https://shadowga.github.io/website"
+url: "https://shadowga.github.io/website"
 twitter_username:  shadowgadev
 google_analytics_id: UA-44566935-2
 kramdown:
